@@ -1,0 +1,62 @@
+<div class="card{% if include.active == "false" %} card-collapsed{% endif %}">
+    <div class="card-status bg-{% if include.active == "false" %}grey{% else %}blue{% endif %}"></div>
+    <div class="card-header">
+        <h3 class="card-title">
+            {{ include.title }}
+        </h3>
+        <div class="card-options">
+            <a href="#" class="card-options-collapse" data-toggle="card-collapse">
+                <i class="fe fe-chevron-up"></i>
+            </a>
+            <a href="#" class="card-options-fullscreen" data-toggle="card-fullscreen">
+                <i class="fe fe-maximize"></i>
+            </a>
+        </div>
+    </div>
+    <div class="table-responsive">
+        <table class="table table-hover table-outline table-striped table-vcenter text-nowrap card-table datatable{{ include.id }}">
+            <thead>
+                <tr>
+                    <th>No.</th>
+                    <th>Team</th>
+                    <th>Wins</th>
+                    <th>Draws</th>
+                    <th>Losses</th>
+                    <th>Points</th>
+                    <th>FPL Points</th>
+                </tr>
+            </thead>
+        </table>
+        <script>
+            require(['datatables', 'jquery'], function (datatable, $) {
+                $.fn.dataTable.ext.errMode = 'throw';
+                $('.datatable{{ include.id }}').DataTable({
+                    ajax: "{{ include.ajax }}",
+                    autoWidth: false,
+                    columnDefs: [
+                        {
+                            "className": "text-muted",
+                            targets: 0,
+                        },
+                        {
+                            targets: 1,
+                            render:
+                                function (data, type, row, meta) {
+                                    return (data instanceof Array) ? (data[1] + "<br/><span class=\"text-muted\">" + data[2] + "</span>") : data;
+                                }
+                        }
+                    ],
+                    info: false,
+                    ordering: false,
+                    paging: false,
+                    searching: false
+                });
+            });
+        </script>
+    </div>
+    {% if include.winner %}
+    <div class="card-footer">
+        Winner: {{ include.winner }}
+    </div>
+    {% endif %}
+</div>

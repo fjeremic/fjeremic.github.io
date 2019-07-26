@@ -1,0 +1,34 @@
+<div class="card">
+    <div class="card-status bg-grey"></div>
+    <div class="card-header">
+        <h3 class="card-title">Recent Posts</h3>
+        <div class="card-options">
+            <a href="#" class="card-options-collapse" data-toggle="card-collapse"><i class="fe fe-chevron-up"></i></a>
+        </div>
+    </div>
+    <div class="card-body">
+        {% for post in site.posts offset: 0 limit: 8 %}
+        <div class="media mb-3">
+            <div class="media-object mr-4">
+                {% assign words = post.content | number_of_words %}
+                <div class="chart-circle chart-circle-xs" data-value="{{ words | divided_by:6000.0 }}" data-thickness="4">
+                    <div class="chart-circle-value" style="font-size: 0.7rem">
+                        {% if words < 360 %}
+                            1
+                        {% else %}
+                            {{ words | divided_by:100 }}
+                        {% endif %}
+                        <div>min</div>
+                    </div>
+                </div>
+            </div>
+            <div class="media-body">
+                <h5 class="mb-0">
+                    <a href="{{ post.url }}" class="text-color">{{ post.title }}</a>
+                </h5>
+                <small class="text-muted">{{post.date | date: "%B %d, %Y"}}</small>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

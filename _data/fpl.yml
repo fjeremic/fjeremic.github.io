@@ -1,0 +1,103 @@
+classic:
+  name: Classic League
+  standings: https://fantasy.premierleague.com/leagues/94772/standings/c
+  join-code: hmps25
+  join-deadline: 2:00 p.m. EST (UTC-05:00) Friday August 9th, 2019
+  payment:
+    -
+      team: JFC
+      manager: Filip Jeremic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: 
+      manager: Danijel Avlijas
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: 
+      manager: Ivan Jeremic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Gangster's Allardyce
+      manager: Marko Cholich
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: FC Puhăceni
+      manager: Anton Chetrar
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Delije United
+      manager: Arandjel Djuric
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: 
+      manager: Branko Oluic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: fk
+      manager: D Lukic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+
+h2h:
+  name: Head-To-Head League
+  standings: https://fantasy.premierleague.com/leagues/94790/standings/h
+  join-code: ck3668
+  join-deadline: 2:00 p.m. EST (UTC-05:00) Friday August 9th, 2019
+  payment:
+    -
+      team: JFC
+      manager: Filip Jeremic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: 
+      manager: Danijel Avlijas
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: 
+      manager: Ivan Jeremic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Gangster's Allardyce
+      manager: Marko Cholich
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: FC Puhăceni
+      manager: Anton Chetrar
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: 
+      manager: Branko Oluic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: fk
+      manager: D Lukic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success

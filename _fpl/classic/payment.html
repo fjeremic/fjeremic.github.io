@@ -1,0 +1,63 @@
+---
+layout: fpl
+title: Payment
+icon: fe fe-dollar-sign
+order: 2
+category: classic
+---
+
+<div class="alert alert-info">
+    Code to join this league:
+    <strong>
+        <a href="https://fantasy.premierleague.com/leagues/join/private">
+            {{ site.data.fpl[page.category].join-code }}
+        </a>
+    </strong>
+</div>
+
+Payments can only be made via <a href="https://interac.ca/en/interac-e-transfer-consumer.html">Interac
+    e-Transfer</a> to <a href="mailto:{{ site.website.author.email }}">{{ site.website.author.email }}</a>. Please
+send the amount due listed below by {{ site.data.fpl[page.category].join-deadline }} and include your Team name and
+Manager name in the description of the Interac e-Transfer so that the payment list below can be updated.
+
+<div class="alert alert-warning alert-dismissible mt-4 mb-4">
+    <button data-dismiss="alert" class="close"></button>
+    <h4>Payment due date</h4>
+    <p>
+        Payments are due by {{ site.data.fpl[page.category].join-deadline }} or you risk eviction from the league.
+    </p>
+</div>
+
+<div class="table-responsive">
+    <table class="table text-nowrap table-vcenter datatable mt-4 mb-4">
+        <thead class="thead-light">
+            <tr>
+                <th>Team</th>
+                <th>Manager</th>
+                <th>Amount Due</th>
+                <th>Paid</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for player in site.data.fpl.classic.payment %}
+            <tr>
+                <td><a href="#" class="text-inherit">{{ player.team }}</a></td>
+                <td>{{ player.manager }}</td>
+                <td>{{ player.amount_due }}</td>
+                <td>
+                    <span class="status-icon bg-{{ player.payment_status-bg }}"></span> {{ player.payment_status }}
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <script>
+        require(['datatables', 'jquery'], function (datatable, $) {
+            $('.datatable').DataTable({
+                paging: false,
+                searching: false,
+                "order": [[3, 'asc']]
+            });
+        });
+    </script>
+</div>

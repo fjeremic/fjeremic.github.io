@@ -1,0 +1,9 @@
+{
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "html.format.endWithNewline": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.wrapLineLength": 0,
+    "html.format.maxPreserveNewLines": 1
+}

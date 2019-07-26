@@ -1,0 +1,92 @@
+---
+layout: default
+title: About
+menu: index
+---
+<div class="container">
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="card card-profile">
+                <div class="card-header" style="background-image: url({{ site.website.background }});"></div>
+                <div class="card-body text-center">
+                    <img class="card-profile-img" src="{{ site.website.author.email | gravatar }}?s=100">
+
+                    <h3 class="m-0">{{ site.website.author.name }} </h3>
+                    <p class="text-muted mb-0">{{ site.website.author.title }}</p>
+
+                    <div class="row mt-2 no-gutters">
+                        <div class="col-sm-4 p-1">
+                            <a class="btn btn-outline-primary btn-sm btn-block" href="{{ site.website.author.github }}">
+                                <span class="fa fa-github"></span> GitHub
+                            </a>
+                        </div>
+                        <div class="col-sm-4 p-1">
+                            <a class="btn btn-outline-primary btn-sm btn-block" href="{{ site.website.author.linkedin }}">
+                                <span class="fa fa-linkedin"></span> LinkedIn
+                            </a>
+                        </div>
+                        <div class="col-sm-4 p-1">
+                            <a class="btn btn-outline-primary btn-sm btn-block" href="mailto:{{ site.website.author.email }}">
+                                <span class="fa fa-envelope"></span> Email
+                            </a>
+                        </div>
+                    </div>
+
+                    <p class="mt-4">
+                        Contact: <a href="mailto:{{ site.website.author.email }}">{{ site.website.author.email }}</a>
+                    </p>
+                </div>
+            </div>
+
+
+            {% include cards/recent-posts.html %}
+        </div>
+
+        <div class="col-lg-8">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="m-0">About Me</h3>
+                </div>
+                <ul class="list-group card-list-group">
+                    <li class="list-group-item py-5">
+                        <div class="media">
+                            <div class="media-body">
+                                <p>
+                                    Hi, I'm Filip. I'm a just-in-time (JIT) compiler developer based in Toronto, Canada. I'm currently
+                                    working for <a href="https://www.ibm.com/ibm/ca/en/">IBM Canada</a> on 
+                                    <a href="https://github.com/eclipse/openj9">Eclipse OpenJ9</a> and 
+                                    <a href="https://github.com/eclipse/omr">Eclipse OMR</a> projects.
+                                </p>
+
+                                <p>
+                                    My passion is system's level programming and in particular compiler development (static and
+                                    dynamic), programming languages (design and implementation), parallelization, computer graphics,
+                                    software protection, reverse engineering, malware analysis, and cryptography.
+                                </p>
+
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+                <div class="card-footer">
+                    <ul>
+                        <li><a href="https://www.mcmaster.ca/">McMaster University</a> - M.Eng., Computer Science</li>
+                        <li><a href="https://www.mcmaster.ca/">McMaster University</a> - B.Sc., Honours Mathematics and Computer Science</li>
+                        <li><a href="Filip-Jeremic-Resume.pdf">Resume (PDF)</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="m-0">Featured Projects</h3>
+                </div>
+            </div>
+
+            <div class="card-deck">
+                {% include cards/projects/eclipse-openj9.html %}
+                {% include cards/projects/eclipse-omr.html %}
+            </div>
+        </div>
+    </div>
+</div>

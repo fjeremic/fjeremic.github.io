@@ -1,0 +1,44 @@
+---
+layout: default
+menu: fpl
+---
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-3 order-lg-1 mb-4">
+            <div class="list-group list-group-transparent mb-0">
+                {% assign categories = site.fpl | group_by: 'category' %}
+                {% for category in categories %}
+                    {% if category.name != '' %}
+                        <a href="{{ site.data.fpl[category.name].standings }}" class="btn btn-block btn-primary mb-2 text-left">
+                            <i class="fe fe-external-link mr-2"></i>{{ site.data.fpl[category.name].name }}
+                        </a>
+                        {% assign items = category.items | sort: 'order' %}
+                        {% for item in items %}
+                            <a href="{{ item.url }}" class="list-group-item list-group-item-action{% if page.url == item.url %} active z-index:2{% endif %}">
+                                <span class="icon mr-3"><i class="{{ item.icon }}"></i></span>{{ item.title }}
+                            </a>
+                        {% endfor %}
+                        <div class="mb-6"></div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+        <div class="col-lg-9">
+            {% if page.naked %}
+                {{ content }}
+            {% else %}
+            <div class="card">
+                <div class="card-body">
+                    <div class="text-wrap p-lg-6">
+                        <h2 class="mt-0 mb-4">
+                            {{ page.title }}
+                        </h2>
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
