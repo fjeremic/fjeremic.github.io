@@ -32,7 +32,6 @@ GEM
     jekyll-category-pages (1.0.1)
       jekyll (~> 3.5)
       jekyll-paginate (~> 1.1, >= 1.0.0)
-    jekyll-gravatar (0.1.0)
     jekyll-paginate (1.1.0)
     jekyll-random (0.0.3)
       jekyll (~> 3.3)
@@ -72,8 +71,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll!
   jekyll-category-pages!
-  jekyll-gravatar!
   jekyll-paginate!
   jekyll-random!
   jekyll-redirect-from!
