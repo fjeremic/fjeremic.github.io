@@ -5,7 +5,7 @@ var gulp = require('gulp'),
     sass = require('gulp-sass'),
 
 gulp.task('styles', function () {
-    return gulp.src('/assets/scss/bundle.scss', { base: '.' })
+    return gulp.src('assets/scss/bundle.scss', { base: '.' })
         .pipe(sass({
             precision: 8,
             outputStyle: 'expanded'
@@ -15,11 +15,11 @@ gulp.task('styles', function () {
             cascade: false
         }))
         .pipe(rename('dashboard.css'))
-        .pipe(gulp.dest('/assets/css/'));
+        .pipe(gulp.dest('assets/css/'));
 });
 
 gulp.task('styles-plugins', function () {
-    return gulp.src('/assets/plugins/**/plugin.scss', { base: '.' })
+    return gulp.src('assets/plugins/**/plugin.scss', { base: '.' })
         .pipe(sass({
             precision: 6,
             outputStyle: 'expanded'
@@ -35,8 +35,8 @@ gulp.task('styles-plugins', function () {
 });
 
 gulp.task('watch', ['styles', 'styles-plugins'], function() {
-    gulp.watch('/assets/scss/**/*.scss', ['styles']);
-    gulp.watch('/assets/plugins/**/*.scss', ['styles-plugins']);
+    gulp.watch('assets/scss/**/*.scss', ['styles']);
+    gulp.watch('assets/plugins/**/*.scss', ['styles-plugins']);
 });
 
 gulp.task('build', ['styles', 'styles-plugins']);
