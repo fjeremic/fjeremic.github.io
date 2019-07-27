@@ -25,7 +25,7 @@
         "gulp-watch": "gulp watch",
         "jekyll-serve": "JEKYLL_ENV=production jekyll serve --livereload",
         "jekyll-watch": "JEKYLL_ENV=production jekyll build --watch",
-        "publish": "gulp build && JEKYLL_ENV=production jekyll build --destination publish",
+        "publish": "gulp build && JEKYLL_ENV=production jekyll build",
         "serve": "gulp build && npm-run-all --parallel gulp-watch jekyll-serve",
         "watch": "gulp build && npm-run-all --parallel gulp-watch jekyll-watch"
     }
