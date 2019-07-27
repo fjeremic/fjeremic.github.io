@@ -3,11 +3,7 @@ require 'digest/md5'
 module Jekyll
   module GravatarFilter
     def gravatar(input)
-      "http://www.gravatar.com/avatar/#{hash(input)}"
-    end
-
-    def secure_gravatar(input)
-      "https://secure.gravatar.com/avatar/#{hash(input)}"
+      "https://www.gravatar.com/avatar/#{hash(input)}"
     end
 
     private :hash
