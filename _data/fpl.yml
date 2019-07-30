@@ -11,14 +11,14 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
-      team: 
-      manager: Danijel Avlijas
+      team: THE LAW!
+      manager: Manchester United
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
     -
-      team: 
-      manager: Ivan Jeremic
+      team: Forever 4th
+      manager: Ivan J
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
@@ -52,6 +52,12 @@ classic:
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
+    -
+      team: Van Der Trt Mrt FC
+      manager: Goran Lakic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
 
 h2h:
   name: Head-To-Head League
@@ -66,14 +72,14 @@ h2h:
       payment_status: Paid
       payment_status-bg: success
     -
-      team: 
-      manager: Danijel Avlijas
+      team: THE LAW!
+      manager: Manchester United
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
     -
-      team: 
-      manager: Ivan Jeremic
+      team: Forever 4th
+      manager: Ivan J
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
@@ -98,6 +104,12 @@ h2h:
     -
       team: fk
       manager: D Lukic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Van Der Trt Mrt FC
+      manager: Goran Lakic
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
