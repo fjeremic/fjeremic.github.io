@@ -41,7 +41,7 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
-      team: 
+      team: FC BANE
       manager: Branko Oluic
       amount_due: $100
       payment_status: Paid
@@ -98,32 +98,44 @@ classic:
       team: Miyamoto Musashi
       manager: Nebojsa Milosevic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Fk Viktorious
       manager: Juka Alimanovic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Lucic
       manager: Mladen Lucic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Milisic fc
       manager: Petar Milisic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Deekay
       manager: Dee Kay
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: CrnaGoraPobeditiMora
+      manager: Zoran Crnogorac
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Boki
+      manager: Bojan Samardzija
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
 
 h2h:
   name: Head-To-Head League
@@ -162,7 +174,7 @@ h2h:
       payment_status: Paid
       payment_status-bg: success
     -
-      team: 
+      team: FC BANE
       manager: Branko Oluic
       amount_due: $100
       payment_status: Paid
@@ -195,23 +207,23 @@ h2h:
       team: Deekay
       manager: Dee Kay
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Lucic
       manager: Mladen Lucic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Miyamoto Musashi
       manager: Nebojsa Milosevic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Fk Viktorious
       manager: Juka Alimanovic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
