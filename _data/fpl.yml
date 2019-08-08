@@ -12,7 +12,7 @@ classic:
       payment_status-bg: success
     -
       team: THE LAW!
-      manager: Manchester United
+      manager: Danijel Man U
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
@@ -77,8 +77,8 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
-      team: 
-      manager: Djordje Cupac
+      team: FK Kajmak 
+      manager: Đorđe C
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
@@ -94,6 +94,36 @@ classic:
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
+    -
+      team: Miyamoto Musashi
+      manager: Nebojsa Milosevic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Fk Viktorious
+      manager: Juka Alimanovic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Lucic
+      manager: Mladen Lucic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Milisic fc
+      manager: Petar Milisic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Deekay
+      manager: Dee Kay
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
 
 h2h:
   name: Head-To-Head League
@@ -156,8 +186,32 @@ h2h:
       payment_status: Paid
       payment_status-bg: success
     -
-      team: 
-      manager: Djordje Cupac
+      team: FK Kajmak
+      manager: Đorđe C
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
+    -
+      team: Deekay
+      manager: Dee Kay
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Lucic
+      manager: Mladen Lucic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Miyamoto Musashi
+      manager: Nebojsa Milosevic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Fk Viktorious
+      manager: Juka Alimanovic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
