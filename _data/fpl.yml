@@ -64,6 +64,36 @@ classic:
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
+    -
+      team: QAim UTD
+      manager: Igor Miksa
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: RAG_CITY
+      manager: Xavier Ragusich
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: 
+      manager: Djordje Cupac
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: FK Panic
+      manager: Stefan Panic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Flying Donkeys
+      manager: Djordje Railic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
 
 h2h:
   name: Head-To-Head League
@@ -122,6 +152,12 @@ h2h:
     -
       team: Delije United
       manager: Arandjel Djuric
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: 
+      manager: Djordje Cupac
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
