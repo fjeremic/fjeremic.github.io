@@ -1,229 +1,25 @@
 classic:
   name: Classic League
-  standings: https://fantasy.premierleague.com/leagues/94772/standings/c
-  join-code: hmps25
-  join-deadline: 2:00 p.m. EST (UTC-05:00) Friday August 9th, 2019
+  standings: https://fantasy.premierleague.com/leagues/147983/standings/c
+  join-code: 1llq73
+  join-deadline: 8:00 p.m. EST Friday September 11th, 2020
   payment:
     -
       team: JFC
       manager: Filip Jeremic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: THE LAW!
-      manager: Danijel Man U
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Forever 4th
-      manager: Ivan J
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Gangster's Allardyce
-      manager: Marko Cholich
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: FC Puhăceni
-      manager: Anton Chetrar
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Delije United
-      manager: Arandjel Djuric
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: FC BANE
-      manager: Branko Oluic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: fk
-      manager: D Lukic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Van Der Trt Mrt FC
-      manager: Goran Lakic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Smoke City FC
-      manager: Ivan Vojinovic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: QAim UTD
-      manager: Igor Miksa
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: RAG_CITY
-      manager: Xavier Ragusich
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: FK Kajmak 
-      manager: Đorđe C
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: FK Panic
-      manager: Stefan Panic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Flying Donkeys
-      manager: Djordje Railic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Miyamoto Musashi
-      manager: Nebojsa Milosevic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Fk Viktorious
-      manager: Juka Alimanovic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Lucic
-      manager: Mladen Lucic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Milisic fc
-      manager: Petar Milisic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Deekay
-      manager: Dee Kay
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: CrnaGoraPobeditiMora
-      manager: Zoran Crnogorac
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Boki
-      manager: Bojan Samardzija
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
 
 h2h:
   name: Head-To-Head League
-  standings: https://fantasy.premierleague.com/leagues/94790/standings/h
-  join-code: ck3668
-  join-deadline: 2:00 p.m. EST (UTC-05:00) Friday August 9th, 2019
+  standings: https://fantasy.premierleague.com/leagues/147997/standings/h
+  join-code: uj4ue1
+  join-deadline: 8:00 p.m. EST Friday September 11th, 2020
   payment:
     -
       team: JFC
       manager: Filip Jeremic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: THE LAW!
-      manager: Manchester United
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Forever 4th
-      manager: Ivan J
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Gangster's Allardyce
-      manager: Marko Cholich
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: FC Puhăceni
-      manager: Anton Chetrar
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: FC BANE
-      manager: Branko Oluic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: fk
-      manager: D Lukic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Van Der Trt Mrt FC
-      manager: Goran Lakic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Delije United
-      manager: Arandjel Djuric
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: FK Kajmak
-      manager: Đorđe C
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Deekay
-      manager: Dee Kay
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Lucic
-      manager: Mladen Lucic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Miyamoto Musashi
-      manager: Nebojsa Milosevic
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: Fk Viktorious
-      manager: Juka Alimanovic
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success

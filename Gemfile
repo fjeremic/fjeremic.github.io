@@ -5,4 +5,5 @@ source 'https://rubygems.org' do
   gem 'jekyll-tidy'
   gem 'jekyll-redirect-from'
   gem 'jekyll-random'
+  gem 'kramdown-parser-gfm'
 end
