@@ -11,8 +11,44 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
-      team: 
-      manager: Igor Miksa
+      team: Fc Becmen
+      manager: Uros Vidovic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: FC HERCEGOVINA
+      manager: Goran Radovic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Sporting Abeergut
+      manager: Mirko Misic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: MILISIC FC
+      manager: Petar Milisic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: MANCHESTER OF BANE
+      manager: Branko Oluic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: FC Puhăceni
+      manager: Anton Chetrar
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Show me the Manè
+      manager: Igor M.
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
@@ -68,8 +104,8 @@ classic:
       team: Winnin-the-poo
       manager: D Lukic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: BronxRu's Crew
       manager: Branko Rusic
@@ -80,8 +116,8 @@ classic:
       team: Fk Vikdam
       manager: Juka Alimanovic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Eze Mané
       manager: Ivan Vojinovic
@@ -156,6 +192,42 @@ h2h:
       payment_status: Paid
       payment_status-bg: success
     -
+      team: Sporting Abeergut
+      manager: Mirko Misic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: MILISIC FC
+      manager: Petar Milisic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Zigilibigonglice
+      manager: Bojan Samardzija
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: MANCHESTER OF BANE
+      manager: Branko Oluic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: FC Puhăceni
+      manager: Anton Chetrar
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Eze Mané
+      manager: Ivan Vojinovic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
       team: BMA
       manager: Danijel Man U
       amount_due: $100
@@ -171,14 +243,14 @@ h2h:
       team: Winnin-the-poo
       manager: D Lukic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Fk Vikdam
       manager: Juka Alimanovic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Gangster’s Allardyce
       manager: Marko Cholich
