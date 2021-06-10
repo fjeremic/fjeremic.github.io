@@ -30,7 +30,7 @@ graphics, software protection, reverse engineering, malware analysis, and crypto
 
 \section{\sc Technical \newline Skills}
 
-{\bf x86/x86-64 Assembly, z/Architecture Assembly, C, C++, C\#, Java} \\
+{\bf C, C++, x86-64 Assembly, z/Architecture Assembly, C\#, Java} \\
 {\em Expert, 10+ years}
 
 These technologies are the ones which I have used the most over the years. Because of my field of interest, low level
@@ -38,16 +38,16 @@ programming languages such as various flavors of assembly, C, and C++ have been 
 Working on a just-in-time (JIT) compiler for Java has made me deeply familiar with these languages both
 from the angle of software engineering and performance optimization.
 
-{\bf Linux, Windows, z/OS, Unix tools } \\
-{\em Advanced, 5+ years}
+{\bf Linux, Unix tools, Windows, z/OS } \\
+{\em Advanced, 8+ years}
 
-My primary development platforms are Linux and Windows. Most of my current work involves development on non-desktop
+My primary development platforms is Linux. Most of my current work involves development on non-desktop
 architectures so working on a remote machine via SSH is second nature to me. I am very comfortable within a Unix
-environment carrying out tasks such as instruction level performance investigations, assembly level debugging, and
-remote development using the technologies listed above.
+environment carrying out tasks such as instruction level performance investigations (perf), assembly level debugging 
+(gdb, IDA, Ollydgb, etc.), and remote development using the technologies listed above.
 
-{\bf Docker, Jenkins, CMake, Bash, Python, JavaScript, Perl, HTML, WPF, UWP } \\
-{\em Experienced, 3+ years}
+{\bf Docker, Jenkins, CMake, Bash, Qt, Python, JavaScript, Perl, HTML, WPF, UWP } \\
+{\em Experienced, 4+ years}
 
 These technologies I have used in various ways to aid in my work, however they are not my primary tools and I do not
 consider myself an expert in any of them. However, I feel that I am proficient in all of them and often use them to my
@@ -64,7 +64,10 @@ technology I had been working on for several years. During this exciting time we
 technology as part of the \href{https://github.com/eclipse/openj9}{Eclipse OpenJ9} and 
 \href{https://github.com/eclipse/omr}{Eclipse OMR} projects at GitHub. As the open source communities grew, my role has
 been evolving into being one of the focal points for cross-platform backend JIT development and community management
-withing the realms of my expertise.
+within the realms of my expertise. I am currently the top code \href{https://github.com/eclipse/omr/graphs/contributors}
+{contributor} across both projects as per the GitHub statistics and am heavily involved in 
+\href{https://github.com/eclipse/omr/pulls?q=is%3Apr+sort%3Aupdated-desc+reviewed-by%3Afjeremic+is%3Aclosed+}{reviewing} 
+others' contributions toboth projects.
 
 {\em Compiler development - Staff Software Engineer} \hfill {\bf 2015 - 2017}
 \vspace{-.12in}
@@ -73,7 +76,7 @@ An extension of my previous role with a broader focus primarily on performance a
 and z/OS. Among development items this role involved instruction level profiling of Java applications and identifying
 bottlenecks which can be optimized in the JIT compiler. The performance investigation is done at an instruction level
 but common intermediate language (IL) level optimizations were developed as part of the experimentation such that all
-supported backends (x86, Power, z/Architecture, ARM, AArch64) can benefit.
+supported backends (x86, Power, z/Architecture, ARM, AArch64, RISC-V) can benefit.
 
 \newpage
 
@@ -105,7 +108,9 @@ environment (VM, GC, JIT), particularly in the context of a JVM
 \section{\sc Patents}
 
 \begin{list}{\labelitemi}{\leftmargin=0cm}
-\item \href{https://patents.google.com/patent/US10002010B2}{Patent No. US10002010 B2} \hfill {\bf Issued 2018-06-19}
+\item {\em \bf Multi-byte compressed string representation}
+
+\href{https://patents.google.com/patent/US10002010B2}{Patent No. US10002010B2} \hfill {\bf Issued 2018-06-19}
 
 Multi-byte compressed string representation embodiments define a String class control field identifying compression as
 enabled/disabled, and another control field, identifying a decompressed string created when compression enabled. Tests
@@ -117,6 +122,20 @@ overwriting all nopable patch points. A String object sign bit is set to one for
 enabled, and masking/testing this flag bit is noped. Alternative package protected string constructors and operations
 are provided. A predetermined location is checked to determine whether supplied arguments to a String class constructor
 are compressible is performed.
+
+\item {\em \bf Object load introspection using guarded storage} 
+
+\href{https://patents.google.com/patent/US20200218651A1}{Patent No. US20200218651A1} \hfill {\bf Issued 2020-07-09}
+
+Systems and methods for object load introspection using guarded storage are disclosed. In embodiments, a computer-
+implemented method includes: determining objects of interest designated by a user; splitting a first subset of a predetermined 
+memory heap into guarded regions based on a number of objects of interest; allocating each of the objects of interest to a 
+respective one of the guarded regions and remaining objects to a second subset of the predetermined memory heap; executing 
+a program; detecting one of the objects of interest is loaded from one of the guarded regions; generating a trap that transfers 
+control of the executing the program to a signal handler, wherein the signal handler is designated to perform a user-defined 
+task associated with the one of the objects of interest; and executing, by the signal handler of the computing device, the user-
+defined task.
+
 \end{list}
 
 \section{\sc Publications}
