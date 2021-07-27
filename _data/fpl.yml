@@ -2,7 +2,7 @@ classic:
   name: Classic League
   standings: https://fantasy.premierleague.com/leagues/147983/standings/c
   join-code: 1llq73
-  join-deadline: 8:00 p.m. EST Friday September 11th, 2020
+  join-deadline: 8:00 p.m. EST Friday August 12th, 2021
   payment:
     -
       team: JFC
@@ -183,7 +183,7 @@ h2h:
   name: Head-To-Head League
   standings: https://fantasy.premierleague.com/leagues/147997/standings/h
   join-code: uj4ue1
-  join-deadline: 8:00 p.m. EST Friday September 11th, 2020
+  join-deadline: 8:00 p.m. EST Friday August 12th, 2021
   payment:
     -
       team: JFC
@@ -290,6 +290,19 @@ h2h:
     -
       team: Ko Je Poceo Rat
       manager: Mladen Lucic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+
+lms:
+  name: Last Man Standing League
+  standings: https://fantasy.premierleague.com/leagues/147997/standings/h
+  join-code: uj4ue1
+  join-deadline: 8:00 p.m. EST Friday August 12th, 2021
+  payment:
+    -
+      team: JFC
+      manager: Filip Jeremic
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
