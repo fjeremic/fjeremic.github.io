@@ -1,6 +1,6 @@
 classic:
   name: Classic League
-  standings: https://fantasy.premierleague.com/leagues/147983/standings/c
+  standings: https://fantasy.premierleague.com/leagues/367367/standings/c
   join-code: 4h937h
   join-deadline: 8:00 p.m. EST Friday August 12th, 2021
   payment:
@@ -13,7 +13,7 @@ classic:
 
 h2h:
   name: Head-To-Head League
-  standings: https://fantasy.premierleague.com/leagues/147997/standings/h
+  standings: https://fantasy.premierleague.com/leagues/367286/standings/h
   join-code: lscx67
   join-deadline: 8:00 p.m. EST Friday August 12th, 2021
   payment:
@@ -26,7 +26,7 @@ h2h:
 
 lms:
   name: Last Man Standing League
-  standings: https://fantasy.premierleague.com/leagues/147997/standings/h
+  standings: https://fantasy.premierleague.com/leagues/367339/standings/c
   join-code: hsa9eg
   join-deadline: 8:00 p.m. EST Friday August 12th, 2021
   payment:
