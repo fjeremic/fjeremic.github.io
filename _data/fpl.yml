@@ -207,48 +207,48 @@ lms:
     -
       team: Diogen Lukic
       manager: All-I-Do-Is-Win
-      amount_due: $100
+      amount_due: $50
       payment_status: Paid
       payment_status-bg: success
     -
       team: JFC
       manager: Filip Jeremic
-      amount_due: $100
+      amount_due: $50
       payment_status: Paid
       payment_status-bg: success
     -
       team: Goran Lakic
       manager: FK Tata Mata
-      amount_due: $100
+      amount_due: $50
       payment_status: Paid
       payment_status-bg: success
     -
       team: Unvaccinated fc 
       manager: Petar Milisic
-      amount_due: $100
+      amount_due: $50
       payment_status: Paid
       payment_status-bg: success
     -
       team: Five-0
       manager: Danijel Avlijas
-      amount_due: $100
+      amount_due: $50
       payment_status: Paid
       payment_status-bg: success
     -
       team: FK Vikdam
       manager: Juka Alimanovic
-      amount_due: $100
+      amount_due: $50
       payment_status: Paid
       payment_status-bg: success
     -
       team: Not playin next year
       manager: Ivan Jeremic
-      amount_due: $100
+      amount_due: $50
       payment_status: Payment Due
       payment_status-bg: red
     -
       team: Top 11
       manager: Nebojsa Milosevic
-      amount_due: $100
+      amount_due: $50
       payment_status: Payment Due
       payment_status-bg: red
