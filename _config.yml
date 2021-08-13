@@ -43,6 +43,9 @@ exclude:
   - README.md
   - res.cls
 
+include:
+  - _redirects
+
 # Plugin configurations
 plugins:
   - jekyll-category-pages
