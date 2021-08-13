@@ -6,7 +6,7 @@ classic:
   payment:
     -
       team: Diogen Lukic
-      manager: All-I-Do-Is-Win
+      manager: 1 Hit Wonder
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
@@ -23,7 +23,7 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
-      team: 
+      team: Puhaceni FC
       manager: Anton Chetrar
       amount_due: $100
       payment_status: Paid
@@ -38,16 +38,16 @@ classic:
       team: Top 11
       manager: Nebojsa Milosevic
       amount_due: $100
-      payment_status: Payment Due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Not playin next year
       manager: Ivan Jeremic
       amount_due: $100
-      payment_status: Payment Due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
-      team: 
+      team: Ko Je poceo Rat
       manager: Mladen Lucic 
       amount_due: $100
       payment_status: Paid
@@ -77,7 +77,7 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
-      team: 
+      team: The Recuscitators
       manager: Tanja Avlijas
       amount_due: $100
       payment_status: Paid
@@ -98,8 +98,135 @@ classic:
       team: Leones Vegetarianos
       manager: Djordje Cupac
       amount_due: $100
-      payment_status: Payment Due
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Dragan’s Dalmatians
+      manager: Dragan Mijakovac
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Quaranteam
+      manager: Ilija Milisic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Tika Taka
+      manager: Zoran Crnogorac
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: GOAT
+      manager: Branko Oluic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Lola FC
+      manager: Bojan Samardzija
+      amount_due: $100
+      payment_status: Payment due
       payment_status-bg: red
+    -
+      team: Hasta Luego
+      manager: Danijel Lukic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: FK Panic
+      manager: Stefan Panic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: FC Pimpek
+      manager: Goran Radovic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Riski Business
+      manager: Boris Pecek
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Fanatik1976
+      manager: Adrian Polgar
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Sir Tommy
+      manager: Miloš Podgorac 
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Here for the Beer
+      manager: Mirko Misic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: T
+      manager: Todor Beric 
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Bobi Vieri
+      manager: Rade Cvijanovic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Robarn
+      manager: Sophie Desjardins (Robert)
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Bronx Tale
+      manager: Branko Rusic 
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Horseshoe v3
+      manager: Velimir Lazarevic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Daddy’z Boyz
+      manager: Jakub Kicinski
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Out to get ya
+      manager: Dejana Lucic 
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Gigo
+      manager: Ilija Stanic 
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Riski Business
+      manager: Boris Stojkovic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+
 
 h2h:
   name: Head-To-Head League
@@ -126,7 +253,7 @@ h2h:
       payment_status: Paid
       payment_status-bg: success
     -
-      team: 
+      team: Puhaceni FC
       manager: Anton Chetrar
       amount_due: $100
       payment_status: Paid
@@ -141,16 +268,16 @@ h2h:
       team: Top 11
       manager: Nebojsa Milosevic
       amount_due: $100
-      payment_status: Payment Due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Not playin next year
       manager: Ivan Jeremic
       amount_due: $100
-      payment_status: Payment Due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
-      team: 
+      team: Ko Je poceo Rat
       manager: Mladen Lucic 
       amount_due: $100
       payment_status: Paid
@@ -195,8 +322,38 @@ h2h:
       team: Leones Vegetarianos
       manager: Djordje Cupac
       amount_due: $100
-      payment_status: Payment Due
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Quaranteam
+      manager: Ilija Milisic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: GOAT
+      manager: Branko Oluic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Lola FC
+      manager: Bojan Samardzija
+      amount_due: $100
+      payment_status: Payment due
       payment_status-bg: red
+    -
+      team: Hasta Luego
+      manager: Danijel Lukic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Here for the Beer
+      manager: Mirko Misic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
 
 lms:
   name: Last Man Standing League
@@ -244,11 +401,65 @@ lms:
       team: Not playin next year
       manager: Ivan Jeremic
       amount_due: $50
-      payment_status: Payment Due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Top 11
       manager: Nebojsa Milosevic
       amount_due: $50
-      payment_status: Payment Due
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Quaranteam
+      manager: Ilija Milisic
+      amount_due: $50
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Tika Taka
+      manager: Zoran Crnogorac
+      amount_due: $50
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: GOAT
+      manager: Branko Oluic
+      amount_due: $50
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Lola FC
+      manager: Bojan Samardzija
+      amount_due: $100
+      payment_status: Payment due
       payment_status-bg: red
+    -
+      team: Hasta Luego
+      manager: Danijel Lukic
+      amount_due: $50
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: FC Pimpek
+      manager: Goran Radovic
+      amount_due: $50
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: FC Pimpek
+      manager: Goran Radovic
+      amount_due: $50
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Here for the Beer
+      manager: Mirko Misic
+      amount_due: $50
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: T
+      manager: Todor Beric 
+      amount_due: $50
+      payment_status: Paid
+      payment_status-bg: success
