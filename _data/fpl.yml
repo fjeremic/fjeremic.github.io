@@ -128,8 +128,8 @@ classic:
       team: Lola FC
       manager: Bojan Samardzija
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Hasta Luego
       manager: Danijel Lukic
@@ -182,8 +182,8 @@ classic:
       team: Bobi Vieri
       manager: Rade Cvijanovic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Robarn
       manager: Sophie Desjardins (Robert)
@@ -218,8 +218,8 @@ classic:
       team: Gigo
       manager: Ilija Stanic 
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Riski Business
       manager: Boris Stojkovic
@@ -340,8 +340,8 @@ h2h:
       team: Lola FC
       manager: Bojan Samardzija
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Hasta Luego
       manager: Danijel Lukic
@@ -431,8 +431,8 @@ lms:
       team: Lola FC
       manager: Bojan Samardzija
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Hasta Luego
       manager: Danijel Lukic
