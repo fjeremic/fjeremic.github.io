@@ -1,0 +1,100 @@
+# The theme colour scheme to use
+colorScheme = "Ocean"
+
+# The default theme appearance, either light or dark
+defaultAppearance = "light"
+
+# Whether the theme appearance automatically switches based upon the visitor’s operating system preference
+autoSwitchAppearance = true
+
+# Whether or not to show the appearance switcher in the site footer
+showAppearanceSwitcher = true
+
+# Whether site search is enabled
+enableSearch = true
+
+# Whether copy-to-clipboard buttons are enabled for <code> blocks
+enableCodeCopy = true
+
+# String that indicates how robots should handle your site
+robots = "all"
+
+# When set to true the scroll to top arrow is displayed
+showScrollToTop = true
+
+[homepage]
+  # The layout of the homepage. Valid values are page, profile or custom.
+  layout = "profile"
+
+  # Whether or not to display the recent articles list on the homepage
+  showRecent = false
+
+[article]
+  # Whether or not article dates are displayed
+  showDate = false
+
+  # Whether or not the dates articles were updated are displayed
+  showDateUpdated = false
+
+  # Whether or not the author box is displayed in the article footer
+  showAuthor = true
+
+  # Whether or not breadcrumbs are displayed in the article header
+  showBreadcrumbs = false
+
+  # Whether or not the draft indicator is shown next to articles when site is built with --buildDrafts
+  showDraftLabel = true
+
+  # Whether or not the link to edit the article content should be displayed
+  showEdit = true
+
+  # When article.showEdit is active, the URL for the edit link
+  editURL = "https://github.com/fjeremic/website/"
+
+  # When article.showEdit is active, whether or not the path to the current article should be appended to the URL set at article.editURL
+  editAppendPath = true
+
+  # Whether or not heading anchor links are displayed alongside headings within articles
+  showHeadingAnchors = true
+
+  # Whether or not the next/previous article links are displayed in the article footer
+  showPagination = true
+
+  # Whether or not to flip the direction of the next/previous article links
+  invertPagination = false
+
+  # Whether or not article reading times are displayed
+  showReadingTime = true
+
+  # Whether or not the table of contents is displayed on articles
+  showTableOfContents = false
+
+  # Whether or not the taxonomies related to this article are displayed
+  showTaxonomies = true
+
+  # Whether or not article word counts are displayed
+  showWordCount = false
+
+  # Which sharing links to display at the end of each article
+  sharingLinks = ["twitter", "reddit", "linkedin", "email"]
+
+[list]
+  # Whether or not breadcrumbs are displayed in the header on list pages
+  showBreadcrumbs = false
+
+  # Whether or not the table of contents is displayed on list pages
+  showSummary = false
+
+  # Whether or not article summaries are displayed on list pages
+  showTableOfContents = false
+
+  # Whether or not articles are grouped by year on list pages
+  groupByYear = true
+
+[sitemap]
+  # Kinds of content that should be excluded from the generated /sitemap.xml file
+  excludedKinds = ["taxonomy", "term"]
+
+[taxonomy]
+  # Whether or not the number of articles within a taxonomy term is displayed on the taxonomy listing
+  showTermCount = true
