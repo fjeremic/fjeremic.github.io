@@ -1,8 +1,5 @@
 Filip-Jeremic-Resume.aux
 Filip-Jeremic-Resume.log
-_site/
-assets/css/
-assets/css/*.css
-assets/plugins/**/plugin.css
-assets/plugins/**/plugin.min.css
-node_modules/
+
+# Hugo files
+.hugo_build.lock
