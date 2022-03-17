@@ -1,21 +1,21 @@
 [[main]]
   name = "About"
-  pageRef = "posts"
+  pageRef = "about"
   weight = 10
 
 [[main]]
   name = "Projects"
-  pageRef = "posts"
+  pageRef = "projects"
   weight = 20
 
 [[main]]
   name = "Blog"
-  pageRef = "posts"
+  pageRef = "blog"
   weight = 30
 
 [[footer]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Contact"
+  pageRef = "contact"
   weight = 10
 
 [[footer]]
