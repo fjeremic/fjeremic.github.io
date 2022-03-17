@@ -8,7 +8,7 @@ defaultAppearance = "light"
 autoSwitchAppearance = true
 
 # Whether or not to show the appearance switcher in the site footer
-showAppearanceSwitcher = true
+showAppearanceSwitcher = false
 
 # Whether site search is enabled
 enableSearch = true
