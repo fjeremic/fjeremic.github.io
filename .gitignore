@@ -3,3 +3,4 @@ Filip-Jeremic-Resume.log
 
 # Hugo files
 .hugo_build.lock
+/resources/_gen
