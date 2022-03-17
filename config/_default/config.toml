@@ -16,3 +16,11 @@ summaryLength = 0
 [outputs]
   # The output formats that are generated for the site. Congo requires HTML, RSS and JSON for all theme components to work correctly
   home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  # Override default Hugo taxonomies
+  tag = "tags"
+
+[frontmatter]
+  # Fetches the date from the content file's filename
+  date = [':filename', ':default']
