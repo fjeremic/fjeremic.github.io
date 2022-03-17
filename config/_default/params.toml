@@ -27,11 +27,11 @@ showScrollToTop = true
   layout = "profile"
 
   # Whether or not to display the recent articles list on the homepage
-  showRecent = false
+  showRecent = true
 
 [article]
   # Whether or not article dates are displayed
-  showDate = false
+  showDate = true
 
   # Whether or not the dates articles were updated are displayed
   showDateUpdated = false
