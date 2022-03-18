@@ -8,7 +8,7 @@ defaultAppearance = "light"
 autoSwitchAppearance = true
 
 # Whether or not to show the appearance switcher in the site footer
-showAppearanceSwitcher = false
+showAppearanceSwitcher = true
 
 # Whether site search is enabled
 enableSearch = true
@@ -20,7 +20,7 @@ enableCodeCopy = true
 robots = "all"
 
 # When set to true the scroll to top arrow is displayed
-showScrollToTop = true
+showScrollToTop = false
 
 [homepage]
   # The layout of the homepage. Valid values are page, profile or custom.

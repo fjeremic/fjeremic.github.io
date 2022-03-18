@@ -1,24 +1,24 @@
 [[main]]
   name = "About"
-  pageRef = "about"
+  url = "/about"
   weight = 10
 
 [[main]]
   name = "Projects"
-  pageRef = "projects"
+  url = "/projects"
   weight = 20
 
 [[main]]
   name = "Blog"
-  pageRef = "blog"
+  url = "/blog"
   weight = 30
 
 [[footer]]
   name = "Contact"
-  pageRef = "contact"
+  url = "/about/#contact"
   weight = 10
 
 [[footer]]
   name = "Tags"
-  pageRef = "tags"
+  url = "/tags"
   weight = 20
