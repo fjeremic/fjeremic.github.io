@@ -1,3 +1,6 @@
+# Hugo theme to use
+theme = "congo"
+
 # The URL to the root of the website
 baseURL = "https://jeremic.ca/"
 
