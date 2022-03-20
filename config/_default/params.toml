@@ -16,6 +16,9 @@ enableSearch = true
 # Whether copy-to-clipboard buttons are enabled for <code> blocks
 enableCodeCopy = true
 
+# The sections that should be displayed in the recent articles list
+mainSections = ["blog"]
+
 # String that indicates how robots should handle your site
 robots = "all"
 
