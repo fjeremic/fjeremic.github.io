@@ -1,0 +1,10 @@
+{
+  "name": "jeremic.ca",
+  "scripts": {
+    "hugo-build": "hugo --minify",
+    "hugo-watch": "hugo server -b http://localhost -p 8000 --bind=0.0.0.0",
+    "tailwind-jit": "./themes/congo/node_modules/tailwindcss/lib/cli.js -c ./themes/congo/tailwind.config.js -i ./themes/congo/assets/css/main.css -o ./assets/css/compiled/main.css --jit",
+    "tailwind-build": "NODE_ENV=production npm run tailwind-jit --",
+    "tailwind-watch": "NODE_ENV=development npm run tailwind-jit -- -w"
+  }
+}
