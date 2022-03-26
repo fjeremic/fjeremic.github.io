@@ -1,0 +1,30 @@
+<table class="table-auto">
+  <thead>
+    <tr>
+    <th class="text-left">Team</th>
+    <th class="text-left">Manager</th>
+    <th class="text-center">Amount Due</th>
+    <th class="text-right"></th>
+    <th class="text-left">Status</th>
+    </tr>
+    </thead>
+  <tbody>
+    {{ $payments := sort (index (index .Site.Data.fpl (.Get 0)) "payment") "payment_status" "asc" }}
+    {{ range $payments }}
+      <tr>
+        <td class="text-left">{{ index . "team" }}</td>
+        <td class="text-left">{{ index . "manager" }}</td>
+        <td class="text-center">{{ index . "amount_due" }}</td>
+        {{ $status := index . "payment_status" }}
+        {{ if eq $status "Paid"}}
+          <td class="text-right">:green_circle:</td>
+        {{ else }}
+          <td class="text-right">:red_circle:</td>
+        {{ end }}
+        <td class="text-left">{{ $status }}</td>
+      </tr>
+    {{ end }}
+  </tbody>
+</table>
+
+{{ len $payments }} players total
