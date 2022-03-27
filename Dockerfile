@@ -2,7 +2,7 @@ FROM node:17.7.2
 
 # Setup Linux environment
 RUN apt-get update
-RUN apt-get install curl python3 python3-pip
+RUN apt-get install -y curl python3 python3-pip
 RUN dpkg --add-architecture amd64
 RUN apt-get update
 
