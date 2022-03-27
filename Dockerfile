@@ -14,4 +14,9 @@ RUN apt-get install ./hugo.deb
 # Install python requirements for ./scripts
 RUN python3 -m pip install -r requirements.txt
 
+# For GitHub Action type workflow we'll create a copy of the repository inside the image. For development we typically
+# want to mount the respoitory from the host into the container so that any changes made on the host are reflected
+# instantly inside the container. The volume mount takes precedence over the copy.
+COPY . /website
+
 WORKDIR /website
