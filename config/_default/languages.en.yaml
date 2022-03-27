@@ -1,46 +1,44 @@
 # The Hugo language code for this file
-languageCode = "en"
-languageName = "English"
+languageCode: en
+languageName: English
 
 # The name used when the language appears on the website
-displayName = "EN"
+displayName: EN
 
 # The ISO language code for HTML metadata purposes
-isoCode = "en"
+isoCode: en
 
 # The weight determines the order of languages when building multilingual sites
-weight = 1
+weight: 1
 
 # Whether or not this is a RTL language
-rtl = false
+rtl: false
 
 # How dates are formatted in this language
-dateFormat = "2 January 2006"
+dateFormat: 2 January 2006
 
 # The title of the website. This will be displayed in the site header and footer.
-title = "Filip Jeremic"
+title: Filip Jeremic
 
 # The website description. This will be used in the site metadata.
-description = "Personal website of Filip Jeremic"
+description: Personal website of Filip Jeremic
 
-
-[author]
+author:
   # The author’s name. This will be displayed in article footers, and on the homepage when the profile layout is used.
-  name = "Filip Jeremic"
+  name: Filip Jeremic
 
   # Path to the image file of the author
-  image = "images/avatar/avatar.png"
+  image: images/avatar/avatar.png
 
   # A Markdown string containing the author’s headline. It will be displayed on the profile homepage under the author’s
   # name.
-  headline = "Software Developer"
+  headline: Software Developer
 
   # A Markdown string containing the author’s bio. It will be displayed in article footers.
-  bio = "Senior Staff Software Engineer at Qualcomm working on Machine Learning (ML) compilers"
+  bio: Senior Staff Software Engineer at Qualcomm working on Machine Learning (ML) compilers
 
   # The links to display alongside the author’s details
-  links = [
-    { github = "https://github.com/fjeremic" },
-    { linkedin = "https://linkedin.com/in/filip-jeremic-11807b18b" },
-    { email = "mailto:filip@jeremic.ca" },
-  ]
+  links:
+    - github: 'https://github.com/fjeremic'
+    - linkedin: 'https://linkedin.com/in/filip-jeremic-11807b18b'
+    - email: 'mailto:filip@jeremic.ca'
