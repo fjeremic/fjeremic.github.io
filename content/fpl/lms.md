@@ -1,7 +1,6 @@
 ---
 title: Last Man Standing League
 date: 2021-08-10
-layout: post
 showDate: false
 showAuthor: false
 showEdit: false

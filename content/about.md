@@ -1,7 +1,7 @@
 ---
+title: About
 layout: "simple"
 sharingLinks: false
-title: About
 ---
 
 I'm a software developer working for Qualcomm on Machine Learning (ML) compilers and ML model performance simulations and projections on Qualcomm hardware. In the past I worked for IBM Canada on the Eclipse OpenJ9 and Eclipse OMR projects as a committer where I was heavily involved in contributing code, reviewing contributions, and open-source community involvement.

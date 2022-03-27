@@ -1,7 +1,6 @@
 ---
 title: Classic League
 date: 2021-08-12
-layout: post
 showDate: false
 showAuthor: false
 showEdit: false

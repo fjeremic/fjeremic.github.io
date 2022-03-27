@@ -1,7 +1,6 @@
 ---
 title: Head-To-Head League
 date: 2021-08-11
-layout: post
 showDate: false
 showAuthor: false
 showEdit: false

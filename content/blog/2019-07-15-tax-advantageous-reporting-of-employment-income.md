@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Tax Advantageous Reporting of Foreign Employment Income
+layout: post
 tags: [finance, taxes]
 ---
 
