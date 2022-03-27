@@ -1,0 +1,40 @@
+{{ if (.Get 1)}}
+<details class="mt-0 rounded-lg rtl:pr-5 ltr:pl-5 ltr:-ml-5 rtl:-mr-5 lg:mt-3" open>
+{{ else }}
+<details class="mt-0 rounded-lg rtl:pr-5 ltr:pl-5 ltr:-ml-5 rtl:-mr-5 lg:mt-3">
+{{ end }}
+  <summary class="block py-1 text-lg font-semibold cursor-pointer rtl:pr-5 ltr:pl-5 ltr:-ml-5 rtl:-mr-5 text-neutral-800
+  dark:text-neutral-100 bg-neutral-100 dark:bg-neutral-700">
+    {{ upper (.Get 0) }} Standings
+  </summary>
+  <div class="py-2 overflow-auto border-dotted ltr:border-l rtl:border-r rtl:pr-5 ltr:pl-5 ltr:-ml-5 rtl:-mr-5
+  border-neutral-300 dark:border-neutral-600">
+    <table class="table-auto">
+        <thead>
+          <tr>
+          <th class="text-left">Rank</th>
+          <th class="text-left">Team</th>
+          <th class="text-left">Wins</th>
+          <th class="text-left">Draws</th>
+          <th class="text-left">Losses</th>
+          <th class="text-left">Points</th>
+          <th class="text-left">FPL Points</th>
+          </tr>
+          </thead>
+        <tbody>
+          {{ range (index (index .Site.Data "fpl-h2h-standings") (.Get 0)) }}
+            <tr>
+              <td class="text-left">{{ index . "rank" }}</td>
+              <td class="text-left">{{ index . "team" }}</td>
+              <td class="text-left">{{ index . "wins" }}</td>
+              <td class="text-left">{{ index . "draws" }}</td>
+              <td class="text-left">{{ index . "losses" }}</td>
+              <td class="text-left">{{ index . "points" }}</td>
+              <td class="text-left">{{ index . "fpl-points" }}</td>
+            </tr>
+          {{ end }}
+        </tbody>
+      </table>
+  </div>
+</details>
+  
