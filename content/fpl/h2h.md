@@ -7,6 +7,7 @@ showAuthor: false
 showEdit: false
 showReadingTime: false
 showTableOfContents: true
+sharingLinks: false
 ---
 
 <br>
