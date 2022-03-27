@@ -13,11 +13,13 @@ enableRobotsTXT = true
 # The number of articles listed on each page of the article listing
 paginate = 10
 
-# The number of words that are used to generate the article summary when one is not provided in the front matter. A value of 0 will use the first sentence.
+# The number of words that are used to generate the article summary when one is not provided in the front matter. A
+# value of 0 will use the first sentence.
 summaryLength = 0
 
 [outputs]
-  # The output formats that are generated for the site. Congo requires HTML, RSS and JSON for all theme components to work correctly
+  # The output formats that are generated for the site. Congo requires HTML, RSS and JSON for all theme components to
+  # work correctly
   home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]

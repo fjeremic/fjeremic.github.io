@@ -31,7 +31,8 @@ description = "Personal website of Filip Jeremic"
   # Path to the image file of the author
   image = "images/avatar/avatar.png"
 
-  # A Markdown string containing the author’s headline. It will be displayed on the profile homepage under the author’s name.
+  # A Markdown string containing the author’s headline. It will be displayed on the profile homepage under the author’s
+  # name.
   headline = "Software Developer"
 
   # A Markdown string containing the author’s bio. It will be displayed in article footers.

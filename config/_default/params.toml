@@ -54,7 +54,8 @@ showScrollToTop = false
   # When article.showEdit is active, the URL for the edit link
   editURL = "https://github.com/fjeremic/jeremic.ca/"
 
-  # When article.showEdit is active, whether or not the path to the current article should be appended to the URL set at article.editURL
+  # When article.showEdit is active, whether or not the path to the current article should be appended to the URL set at
+  # article.editURL
   editAppendPath = true
 
   # Whether or not heading anchor links are displayed alongside headings within articles
