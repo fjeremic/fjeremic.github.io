@@ -32,5 +32,5 @@ taxonomies:
 frontmatter:
   # Fetches the date from the content file's filename
   date:
-    - ':filename'
-    - ':default'
+    - :filename
+    - :default

@@ -39,6 +39,6 @@ author:
 
   # The links to display alongside the author’s details
   links:
-    - github: 'https://github.com/fjeremic'
-    - linkedin: 'https://linkedin.com/in/filip-jeremic-11807b18b'
-    - email: 'mailto:filip@jeremic.ca'
+    - github: https://github.com/fjeremic
+    - linkedin: https://linkedin.com/in/filip-jeremic-11807b18b
+    - email: mailto:filip@jeremic.ca
