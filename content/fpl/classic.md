@@ -19,7 +19,7 @@ Click/tap to [view the standings]({{< fpl-get-data "classic" "standings" >}}) or
 
 1. Maximum number of players is &#8734;
 2. Scoring system is identical to the official [Fantasy Premier League](https://fantasy.premierleague.com/help/rules)
-3. Payments are to be made by **{{< fpl-get-data "classic" "join-deadline" >}}** or you risk eviction from the league.
+3. Payments are to be made by **{{< fpl-get-data "classic" "joinDeadline" >}}** or you risk eviction from the league.
 See the [Payment](#payment) for more details.
 
 ### League Cup
@@ -52,8 +52,8 @@ Premier League season:
 ## Payment
 
 Payments can only be made via [Interac e-Transfer](https://interac.ca/en/interac-e-transfer-consumer.html) to 
-<a href="mailto:{{< fpl-get-data "classic" "e-transfer-email" >}}">{{< fpl-get-data "classic" "e-transfer-email" >}}</a>.
-Please send **{{< fpl-get-data "classic" "e-transfer-amount" >}}** by {{< fpl-get-data "classic" "join-deadline" >}} and
+<a href="mailto:{{< fpl-get-data "classic" "eTransferEmail" >}}">{{< fpl-get-data "classic" "eTransferEmail" >}}</a>.
+Please send **{{< fpl-get-data "classic" "eTransferAmount" >}}** by {{< fpl-get-data "classic" "joinDeadline" >}} and
 include your Team name and Manager name in the description of the Interac e-Transfer.
 
 {{< fpl-payment-table "classic" >}}

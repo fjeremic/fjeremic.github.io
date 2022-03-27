@@ -22,7 +22,7 @@ The league and the players enrolled must abide by the following rules:
 1. Maximum number of players is &#8734;
 2. Scoring system is identical to the official [Fantasy Premier League](https://fantasy.premierleague.com/help/rules)
 with slight modifications explained below.
-3. Payments are to be made by **{{< fpl-get-data "lms" "join-deadline" >}}** or you risk eviction from the league.
+3. Payments are to be made by **{{< fpl-get-data "lms" "joinDeadline" >}}** or you risk eviction from the league.
 See the [Payment](#payment) for more details.
 
 ### Scoring System
@@ -53,8 +53,8 @@ Premier League season:
 ### Payment
 
 Payments can only be made via [Interac e-Transfer](https://interac.ca/en/interac-e-transfer-consumer.html) to 
-<a href="mailto:{{< fpl-get-data "lms" "e-transfer-email" >}}">{{< fpl-get-data "lms" "e-transfer-email" >}}</a>.
-Please send **{{< fpl-get-data "lms" "e-transfer-amount" >}}** by {{< fpl-get-data "lms" "join-deadline" >}} and
+<a href="mailto:{{< fpl-get-data "lms" "eTransferEmail" >}}">{{< fpl-get-data "lms" "eTransferEmail" >}}</a>.
+Please send **{{< fpl-get-data "lms" "eTransferAmount" >}}** by {{< fpl-get-data "lms" "joinDeadline" >}} and
 include your Team name and Manager name in the description of the Interac e-Transfer.
 
 {{< fpl-payment-table "lms" >}}

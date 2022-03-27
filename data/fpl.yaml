@@ -1,322 +1,322 @@
 classic:
   name: Classic League
   standings: https://fantasy.premierleague.com/leagues/367367/standings/c
-  join-link: https://fantasy.premierleague.com/leagues/auto-join/4h937h
-  join-deadline: 8:00 p.m. EST Friday August 12th, 2021
-  e-transfer-email: Diogen.lukic@gmail.com
-  e-transfer-amount: $100
+  joinLink: https://fantasy.premierleague.com/leagues/auto-join/4h937h
+  joinDeadline: 8:00 p.m. EST Friday August 12th, 2021
+  eTransferEmail: Diogen.lukic@gmail.com
+  eTransferAmount: $100
   payment:
     - team: 1 Hit Wonder
       manager: Diogen Lukic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Just Gimme De Ligt
       manager: Marko Cholich
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: JFC
       manager: Filip Jeremic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Puhaceni FC
       manager: Anton Chetrar
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: FK Vikdam
       manager: Juka Alimanovic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Top 11
       manager: Nebojsa Milosevic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Not playin next year
       manager: Ivan Jeremic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Ko Je poceo Rat
       manager: Mladen Lucic 
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: PENANDES FC
       manager: Arandjel Djuric
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Unvaccinated fc 
       manager: Petar Milisic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: DeeKay
       manager: Dejan Katanic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Five-0
       manager: Danijel Avlijas
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: The Recuscitators
       manager: Tanja Avlijas
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: FK Tata Mata
       manager: Goran Lakic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Smoke City FC
       manager: Ivan Vojinovic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Leones Vegetarianos
       manager: Djordje Cupac
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Dragan’s Dalmatians
       manager: Dragan Mijakovac
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Quaranteam
       manager: Ilija Milisic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Tika Taka
       manager: Zoran Crnogorac
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: GOAT
       manager: Branko Oluic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Lola FC
       manager: Bojan Samardzija
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Hasta Luego
       manager: Danijel Lukic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: FK Panic
       manager: Stefan Panic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: FC Pimpek
       manager: Goran Radovic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Riski Business
       manager: Boris Pecek
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Fanatik1976
       manager: Adrian Polgar
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Sir Tommy
       manager: Miloš Podgorac 
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Here for the Beer
       manager: Mirko Misic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: T
       manager: Todor Beric 
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Bobi Vieri
       manager: Rade Cvijanovic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Robarn
       manager: Sophie Desjardins (Robert)
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Bronx Tale
       manager: Branko Rusic 
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Horseshoe v3
       manager: Velimir Lazarevic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Daddy’z Boyz
       manager: Jakub Kicinski
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Out to get ya
       manager: Dejana Lucic 
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Gigo
       manager: Ilija Stanic 
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Riski Business
       manager: Boris Stojkovic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
 
 h2h:
   name: Head-To-Head League
   standings: https://fantasy.premierleague.com/leagues/367286/standings/h
-  join-link: https://fantasy.premierleague.com/leagues/auto-join/lscx67
-  join-deadline: 8:00 p.m. EST Friday August 12th, 2021
-  e-transfer-email: Diogen.lukic@gmail.com
-  e-transfer-amount: $100
+  joinLink: https://fantasy.premierleague.com/leagues/auto-join/lscx67
+  joinDeadline: 8:00 p.m. EST Friday August 12th, 2021
+  eTransferEmail: Diogen.lukic@gmail.com
+  eTransferAmount: $100
   payment:
     - team: 1 Hit Wonder
       manager: Diogen Lukic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Just Gimme De Ligt
       manager: Marko Cholich
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: JFC
       manager: Filip Jeremic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Puhaceni FC
       manager: Anton Chetrar
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: FK Vikdam
       manager: Juka Alimanovic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Top 11
       manager: Nebojsa Milosevic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Not playin next year
       manager: Ivan Jeremic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Ko Je poceo Rat
       manager: Mladen Lucic 
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: PENANDES FC
       manager: Arandjel Djuric
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Unvaccinated fc 
       manager: Petar Milisic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: DeeKay
       manager: Dejan Katanic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Five-0
       manager: Danijel Avlijas
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: FK Tata Mata
       manager: Goran Lakic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Smoke City FC
       manager: Ivan Vojinovic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Leones Vegetarianos
       manager: Djordje Cupac
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Quaranteam
       manager: Ilija Milisic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: GOAT
       manager: Branko Oluic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Lola FC
       manager: Bojan Samardzija
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Hasta Luego
       manager: Danijel Lukic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Here for the Beer
       manager: Mirko Misic
-      amount_due: $100
-      payment_status: Paid
+      playmentDue: $100
+      paymentStatus: Paid
 
 lms:
   name: Last Man Standing League
   standings: https://fantasy.premierleague.com/leagues/367339/standings/c
-  join-link: https://fantasy.premierleague.com/leagues/auto-join/hsa9eg
-  join-deadline: 8:00 p.m. EST Friday August 12th, 2021
-  e-transfer-email: Diogen.lukic@gmail.com
-  e-transfer-amount: $50
+  joinLink: https://fantasy.premierleague.com/leagues/auto-join/hsa9eg
+  joinDeadline: 8:00 p.m. EST Friday August 12th, 2021
+  eTransferEmail: Diogen.lukic@gmail.com
+  eTransferAmount: $50
   payment:
     - team: 1 Hit Wonder
       manager: Diogen Lukic
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: JFC
       manager: Filip Jeremic
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: FK Tata Mata
       manager: Goran Lakic
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: Unvaccinated fc 
       manager: Petar Milisic
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: Five-0
       manager: Danijel Avlijas
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: FK Vikdam
       manager: Juka Alimanovic
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: Not playin next year
       manager: Ivan Jeremic
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: Top 11
       manager: Nebojsa Milosevic
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: Quaranteam
       manager: Ilija Milisic
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: Tika Taka
       manager: Zoran Crnogorac
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: GOAT
       manager: Branko Oluic
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: Lola FC
       manager: Bojan Samardzija
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: Hasta Luego
       manager: Danijel Lukic
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: FC Pimpek
       manager: Goran Radovic
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: FC Pimpek
       manager: Goran Radovic
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: Here for the Beer
       manager: Mirko Misic
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid
     - team: T
       manager: Todor Beric 
-      amount_due: $50
-      payment_status: Paid
+      playmentDue: $50
+      paymentStatus: Paid

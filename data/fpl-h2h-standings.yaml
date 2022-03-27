@@ -1,724 +1,724 @@
 q1:
   - rank: 1
-    team-id: 109941
+    teamId: 109941
     team: JFC
     manager: Filip Jeremic
     wins: 9
     draws: 0
     losses: 1
     points: 27
-    fpl-points: 667
+    fplPoints: 667
   - rank: 2
-    team-id: 982398
+    teamId: 982398
     team: Not Playin Next Year
     manager: Ivan J
     wins: 7
     draws: 1
     losses: 2
     points: 22
-    fpl-points: 661
+    fplPoints: 661
   - rank: 3
-    team-id: 456872
+    teamId: 456872
     team: Ko Je Poceo Rat
     manager: Mladen Lucic
     wins: 7
     draws: 0
     losses: 3
     points: 21
-    fpl-points: 682
+    fplPoints: 682
   - rank: 4
-    team-id: 344345
+    teamId: 344345
     team: Forty-Four FC
     manager: Marko Cholich
     wins: 7
     draws: 0
     losses: 3
     points: 21
-    fpl-points: 662
+    fplPoints: 662
   - rank: 5
-    team-id: 837812
+    teamId: 837812
     team: PENANDES FC
     manager: Arandjel Djuric
     wins: 7
     draws: 0
     losses: 3
     points: 21
-    fpl-points: 595
+    fplPoints: 595
   - rank: 6
-    team-id: 795344
+    teamId: 795344
     team: Top 11
     manager: Nebojsa Milosevic
     wins: 6
     draws: 0
     losses: 4
     points: 18
-    fpl-points: 654
+    fplPoints: 654
   - rank: 7
-    team-id: 805329
+    teamId: 805329
     team: Unvaccinated fc
     manager: Petar Milisic
     wins: 6
     draws: 0
     losses: 4
     points: 18
-    fpl-points: 588
+    fplPoints: 588
   - rank: 8
-    team-id: 132498
+    teamId: 132498
     team: Five-O
     manager: Danijel Man U
     wins: 6
     draws: 0
     losses: 4
     points: 18
-    fpl-points: 579
+    fplPoints: 579
   - rank: 9
-    team-id: 701689
+    teamId: 701689
     team: FK Tata-Mata
     manager: Goran Lakic
     wins: 5
     draws: 1
     losses: 4
     points: 16
-    fpl-points: 639
+    fplPoints: 639
   - rank: 10
-    team-id: 1185016
+    teamId: 1185016
     team: Here for the Beer
     manager: Mirko Misic
     wins: 5
     draws: 1
     losses: 4
     points: 16
-    fpl-points: 615
+    fplPoints: 615
   - rank: 11
-    team-id: 2461224
+    teamId: 2461224
     team: Leones Vegetarianos
     manager: "\u0110or\u0111e C"
     wins: 5
     draws: 0
     losses: 5
     points: 15
-    fpl-points: 691
+    fplPoints: 691
   - rank: 12
-    team-id: 13708
+    teamId: 13708
     team: Smoke City FC
     manager: Ivan Vojinovic
     wins: 5
     draws: 0
     losses: 5
     points: 15
-    fpl-points: 621
+    fplPoints: 621
   - rank: 13
-    team-id: 2665822
+    teamId: 2665822
     team: Hasta luego
     manager: Danijel Lukic
     wins: 5
     draws: 0
     losses: 5
     points: 15
-    fpl-points: 613
+    fplPoints: 613
   - rank: 14
-    team-id: 1972794
+    teamId: 1972794
     team: Fk Vikdam
     manager: Juka Alimanovic
     wins: 4
     draws: 0
     losses: 6
     points: 12
-    fpl-points: 596
+    fplPoints: 596
   - rank: 15
-    team-id: 1879032
+    teamId: 1879032
     team: Bring back Ivan!
     manager: Ilija Milisic
     wins: 4
     draws: 0
     losses: 6
     points: 12
-    fpl-points: 531
+    fplPoints: 531
   - rank: 16
-    team-id: 370461
+    teamId: 370461
     team: "Puh\u0103ceni FC"
     manager: Anton Chetrar
     wins: 2
     draws: 1
     losses: 7
     points: 7
-    fpl-points: 530
+    fplPoints: 530
   - rank: 17
-    team-id: 1340774
+    teamId: 1340774
     team: GOAT
     manager: Branko Oluic
     wins: 2
     draws: 0
     losses: 8
     points: 6
-    fpl-points: 554
+    fplPoints: 554
   - rank: 18
-    team-id: 1236264
+    teamId: 1236264
     team: StartedfrmtheBottom2
     manager: D Lukic
     wins: 2
     draws: 0
     losses: 8
     points: 6
-    fpl-points: 554
+    fplPoints: 554
   - rank: 19
-    team-id: 2616600
+    teamId: 2616600
     team: Lola fc
     manager: Bojan Samardzija
     wins: 2
     draws: 0
     losses: 8
     points: 6
-    fpl-points: 415
+    fplPoints: 415
   - rank: 20
-    team-id: 242293
+    teamId: 242293
     team: DeeKay
     manager: Dejan K
     wins: 1
     draws: 2
     losses: 7
     points: 5
-    fpl-points: 537
+    fplPoints: 537
 q2:
   - rank: 1
-    team-id: 1340774
+    teamId: 1340774
     team: GOAT
     manager: Branko Oluic
     wins: 8
     draws: 0
     losses: 1
     points: 24
-    fpl-points: 646
+    fplPoints: 646
   - rank: 2
-    team-id: 132498
+    teamId: 132498
     team: Five-O
     manager: Danijel Man U
     wins: 6
     draws: 1
     losses: 2
     points: 19
-    fpl-points: 565
+    fplPoints: 565
   - rank: 3
-    team-id: 109941
+    teamId: 109941
     team: JFC
     manager: Filip Jeremic
     wins: 6
     draws: 0
     losses: 3
     points: 18
-    fpl-points: 537
+    fplPoints: 537
   - rank: 4
-    team-id: 242293
+    teamId: 242293
     team: DeeKay
     manager: Dejan K
     wins: 6
     draws: 0
     losses: 3
     points: 18
-    fpl-points: 535
+    fplPoints: 535
   - rank: 5
-    team-id: 2461224
+    teamId: 2461224
     team: Leones Vegetarianos
     manager: "\u0110or\u0111e C"
     wins: 6
     draws: 0
     losses: 3
     points: 18
-    fpl-points: 516
+    fplPoints: 516
   - rank: 6
-    team-id: 2665822
+    teamId: 2665822
     team: Hasta luego
     manager: Danijel Lukic
     wins: 6
     draws: 0
     losses: 3
     points: 18
-    fpl-points: 497
+    fplPoints: 497
   - rank: 7
-    team-id: 456872
+    teamId: 456872
     team: Ko Je Poceo Rat
     manager: Mladen Lucic
     wins: 6
     draws: 0
     losses: 3
     points: 18
-    fpl-points: 496
+    fplPoints: 496
   - rank: 8
-    team-id: 982398
+    teamId: 982398
     team: Not Playin Next Year
     manager: Ivan J
     wins: 5
     draws: 0
     losses: 4
     points: 15
-    fpl-points: 526
+    fplPoints: 526
   - rank: 9
-    team-id: 805329
+    teamId: 805329
     team: Unvaccinated fc
     manager: Petar Milisic
     wins: 5
     draws: 0
     losses: 4
     points: 15
-    fpl-points: 503
+    fplPoints: 503
   - rank: 10
-    team-id: 837812
+    teamId: 837812
     team: PENANDES FC
     manager: Arandjel Djuric
     wins: 5
     draws: 0
     losses: 4
     points: 15
-    fpl-points: 501
+    fplPoints: 501
   - rank: 11
-    team-id: 1879032
+    teamId: 1879032
     team: Bring back Ivan!
     manager: Ilija Milisic
     wins: 4
     draws: 1
     losses: 4
     points: 13
-    fpl-points: 485
+    fplPoints: 485
   - rank: 12
-    team-id: 13708
+    teamId: 13708
     team: Smoke City FC
     manager: Ivan Vojinovic
     wins: 4
     draws: 0
     losses: 5
     points: 12
-    fpl-points: 521
+    fplPoints: 521
   - rank: 13
-    team-id: 1972794
+    teamId: 1972794
     team: Fk Vikdam
     manager: Juka Alimanovic
     wins: 4
     draws: 0
     losses: 5
     points: 12
-    fpl-points: 467
+    fplPoints: 467
   - rank: 14
-    team-id: 344345
+    teamId: 344345
     team: Forty-Four FC
     manager: Marko Cholich
     wins: 3
     draws: 1
     losses: 5
     points: 10
-    fpl-points: 515
+    fplPoints: 515
   - rank: 15
-    team-id: 370461
+    teamId: 370461
     team: "Puh\u0103ceni FC"
     manager: Anton Chetrar
     wins: 3
     draws: 1
     losses: 5
     points: 10
-    fpl-points: 456
+    fplPoints: 456
   - rank: 16
-    team-id: 1185016
+    teamId: 1185016
     team: Here for the Beer
     manager: Mirko Misic
     wins: 3
     draws: 0
     losses: 6
     points: 9
-    fpl-points: 459
+    fplPoints: 459
   - rank: 17
-    team-id: 795344
+    teamId: 795344
     team: Top 11
     manager: Nebojsa Milosevic
     wins: 3
     draws: 0
     losses: 6
     points: 9
-    fpl-points: 451
+    fplPoints: 451
   - rank: 18
-    team-id: 1236264
+    teamId: 1236264
     team: StartedfrmtheBottom2
     manager: D Lukic
     wins: 2
     draws: 0
     losses: 7
     points: 6
-    fpl-points: 457
+    fplPoints: 457
   - rank: 19
-    team-id: 701689
+    teamId: 701689
     team: FK Tata-Mata
     manager: Goran Lakic
     wins: 2
     draws: 0
     losses: 7
     points: 6
-    fpl-points: 431
+    fplPoints: 431
   - rank: 20
-    team-id: 2616600
+    teamId: 2616600
     team: Lola fc
     manager: Bojan Samardzija
     wins: 1
     draws: 0
     losses: 8
     points: 3
-    fpl-points: 347
+    fplPoints: 347
 q3:
   - rank: 1
-    team-id: 805329
+    teamId: 805329
     team: Unvaccinated fc
     manager: Petar Milisic
     wins: 7
     draws: 1
     losses: 2
     points: 22
-    fpl-points: 728
+    fplPoints: 728
   - rank: 2
-    team-id: 242293
+    teamId: 242293
     team: DeeKay
     manager: Dejan K
     wins: 7
     draws: 0
     losses: 3
     points: 21
-    fpl-points: 789
+    fplPoints: 789
   - rank: 3
-    team-id: 1185016
+    teamId: 1185016
     team: Here for the Beer
     manager: Mirko Misic
     wins: 7
     draws: 0
     losses: 3
     points: 21
-    fpl-points: 688
+    fplPoints: 688
   - rank: 4
-    team-id: 1340774
+    teamId: 1340774
     team: GOAT
     manager: Branko Oluic
     wins: 6
     draws: 1
     losses: 3
     points: 19
-    fpl-points: 753
+    fplPoints: 753
   - rank: 5
-    team-id: 109941
+    teamId: 109941
     team: JFC
     manager: Filip Jeremic
     wins: 6
     draws: 0
     losses: 4
     points: 18
-    fpl-points: 757
+    fplPoints: 757
   - rank: 6
-    team-id: 701689
+    teamId: 701689
     team: FK Tata-Mata
     manager: Goran Lakic
     wins: 6
     draws: 0
     losses: 4
     points: 18
-    fpl-points: 740
+    fplPoints: 740
   - rank: 7
-    team-id: 2461224
+    teamId: 2461224
     team: Leones Vegetarianos
     manager: "\u0110or\u0111e C"
     wins: 6
     draws: 0
     losses: 4
     points: 18
-    fpl-points: 726
+    fplPoints: 726
   - rank: 8
-    team-id: 795344
+    teamId: 795344
     team: Top 11
     manager: Nebojsa Milosevic
     wins: 6
     draws: 0
     losses: 4
     points: 18
-    fpl-points: 697
+    fplPoints: 697
   - rank: 9
-    team-id: 1972794
+    teamId: 1972794
     team: Fk Vikdam
     manager: Juka Alimanovic
     wins: 6
     draws: 0
     losses: 4
     points: 18
-    fpl-points: 696
+    fplPoints: 696
   - rank: 10
-    team-id: 132498
+    teamId: 132498
     team: Five-O
     manager: Danijel Man U
     wins: 6
     draws: 0
     losses: 4
     points: 18
-    fpl-points: 693
+    fplPoints: 693
   - rank: 11
-    team-id: 13708
+    teamId: 13708
     team: Smoke City FC
     manager: Ivan Vojinovic
     wins: 5
     draws: 1
     losses: 4
     points: 16
-    fpl-points: 727
+    fplPoints: 727
   - rank: 12
-    team-id: 982398
+    teamId: 982398
     team: Not Playin Next Year
     manager: Ivan J
     wins: 5
     draws: 0
     losses: 5
     points: 15
-    fpl-points: 779
+    fplPoints: 779
   - rank: 13
-    team-id: 456872
+    teamId: 456872
     team: Ko Je Poceo Rat
     manager: Mladen Lucic
     wins: 4
     draws: 2
     losses: 4
     points: 14
-    fpl-points: 736
+    fplPoints: 736
   - rank: 14
-    team-id: 344345
+    teamId: 344345
     team: Forty-Four FC
     manager: Marko Cholich
     wins: 4
     draws: 1
     losses: 5
     points: 13
-    fpl-points: 667
+    fplPoints: 667
   - rank: 15
-    team-id: 1236264
+    teamId: 1236264
     team: StartedfrmtheBottom2
     manager: D Lukic
     wins: 3
     draws: 1
     losses: 6
     points: 10
-    fpl-points: 615
+    fplPoints: 615
   - rank: 16
-    team-id: 2616600
+    teamId: 2616600
     team: Lola fc
     manager: Bojan Samardzija
     wins: 3
     draws: 1
     losses: 6
     points: 10
-    fpl-points: 586
+    fplPoints: 586
   - rank: 17
-    team-id: 837812
+    teamId: 837812
     team: PENANDES FC
     manager: Arandjel Djuric
     wins: 3
     draws: 0
     losses: 7
     points: 9
-    fpl-points: 602
+    fplPoints: 602
   - rank: 18
-    team-id: 1879032
+    teamId: 1879032
     team: Bring back Ivan!
     manager: Ilija Milisic
     wins: 3
     draws: 0
     losses: 7
     points: 9
-    fpl-points: 602
+    fplPoints: 602
   - rank: 19
-    team-id: 2665822
+    teamId: 2665822
     team: Hasta luego
     manager: Danijel Lukic
     wins: 2
     draws: 0
     losses: 8
     points: 6
-    fpl-points: 556
+    fplPoints: 556
   - rank: 20
-    team-id: 370461
+    teamId: 370461
     team: "Puh\u0103ceni FC"
     manager: Anton Chetrar
     wins: 1
     draws: 0
     losses: 9
     points: 3
-    fpl-points: 504
+    fplPoints: 504
 q4:
   - rank: 1
-    team-id: 2616600
+    teamId: 2616600
     team: Lola fc
     manager: Bojan Samardzija
     wins: 1
     draws: 0
     losses: 0
     points: 3
-    fpl-points: 75
+    fplPoints: 75
   - rank: 2
-    team-id: 837812
+    teamId: 837812
     team: PENANDES FC
     manager: Arandjel Djuric
     wins: 1
     draws: 0
     losses: 0
     points: 3
-    fpl-points: 74
+    fplPoints: 74
   - rank: 3
-    team-id: 344345
+    teamId: 344345
     team: Forty-Four FC
     manager: Marko Cholich
     wins: 1
     draws: 0
     losses: 0
     points: 3
-    fpl-points: 69
+    fplPoints: 69
   - rank: 4
-    team-id: 109941
+    teamId: 109941
     team: JFC
     manager: Filip Jeremic
     wins: 1
     draws: 0
     losses: 0
     points: 3
-    fpl-points: 65
+    fplPoints: 65
   - rank: 5
-    team-id: 982398
+    teamId: 982398
     team: Not Playin Next Year
     manager: Ivan J
     wins: 1
     draws: 0
     losses: 0
     points: 3
-    fpl-points: 56
+    fplPoints: 56
   - rank: 6
-    team-id: 805329
+    teamId: 805329
     team: Unvaccinated fc
     manager: Petar Milisic
     wins: 1
     draws: 0
     losses: 0
     points: 3
-    fpl-points: 52
+    fplPoints: 52
   - rank: 7
-    team-id: 456872
+    teamId: 456872
     team: Ko Je Poceo Rat
     manager: Mladen Lucic
     wins: 1
     draws: 0
     losses: 0
     points: 3
-    fpl-points: 51
+    fplPoints: 51
   - rank: 8
-    team-id: 701689
+    teamId: 701689
     team: FK Tata-Mata
     manager: Goran Lakic
     wins: 1
     draws: 0
     losses: 0
     points: 3
-    fpl-points: 51
+    fplPoints: 51
   - rank: 9
-    team-id: 2461224
+    teamId: 2461224
     team: Leones Vegetarianos
     manager: "\u0110or\u0111e C"
     wins: 1
     draws: 0
     losses: 0
     points: 3
-    fpl-points: 49
+    fplPoints: 49
   - rank: 10
-    team-id: 132498
+    teamId: 132498
     team: Five-O
     manager: Danijel Man U
     wins: 1
     draws: 0
     losses: 0
     points: 3
-    fpl-points: 40
+    fplPoints: 40
   - rank: 11
-    team-id: 2665822
+    teamId: 2665822
     team: Hasta luego
     manager: Danijel Lukic
     wins: 0
     draws: 0
     losses: 1
     points: 0
-    fpl-points: 60
+    fplPoints: 60
   - rank: 12
-    team-id: 1185016
+    teamId: 1185016
     team: Here for the Beer
     manager: Mirko Misic
     wins: 0
     draws: 0
     losses: 1
     points: 0
-    fpl-points: 57
+    fplPoints: 57
   - rank: 13
-    team-id: 1340774
+    teamId: 1340774
     team: GOAT
     manager: Branko Oluic
     wins: 0
     draws: 0
     losses: 1
     points: 0
-    fpl-points: 48
+    fplPoints: 48
   - rank: 14
-    team-id: 1236264
+    teamId: 1236264
     team: StartedfrmtheBottom2
     manager: D Lukic
     wins: 0
     draws: 0
     losses: 1
     points: 0
-    fpl-points: 46
+    fplPoints: 46
   - rank: 15
-    team-id: 795344
+    teamId: 795344
     team: Top 11
     manager: Nebojsa Milosevic
     wins: 0
     draws: 0
     losses: 1
     points: 0
-    fpl-points: 45
+    fplPoints: 45
   - rank: 16
-    team-id: 370461
+    teamId: 370461
     team: "Puh\u0103ceni FC"
     manager: Anton Chetrar
     wins: 0
     draws: 0
     losses: 1
     points: 0
-    fpl-points: 45
+    fplPoints: 45
   - rank: 17
-    team-id: 242293
+    teamId: 242293
     team: DeeKay
     manager: Dejan K
     wins: 0
     draws: 0
     losses: 1
     points: 0
-    fpl-points: 44
+    fplPoints: 44
   - rank: 18
-    team-id: 13708
+    teamId: 13708
     team: Smoke City FC
     manager: Ivan Vojinovic
     wins: 0
     draws: 0
     losses: 1
     points: 0
-    fpl-points: 43
+    fplPoints: 43
   - rank: 19
-    team-id: 1972794
+    teamId: 1972794
     team: Fk Vikdam
     manager: Juka Alimanovic
     wins: 0
     draws: 0
     losses: 1
     points: 0
-    fpl-points: 37
+    fplPoints: 37
   - rank: 20
-    team-id: 1879032
+    teamId: 1879032
     team: Bring back Ivan!
     manager: Ilija Milisic
     wins: 0
     draws: 0
     losses: 1
     points: 0
-    fpl-points: 7
+    fplPoints: 7

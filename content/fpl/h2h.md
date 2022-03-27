@@ -22,7 +22,7 @@ players from having "free" wildcards before the start of the subsequent quarter.
 2. Maximum number of players is 20. This is to ensure each player will play each other at least twice before the end of
 the season.
 3. Scoring system is broken up into four individual quarters and is outlined below
-4. Payments are to be made by **{{< fpl-get-data "h2h" "join-deadline" >}}** or you risk eviction from the league.
+4. Payments are to be made by **{{< fpl-get-data "h2h" "joinDeadline" >}}** or you risk eviction from the league.
 See the [Payment](#payment) for more details.
 
 ### Scoring System
@@ -65,8 +65,8 @@ finisher at the end of the season).
 ## Payment
 
 Payments can only be made via [Interac e-Transfer](https://interac.ca/en/interac-e-transfer-consumer.html) to 
-<a href="mailto:{{< fpl-get-data "h2h" "e-transfer-email" >}}">{{< fpl-get-data "h2h" "e-transfer-email" >}}</a>.
-Please send **{{< fpl-get-data "h2h" "e-transfer-amount" >}}** by {{< fpl-get-data "h2h" "join-deadline" >}} and
+<a href="mailto:{{< fpl-get-data "h2h" "eTransferEmail" >}}">{{< fpl-get-data "h2h" "eTransferEmail" >}}</a>.
+Please send **{{< fpl-get-data "h2h" "eTransferAmount" >}}** by {{< fpl-get-data "h2h" "joinDeadline" >}} and
 include your Team name and Manager name in the description of the Interac e-Transfer.
 
 {{< fpl-payment-table "h2h" >}}

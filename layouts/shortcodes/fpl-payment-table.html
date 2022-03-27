@@ -9,13 +9,13 @@
     </tr>
     </thead>
   <tbody>
-    {{ $payments := sort (index (index .Site.Data.fpl (.Get 0)) "payment") "payment_status" "asc" }}
+    {{ $payments := sort (index (index .Site.Data.fpl (.Get 0)) "payment") "paymentStatus" "asc" }}
     {{ range $payments }}
       <tr>
         <td class="text-left">{{ index . "team" }}</td>
         <td class="text-left">{{ index . "manager" }}</td>
-        <td class="text-center">{{ index . "amount_due" }}</td>
-        {{ $status := index . "payment_status" }}
+        <td class="text-center">{{ index . "playmentDue" }}</td>
+        {{ $status := index . "paymentStatus" }}
         {{ if eq $status "Paid"}}
           <td class="text-right">:green_circle:</td>
         {{ else }}

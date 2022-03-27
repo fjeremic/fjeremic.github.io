@@ -10,21 +10,21 @@ def get_quarter_standings(players, gameweeks):
         # Initialize the standings where each player is first. We'll fix this after we parse the gameweeks.
         standings.append({
             'rank': 1,
-            'team-id': player["entry"],
+            'teamId': player["entry"],
             'team': player["entry_name"],
             'manager': player["player_name"],
             'wins': 0,
             'draws': 0,
             'losses': 0,
             'points': 0,
-            'fpl-points': 0,
+            'fplPoints': 0,
         })
 
     # Parse all wins, draws, losses, and total points, then calculate the points at each iteration
     for gameweek in gameweeks:
         for fixture in gameweek:
-            entry_1 = next((x for x in standings if x['team-id'] == fixture["entry_1_entry"]), None)
-            entry_2 = next((x for x in standings if x['team-id'] == fixture["entry_2_entry"]), None)
+            entry_1 = next((x for x in standings if x['teamId'] == fixture["entry_1_entry"]), None)
+            entry_2 = next((x for x in standings if x['teamId'] == fixture["entry_2_entry"]), None)
 
             if not entry_1 or not entry_2:
                 raise RuntimeError("Could not extract entires!")
@@ -46,11 +46,11 @@ def get_quarter_standings(players, gameweeks):
             entry_2['points'] =  entry_2['wins'] * 3 + entry_2['draws']
 
             # Append FPL points
-            entry_1['fpl-points'] +=  fixture["entry_1_points"]
-            entry_2['fpl-points'] +=  fixture["entry_2_points"]
+            entry_1['fplPoints'] +=  fixture["entry_1_points"]
+            entry_2['fplPoints'] +=  fixture["entry_2_points"]
 
     # Sort the standings first by points then by FPL points
-    standings.sort(key = lambda x: (x['points'], x['fpl-points']), reverse = True)
+    standings.sort(key = lambda x: (x['points'], x['fplPoints']), reverse = True)
 
     # Now that we are sorted update the true ranking in order
     for i in range(len(standings)):
