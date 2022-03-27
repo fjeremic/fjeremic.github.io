@@ -1,0 +1,30 @@
+name: hugo-build-push
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+      - name: Checkout gh-pages to ./public
+        uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+          path: ./public
+      - name: Build
+        uses: ./.github/actions/hugo-build
+      - name: Push to gh-pages
+        working-directory: ./public
+        run: |
+          git config --global user.name "Filip Jeremic"
+          git config --global user.email "filip@jeremic.ca"
+          git add -A
+          git commit -m "Deploy ${GITHUB_SHA}" --allow-empty
+          git push

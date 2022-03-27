@@ -1,0 +1,24 @@
+name: fpl-h2h-standings-generate-push
+
+on:
+  schedule:
+    - cron: "30 5 * * *"
+
+jobs:
+  generate-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Generate
+        uses: ./.github/actions/fpl-h2h-standings
+      - name: Get current date and time
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H-%m-%S')"
+      - name: Push
+        run: |
+          git config --global user.name "Filip Jeremic"
+          git config --global user.email "filip@jeremic.ca"
+          git add -A
+          git commit -m "Update FPL H2H standings ${{ steps.date.outputs.date }}" --allow-empty
+          git push

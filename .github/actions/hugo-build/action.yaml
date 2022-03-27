@@ -1,0 +1,7 @@
+name: 'Hugo Build'
+description: 'Statically builds the Hugo website into the ./public directory'
+runs:
+  using: 'docker'
+  image: '../../../Dockerfile'
+  args:
+    - .github/actions/hugo-build/action.sh

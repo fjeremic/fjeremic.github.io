@@ -1,0 +1,13 @@
+name: 'FPL H2H Standings'
+description: 'Generate FPL H2H quarter standings in ./data/fpl-h2h-standings.yaml'
+runs:
+  using: 'docker'
+  image: '../../../Dockerfile'
+  args:
+    - python3
+    - scripts/fpl_h2h_standings.py
+    - -l
+    - 367286
+    - -o
+    - ./data/fpl-h2h-standings.yaml
+    - -v
