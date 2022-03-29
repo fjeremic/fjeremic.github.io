@@ -1,8 +1,8 @@
 # The theme colour scheme to use
-colorScheme: "Ocean"
+colorScheme: ocean
 
 # The default theme appearance, either light or dark
-defaultAppearance: "light"
+defaultAppearance: light
 
 # Whether the theme appearance automatically switches based upon the visitor’s operating system preference
 autoSwitchAppearance: true
