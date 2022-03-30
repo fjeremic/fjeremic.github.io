@@ -61,3 +61,19 @@ rebuild and serve the content. We can use two terminal shells to invoke the foll
 docker run -v $PWD:/$PWD -w $PWD -it jeremic.ca npm run tailwind-watch
 docker run -v $PWD:/$PWD -w $PWD -p 8000:8000 -it jeremic.ca npm run hugo-watch
 ```
+
+## LaTex
+
+We purposely don't install the Linux LaTex packages in the Dockerfile because it bloats the image size unnecessarily.
+We can install the LaTex packages manually and build the Resume inside the docker container as follows:
+
+```
+# Run the docker container as an interactive shell
+docker run -v $PWD:/$PWD -w $PWD -it jeremic.ca /bin/bash
+
+# Install LaTex
+apt-get install -y texlive texstudio
+
+# Build the Resume
+pdflatex Filip-Jeremic-Resume.tex
+```
