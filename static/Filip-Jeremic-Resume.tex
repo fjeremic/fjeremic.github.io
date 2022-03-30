@@ -112,29 +112,9 @@ environment (VM, GC, JIT), particularly in the context of a JVM
 
 \href{https://patents.google.com/patent/US10002010B2}{Patent No. US10002010B2} \hfill {\bf Issued 2018-06-19}
 
-Multi-byte compressed string representation embodiments define a String class control field identifying compression as
-enabled/disabled, and another control field, identifying a decompressed string created when compression enabled. Tests
-are noped based on null setting of the compression flag. When arguments to a String class constructor are not
-compressible, a decompressed String is created and stringCompressionFlag initialized. Endian-aware helper methods for
-reading/writing byte and character values are defined. Enhanced String class constructors, when characters are not
-compressible, create a decompressed String, and initialize stringCompressionFlag triggering class load assumptions,
-overwriting all nopable patch points. A String object sign bit is set to one for decompressed strings when compression
-enabled, and masking/testing this flag bit is noped. Alternative package protected string constructors and operations
-are provided. A predetermined location is checked to determine whether supplied arguments to a String class constructor
-are compressible is performed.
-
-\item {\em \bf Object load introspection using guarded storage} 
+\item {\em \bf Object load introspection using guarded storage}
 
 \href{https://patents.google.com/patent/US20200218651A1}{Patent No. US20200218651A1} \hfill {\bf Issued 2020-07-09}
-
-Systems and methods for object load introspection using guarded storage are disclosed. In embodiments, a computer-
-implemented method includes: determining objects of interest designated by a user; splitting a first subset of a predetermined 
-memory heap into guarded regions based on a number of objects of interest; allocating each of the objects of interest to a 
-respective one of the guarded regions and remaining objects to a second subset of the predetermined memory heap; executing 
-a program; detecting one of the objects of interest is loaded from one of the guarded regions; generating a trap that transfers 
-control of the executing the program to a signal handler, wherein the signal handler is designated to perform a user-defined 
-task associated with the one of the objects of interest; and executing, by the signal handler of the computing device, the user-
-defined task.
 
 \end{list}
 
