@@ -1,6 +1,7 @@
 name: fpl-h2h-standings-generate-push
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "30 5 * * *"
 
