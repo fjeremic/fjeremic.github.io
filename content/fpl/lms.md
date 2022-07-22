@@ -1,6 +1,6 @@
 ---
 title: Last Man Standing League
-date: 2021-08-10
+date: 2022-07-01
 showDate: false
 showAuthor: false
 showEdit: false
@@ -12,7 +12,7 @@ sharingLinks: false
 <br>
 
 {{< alert >}}
-Click/tap to [view the standings]({{< fpl-get-data "lms" "standings" >}}) or see [all leagues](../)
+Click/tap to [auto-join]({{< fpl-get-data "lms" "joinLink" >}}) or see [all leagues](../)
 {{< /alert >}}
 
 ## Rules

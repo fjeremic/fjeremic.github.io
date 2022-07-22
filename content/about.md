@@ -22,7 +22,7 @@ turned out to be a great skill later on in my career working on compilers.
 
 Today, I still peruse my interests through my various [projects](/projects/) which are all open-source. I
 [write](/blog/) about topics that interest me. I'm still a gamer, an avid soccer player, and a competitive Fantasy
-Premier League player ([season history](https://fantasy.premierleague.com/entry/109941/history)).
+Premier League player ([season history](https://fantasy.premierleague.com/entry/367933/history)).
 
 ## Contact 
 

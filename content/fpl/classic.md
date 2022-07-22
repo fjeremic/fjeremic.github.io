@@ -1,6 +1,6 @@
 ---
 title: Classic League
-date: 2021-08-12
+date: 2022-07-03
 showDate: false
 showAuthor: false
 showEdit: false
@@ -12,7 +12,7 @@ sharingLinks: false
 <br>
 
 {{< alert >}}
-Click/tap to [view the standings]({{< fpl-get-data "classic" "standings" >}}) or see [all leagues](../)
+Click/tap to [auto-join]({{< fpl-get-data "classic" "joinLink" >}}) or see [all leagues](../)
 {{< /alert >}}
 
 ## Rules

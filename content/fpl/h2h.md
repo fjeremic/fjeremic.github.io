@@ -1,6 +1,6 @@
 ---
 title: Head-To-Head League
-date: 2021-08-11
+date: 2022-07-02
 showDate: false
 showAuthor: false
 showEdit: false
@@ -12,7 +12,7 @@ sharingLinks: false
 <br>
 
 {{< alert >}}
-Click/tap to [view the standings]({{< fpl-get-data "h2h" "standings" >}}) or see [all leagues](../)
+Click/tap to [auto-join]({{< fpl-get-data "h2h" "joinLink" >}}) or see [all leagues](../)
 {{< /alert >}}
 
 ## Rules
@@ -73,10 +73,10 @@ include your Team name and Manager name in the description of the Interac e-Tran
 
 ## Standings
 
-{{< fpl-h2h-standings "q1" false>}}
+{{< fpl-h2h-standings "q1" true>}}
 <br>
 {{< fpl-h2h-standings "q2" false>}}
 <br>
 {{< fpl-h2h-standings "q3" false>}}
 <br>
-{{< fpl-h2h-standings "q4" true>}}
+{{< fpl-h2h-standings "q4" false>}}
