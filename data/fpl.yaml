@@ -10,6 +10,42 @@ classic:
       manager: Filip Jeremic
       playmentDue: $100
       paymentStatus: Paid
+    - team: S L A V I J A
+      manager: Bojan Samardzija
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: WinninThePoo2
+      manager: D Lukic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: KDBx4
+      manager: Danijel Avlijas
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: NEEDS TO JOIN LEAGUE
+      manager: Marko Cholic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Top 25 Hopefully
+      manager: Ilija Milisic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: NEEDS TO JOIN LEAGUE
+      manager: Mladen Lucic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Panics
+      manager: Stefan Panic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: NEEDS TO JOIN LEAGUE
+      manager: Juka Alimanovic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: TOP 5 FC
+      manager: Arandjel Djuric
+      playmentDue: $100
+      paymentStatus: Paid
 h2h:
   name: Head-To-Head League
   standings: https://fantasy.premierleague.com/leagues/607249/standings/h
@@ -20,6 +56,38 @@ h2h:
   payment:
     - team: JFC
       manager: Filip Jeremic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: S L A V I J A
+      manager: Bojan Samardzija
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: WinninThePoo2
+      manager: D Lukic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: KDBx4
+      manager: Danijel Avlijas
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: NEEDS TO JOIN LEAGUE
+      manager: Marko Cholic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Top 25 Hopefully
+      manager: Ilija Milisic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: NEEDS TO JOIN LEAGUE
+      manager: Mladen Lucic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: NEEDS TO JOIN LEAGUE
+      manager: Juka Alimanovic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: TOP 5 FC
+      manager: Arandjel Djuric
       playmentDue: $100
       paymentStatus: Paid
 lms:
@@ -33,4 +101,24 @@ lms:
     - team: JFC
       manager: Filip Jeremic
       playmentDue: $50
+      paymentStatus: Paid
+    - team: WinninThePoo2
+      manager: D Lukic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: KDBx4
+      manager: Danijel Avlijas
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Top 25 Hopefully
+      manager: Ilija Milisic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: NEEDS TO JOIN LEAGUE
+      manager: Mladen Lucic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: NEEDS TO JOIN LEAGUE
+      manager: Juka Alimanovic
+      playmentDue: $100
       paymentStatus: Paid
