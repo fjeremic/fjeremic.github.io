@@ -62,7 +62,7 @@ docker run -v $PWD:/$PWD -w $PWD -it jeremic.ca npm run tailwind-watch
 docker run -v $PWD:/$PWD -w $PWD -p 8000:8000 -it jeremic.ca npm run hugo-watch
 ```
 
-## LaTex
+## LaTeX
 
 We purposely don't install the Linux LaTex packages in the Dockerfile because it bloats the image size unnecessarily.
 We can install the LaTex packages manually and build the Resume inside the docker container as follows:
@@ -71,7 +71,7 @@ We can install the LaTex packages manually and build the Resume inside the docke
 # Run the docker container as an interactive shell
 docker run -v $PWD:/$PWD -w $PWD -it jeremic.ca /bin/bash
 
-# Install LaTex
+# Install LaTeX
 apt-get install -y texlive texstudio
 
 # Build the Resume
