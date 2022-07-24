@@ -22,7 +22,7 @@ classic:
       manager: Danijel Avlijas
       playmentDue: $100
       paymentStatus: Paid
-    - team: NEEDS TO JOIN LEAGUE
+    - team: PSV Ibeensmokin
       manager: Marko Cholic
       playmentDue: $100
       paymentStatus: Paid
@@ -38,12 +38,24 @@ classic:
       manager: Stefan Panic
       playmentDue: $100
       paymentStatus: Paid
-    - team: NEEDS TO JOIN LEAGUE
+    - team: Fk Vikdam
       manager: Juka Alimanovic
       playmentDue: $100
       paymentStatus: Paid
     - team: TOP 5 FC
       manager: Arandjel Djuric
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: NEEDS TO JOIN LEAGUE
+      manager: Djordje Cupac
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FC Next Season
+      manager: Ivan J
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Rolo FC
+      manager: Branko Oluic
       playmentDue: $100
       paymentStatus: Paid
 h2h:
@@ -70,7 +82,7 @@ h2h:
       manager: Danijel Avlijas
       playmentDue: $100
       paymentStatus: Paid
-    - team: NEEDS TO JOIN LEAGUE
+    - team: PSV Ibeensmokin
       manager: Marko Cholic
       playmentDue: $100
       paymentStatus: Paid
@@ -82,12 +94,24 @@ h2h:
       manager: Mladen Lucic
       playmentDue: $100
       paymentStatus: Paid
-    - team: NEEDS TO JOIN LEAGUE
+    - team: Fk Vikdam
       manager: Juka Alimanovic
       playmentDue: $100
       paymentStatus: Paid
     - team: TOP 5 FC
       manager: Arandjel Djuric
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: NEEDS TO JOIN LEAGUE
+      manager: Djordje Cupac
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FC Next Season
+      manager: Ivan J
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Rolo FC
+      manager: Branko Oluic
       playmentDue: $100
       paymentStatus: Paid
 lms:
@@ -118,7 +142,15 @@ lms:
       manager: Mladen Lucic
       playmentDue: $100
       paymentStatus: Paid
-    - team: NEEDS TO JOIN LEAGUE
+    - team: Fk Vikdam
       manager: Juka Alimanovic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FC Next Season
+      manager: Ivan J
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Rolo FC
+      manager: Branko Oluic
       playmentDue: $100
       paymentStatus: Paid
