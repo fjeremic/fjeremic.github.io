@@ -14,10 +14,6 @@ classic:
       manager: Bojan Samardzija
       playmentDue: $100
       paymentStatus: Paid
-    - team: WinninThePoo2
-      manager: D Lukic
-      playmentDue: $100
-      paymentStatus: Paid
     - team: KDBx4
       manager: Danijel Avlijas
       playmentDue: $100
@@ -74,10 +70,6 @@ h2h:
       manager: Bojan Samardzija
       playmentDue: $100
       paymentStatus: Paid
-    - team: WinninThePoo2
-      manager: D Lukic
-      playmentDue: $100
-      paymentStatus: Paid
     - team: KDBx4
       manager: Danijel Avlijas
       playmentDue: $100
@@ -125,10 +117,6 @@ lms:
     - team: JFC
       manager: Filip Jeremic
       playmentDue: $50
-      paymentStatus: Paid
-    - team: WinninThePoo2
-      manager: D Lukic
-      playmentDue: $100
       paymentStatus: Paid
     - team: KDBx4
       manager: Danijel Avlijas
