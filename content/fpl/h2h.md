@@ -36,7 +36,7 @@ winnings:
 | 1<sup>st</sup> quarter | GW1 - GW10             | 10                    |
 | 2<sup>nd</sup> quarter | GW11 - GW19            | 9                     |
 | 3<sup>rd</sup> quarter | GW20 - GW29            | 10                    |
-| 4<sup>th</sup> quarter | GW30 - GW28            | 9                     |
+| 4<sup>th</sup> quarter | GW30 - GW38            | 9                     |
 
 
 Within each quarter the point system is exactly the same as in the official Head-To-Head scoring system, meaning a win
@@ -44,6 +44,10 @@ earns you three (3) points, a tie earns you one (1) point, and a loss earns you 
 most number of points each quarter is declared the quarter winner. In the event of a point tie the total number of FPL
 points (as reported on the official Head-To-Head league tables) accumulated in the respective quarter will be used as a
 tie breaker. In the event of a point tie and FPL point tie the winnings will be split among the first place finishers.
+
+In the event of game week postponements (ex. due to COVID-19 or other events), each game week postponed will be added
+to the number of game weeks played in the corresponding quarter. For example if two (2) game weeks are postponed in Q3,
+then the total number of game weeks played in Q3 will be 9 + 2 = 11.
 
 Real-time up-to-date [Standings](#standings) will be made available once the Head-To-Head matches are scheduled on the
 official league page.
