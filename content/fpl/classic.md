@@ -1,6 +1,6 @@
 ---
 title: Classic League
-date: 2022-07-03
+date: 2023-01-03
 showDate: false
 showAuthor: false
 showEdit: false

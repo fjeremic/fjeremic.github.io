@@ -1,6 +1,6 @@
 ---
 title: Last Man Standing League
-date: 2022-07-01
+date: 2023-01-01
 showDate: false
 showAuthor: false
 showEdit: false
