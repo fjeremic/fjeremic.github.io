@@ -10,6 +10,22 @@ classic:
       manager: Filip Jeremic
       playmentDue: $100
       paymentStatus: Paid
+    - team: FK Panic
+      manager: Stefan Panic
+      playmentDue: $100
+      paymentStatus: Payment Due
+    - team: FC Next Season
+      manager: Ivan J
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Pizza the Hutt
+      manager: Nebojsa Milosevic
+      playmentDue: $100
+      paymentStatus: Payment Due
+    - team: S A L A J K A
+      manager: Bojan Samardzija
+      playmentDue: $100
+      paymentStatus: Payment Due
 h2h:
   name: Head-To-Head League
   standings: https://fantasy.premierleague.com/leagues/571225/standings/h
@@ -22,6 +38,22 @@ h2h:
       manager: Filip Jeremic
       playmentDue: $100
       paymentStatus: Paid
+    - team: FK Panic
+      manager: Stefan Panic
+      playmentDue: $100
+      paymentStatus: Payment Due
+    - team: FC Next Season
+      manager: Ivan J
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Pizza the Hutt
+      manager: Nebojsa Milosevic
+      playmentDue: $100
+      paymentStatus: Payment Due
+    - team: S A L A J K A
+      manager: Bojan Samardzija
+      playmentDue: $100
+      paymentStatus: Payment Due
 lms:
   name: Last Man Standing League
   standings: https://fantasy.premierleague.com/leagues/571223/standings/c
@@ -34,3 +66,15 @@ lms:
       manager: Filip Jeremic
       playmentDue: $50
       paymentStatus: Paid
+    - team: FC Next Season
+      manager: Ivan J
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Pizza the Hutt
+      manager: Nebojsa Milosevic
+      playmentDue: $100
+      paymentStatus: Payment Due
+    - team: S A L A J K A
+      manager: Bojan Samardzija
+      playmentDue: $100
+      paymentStatus: Payment Due
