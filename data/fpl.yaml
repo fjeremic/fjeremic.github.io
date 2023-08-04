@@ -21,9 +21,37 @@ classic:
     - team: Pizza the Hutt
       manager: Nebojsa Milosevic
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: S A L A J K A
       manager: Bojan Samardzija
+      playmentDue: $100
+      paymentStatus: Payment Due
+    - team: PSV Ibeensmokin
+      manager: Marko Cholich
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: The Overtinkerer
+      manager: Bo Riski
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: T stars
+      manager: todor beric
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Fk Vikdam
+      manager: Juka Alimanovic
+      playmentDue: $100
+      paymentStatus: Payment Due
+    - team: Top 20 Hopefully
+      manager: Ilija Milisic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: UNKNOWN
+      manager: Branko Oluic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: BOTTLE FC
+      manager: Arandjel Djuric
       playmentDue: $100
       paymentStatus: Payment Due
 h2h:
@@ -49,11 +77,31 @@ h2h:
     - team: Pizza the Hutt
       manager: Nebojsa Milosevic
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: S A L A J K A
       manager: Bojan Samardzija
       playmentDue: $100
       paymentStatus: Payment Due
+    - team: PSV Ibeensmokin
+      manager: Marko Cholich
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Top 20 Hopefully
+      manager: Ilija Milisic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Fk Vikdam
+      manager: Juka Alimanovic
+      playmentDue: $100
+      paymentStatus: Payment Due
+    - team: BOTTLE FC
+      manager: Arandjel Djuric
+      playmentDue: $100
+      paymentStatus: Payment Due
+    - team: UNKNOWN
+      manager: Branko Oluic
+      playmentDue: $100
+      paymentStatus: Paid
 lms:
   name: Last Man Standing League
   standings: https://fantasy.premierleague.com/leagues/571223/standings/c
@@ -68,13 +116,29 @@ lms:
       paymentStatus: Paid
     - team: FC Next Season
       manager: Ivan J
-      playmentDue: $100
+      playmentDue: $50
       paymentStatus: Paid
     - team: Pizza the Hutt
       manager: Nebojsa Milosevic
-      playmentDue: $100
-      paymentStatus: Payment Due
+      playmentDue: $50
+      paymentStatus: Paid
     - team: S A L A J K A
       manager: Bojan Samardzija
+      playmentDue: $50
+      paymentStatus: Payment Due
+    - team: T stars
+      manager: todor beric
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: Top 20 Hopefully
+      manager: Ilija Milisic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: UNKNOWN
+      manager: Branko Oluic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Fk Vikdam
+      manager: Juka Alimanovic
       playmentDue: $100
       paymentStatus: Payment Due
