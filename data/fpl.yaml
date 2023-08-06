@@ -25,7 +25,7 @@ classic:
     - team: S A L A J K A
       manager: Bojan Samardzija
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: PSV Ibeensmokin
       manager: Marko Cholich
       playmentDue: $100
@@ -81,7 +81,7 @@ h2h:
     - team: S A L A J K A
       manager: Bojan Samardzija
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: PSV Ibeensmokin
       manager: Marko Cholich
       playmentDue: $100
@@ -125,7 +125,7 @@ lms:
     - team: S A L A J K A
       manager: Bojan Samardzija
       playmentDue: $50
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: T stars
       manager: todor beric
       playmentDue: $50
