@@ -54,6 +54,10 @@ classic:
       manager: Arandjel Djuric
       playmentDue: $100
       paymentStatus: Payment Due
+    - team: BMA
+      manager: Danijel Avlijas
+      playmentDue: $100
+      paymentStatus: Paid
 h2h:
   name: Head-To-Head League
   standings: https://fantasy.premierleague.com/leagues/571225/standings/h
@@ -102,6 +106,10 @@ h2h:
       manager: Branko Oluic
       playmentDue: $100
       paymentStatus: Paid
+    - team: BMA
+      manager: Danijel Avlijas
+      playmentDue: $100
+      paymentStatus: Paid
 lms:
   name: Last Man Standing League
   standings: https://fantasy.premierleague.com/leagues/571223/standings/c
@@ -136,9 +144,13 @@ lms:
       paymentStatus: Paid
     - team: UNKNOWN
       manager: Branko Oluic
-      playmentDue: $100
+      playmentDue: $50
       paymentStatus: Paid
     - team: Fk Vikdam
       manager: Juka Alimanovic
-      playmentDue: $100
+      playmentDue: $50
       paymentStatus: Payment Due
+    - team: BMA
+      manager: Danijel Avlijas
+      playmentDue: $50
+      paymentStatus: Paid
