@@ -58,6 +58,14 @@ classic:
       manager: Danijel Avlijas
       playmentDue: $100
       paymentStatus: Paid
+    - team: Wa$ted
+      manager: Mladen Lucic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: UNKNOWN
+      manager: Goran Radovic
+      playmentDue: $100
+      paymentStatus: Paid
 h2h:
   name: Head-To-Head League
   standings: https://fantasy.premierleague.com/leagues/571225/standings/h
@@ -110,6 +118,10 @@ h2h:
       manager: Danijel Avlijas
       playmentDue: $100
       paymentStatus: Paid
+    - team: Wa$ted
+      manager: Mladen Lucic
+      playmentDue: $100
+      paymentStatus: Paid
 lms:
   name: Last Man Standing League
   standings: https://fantasy.premierleague.com/leagues/571223/standings/c
@@ -152,5 +164,9 @@ lms:
       paymentStatus: Payment Due
     - team: BMA
       manager: Danijel Avlijas
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: Wa$ted
+      manager: Mladen Lucic
       playmentDue: $50
       paymentStatus: Paid
