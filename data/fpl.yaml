@@ -26,10 +26,6 @@ classic:
       manager: Bojan Samardzija
       playmentDue: $100
       paymentStatus: Paid
-    - team: PSV Ibeensmokin
-      manager: Marko Cholich
-      playmentDue: $100
-      paymentStatus: Paid
     - team: The Overtinkerer
       manager: Bo Riski
       playmentDue: $100
@@ -89,7 +85,7 @@ classic:
     - team: DeeKay
       manager: Dee Kay
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: FC POLEMICS
       manager: Stefan Vlatkovic
       playmentDue: $100
@@ -100,6 +96,10 @@ classic:
       paymentStatus: Paid
     - team: FC Sporting Abeergut
       manager: Mirko Misic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Supermen
+      manager: Goran Lakic
       playmentDue: $100
       paymentStatus: Paid
 h2h:
@@ -128,10 +128,6 @@ h2h:
       paymentStatus: Paid
     - team: S A L A J K A
       manager: Bojan Samardzija
-      playmentDue: $100
-      paymentStatus: Paid
-    - team: PSV Ibeensmokin
-      manager: Marko Cholich
       playmentDue: $100
       paymentStatus: Paid
     - team: Top 20 Hopefully
@@ -165,7 +161,11 @@ h2h:
     - team: DeeKay
       manager: Dee Kay
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
+    - team: Supermen
+      manager: Goran Lakic
+      playmentDue: $100
+      paymentStatus: Paid
 lms:
   name: Last Man Standing League
   standings: https://fantasy.premierleague.com/leagues/571223/standings/c
