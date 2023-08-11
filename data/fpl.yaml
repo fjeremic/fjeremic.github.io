@@ -146,6 +146,14 @@ h2h:
       manager: Mladen Lucic
       playmentDue: $100
       paymentStatus: Paid
+    - team: WinninThePoo
+      manager: D Lukic
+      playmentDue: $100
+      paymentStatus: Payment Due
+    - team: DeeKay
+      manager: Dee Kay
+      playmentDue: $100
+      paymentStatus: Payment Due
 lms:
   name: Last Man Standing League
   standings: https://fantasy.premierleague.com/leagues/571223/standings/c
@@ -194,3 +202,7 @@ lms:
       manager: Mladen Lucic
       playmentDue: $50
       paymentStatus: Paid
+    - team: WinninThePoo
+      manager: D Lukic
+      playmentDue: $50
+      paymentStatus: Payment Due
