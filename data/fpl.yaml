@@ -13,7 +13,7 @@ classic:
     - team: FK Panic
       manager: Stefan Panic
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: FC Next Season
       manager: Ivan J
       playmentDue: $100
@@ -53,7 +53,7 @@ classic:
     - team: BOTTLE FC
       manager: Arandjel Djuric
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: BMA
       manager: Danijel Avlijas
       playmentDue: $100
@@ -77,11 +77,11 @@ classic:
     - team: Daddy's Boyz
       manager: jakub kicinski
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: WinninThePoo
       manager: D Lukic
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: Shiba Army
       manager: Zoran Crnogorac
       playmentDue: $100
@@ -90,6 +90,18 @@ classic:
       manager: Dee Kay
       playmentDue: $100
       paymentStatus: Payment Due
+    - team: FC POLEMICS
+      manager: Stefan Vlatkovic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: STP LVP
+      manager: Predrag Munic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FC Sporting Abeergut
+      manager: Mirko Misic
+      playmentDue: $100
+      paymentStatus: Paid
 h2h:
   name: Head-To-Head League
   standings: https://fantasy.premierleague.com/leagues/571225/standings/h
@@ -105,7 +117,7 @@ h2h:
     - team: FK Panic
       manager: Stefan Panic
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: FC Next Season
       manager: Ivan J
       playmentDue: $100
@@ -133,7 +145,7 @@ h2h:
     - team: BOTTLE FC
       manager: Arandjel Djuric
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: Rolo FC
       manager: Branko Oluic
       playmentDue: $100
@@ -149,7 +161,7 @@ h2h:
     - team: WinninThePoo
       manager: D Lukic
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: DeeKay
       manager: Dee Kay
       playmentDue: $100
@@ -205,4 +217,4 @@ lms:
     - team: WinninThePoo
       manager: D Lukic
       playmentDue: $50
-      paymentStatus: Payment Due
+      paymentStatus: Paid
