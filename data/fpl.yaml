@@ -41,7 +41,7 @@ classic:
     - team: Fk Vikdam
       manager: Juka Alimanovic
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: Top 20 Hopefully
       manager: Ilija Milisic
       playmentDue: $100
@@ -62,10 +62,34 @@ classic:
       manager: Mladen Lucic
       playmentDue: $100
       paymentStatus: Paid
-    - team: UNKNOWN
+    - team: KingKong
       manager: Goran Radovic
       playmentDue: $100
       paymentStatus: Paid
+    - team: Dragan's Dalmatians
+      manager: Dragan Mijakovac
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Fanatik
+      manager: Adrian Polgar
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Daddy's Boyz
+      manager: jakub kicinski
+      playmentDue: $100
+      paymentStatus: Payment Due
+    - team: WinninThePoo
+      manager: D Lukic
+      playmentDue: $100
+      paymentStatus: Payment Due
+    - team: Shiba Army
+      manager: Zoran Crnogorac
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: DeeKay
+      manager: Dee Kay
+      playmentDue: $100
+      paymentStatus: Payment Due
 h2h:
   name: Head-To-Head League
   standings: https://fantasy.premierleague.com/leagues/571225/standings/h
@@ -105,7 +129,7 @@ h2h:
     - team: Fk Vikdam
       manager: Juka Alimanovic
       playmentDue: $100
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: BOTTLE FC
       manager: Arandjel Djuric
       playmentDue: $100
@@ -161,7 +185,7 @@ lms:
     - team: Fk Vikdam
       manager: Juka Alimanovic
       playmentDue: $50
-      paymentStatus: Payment Due
+      paymentStatus: Paid
     - team: BMA
       manager: Danijel Avlijas
       playmentDue: $50
