@@ -1,5 +1,14 @@
 q1:
   - rank: 1
+    teamId: 122666
+    team: JFC
+    manager: Filip Jeremic
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 82
+  - rank: 2
     teamId: 649897
     team: FK Panic
     manager: Stefan Panic
@@ -8,15 +17,6 @@ q1:
     losses: 0
     points: 3
     fplPoints: 81
-  - rank: 2
-    teamId: 122666
-    team: JFC
-    manager: Filip Jeremic
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 80
   - rank: 3
     teamId: 1620894
     team: FC Next Season
@@ -25,17 +25,8 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 78
+    fplPoints: 80
   - rank: 4
-    teamId: 7273
-    team: S A L A J K A
-    manager: Bojan Samardzija
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 74
-  - rank: 5
     teamId: 882496
     team: Wa$ted
     manager: Mladen Lucic
@@ -44,6 +35,15 @@ q1:
     losses: 0
     points: 3
     fplPoints: 73
+  - rank: 5
+    teamId: 7273
+    team: S A L A J K A
+    manager: Bojan Samardzija
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 70
   - rank: 6
     teamId: 1543228
     team: Top 20 Hopefully
@@ -61,7 +61,7 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 54
+    fplPoints: 50
   - rank: 8
     teamId: 3625500
     team: Rolo FC
@@ -88,7 +88,7 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 70
+    fplPoints: 72
   - rank: 11
     teamId: 384794
     team: Pizza the Hutt
@@ -97,7 +97,7 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 69
+    fplPoints: 71
   - rank: 12
     teamId: 182547
     team: DeeKay
@@ -106,7 +106,7 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 63
+    fplPoints: 65
   - rank: 13
     teamId: 3727970
     team: WinninThePoo
@@ -115,7 +115,7 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 63
+    fplPoints: 61
   - rank: 14
     teamId: 1380871
     team: Fk Vikdam
