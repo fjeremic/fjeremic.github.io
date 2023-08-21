@@ -7,8 +7,17 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 134
+    fplPoints: 145
   - rank: 2
+    teamId: 122666
+    team: JFC
+    manager: Filip Jeremic
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 118
+  - rank: 3
     teamId: 1620894
     team: FC Next Season
     manager: Ivan J
@@ -17,15 +26,6 @@ q1:
     losses: 0
     points: 3
     fplPoints: 118
-  - rank: 3
-    teamId: 122666
-    team: JFC
-    manager: Filip Jeremic
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 112
   - rank: 4
     teamId: 1543228
     team: Top 20 Hopefully
@@ -43,7 +43,7 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 103
+    fplPoints: 104
   - rank: 6
     teamId: 882496
     team: Wa$ted
@@ -52,7 +52,7 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 93
+    fplPoints: 94
   - rank: 7
     teamId: 4717704
     team: Supermen
@@ -61,7 +61,7 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 85
+    fplPoints: 86
   - rank: 8
     teamId: 458135
     team: BOTTLE FC
@@ -79,8 +79,26 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 103
+    fplPoints: 109
   - rank: 10
+    teamId: 182547
+    team: DeeKay
+    manager: Dee Kay
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 107
+  - rank: 11
+    teamId: 3625500
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 106
+  - rank: 12
     teamId: 3727970
     team: WinninThePoo
     manager: D Lukic
@@ -89,7 +107,7 @@ q1:
     losses: 1
     points: 0
     fplPoints: 103
-  - rank: 11
+  - rank: 13
     teamId: 384794
     team: Pizza the Hutt
     manager: Nebojsa Milosevic
@@ -98,24 +116,6 @@ q1:
     losses: 1
     points: 0
     fplPoints: 102
-  - rank: 12
-    teamId: 3625500
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
-    fplPoints: 100
-  - rank: 13
-    teamId: 182547
-    team: DeeKay
-    manager: Dee Kay
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
-    fplPoints: 100
   - rank: 14
     teamId: 1380871
     team: Fk Vikdam
@@ -124,7 +124,7 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 81
+    fplPoints: 92
 q2:
   - rank: 1
     teamId: 649897
