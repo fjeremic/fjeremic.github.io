@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 0
     points: 6
-    fplPoints: 148
+    fplPoints: 167
   - rank: 2
     teamId: 122666
     team: JFC
@@ -16,7 +16,7 @@ q1:
     draws: 0
     losses: 0
     points: 6
-    fplPoints: 125
+    fplPoints: 138
   - rank: 3
     teamId: 1543228
     team: Top 20 Hopefully
@@ -25,16 +25,16 @@ q1:
     draws: 0
     losses: 0
     points: 6
-    fplPoints: 111
+    fplPoints: 103
   - rank: 4
-    teamId: 458135
-    team: BOTTLE FC
-    manager: Arandjel Djuric
+    teamId: 182547
+    team: DeeKay
+    manager: Dee Kay
     wins: 1
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 122
+    fplPoints: 143
   - rank: 5
     teamId: 1620894
     team: FC Next Season
@@ -43,35 +43,8 @@ q1:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 122
+    fplPoints: 128
   - rank: 6
-    teamId: 182547
-    team: DeeKay
-    manager: Dee Kay
-    wins: 1
-    draws: 0
-    losses: 1
-    points: 3
-    fplPoints: 121
-  - rank: 7
-    teamId: 384794
-    team: Pizza the Hutt
-    manager: Nebojsa Milosevic
-    wins: 1
-    draws: 0
-    losses: 1
-    points: 3
-    fplPoints: 117
-  - rank: 8
-    teamId: 882496
-    team: Wa$ted
-    manager: Mladen Lucic
-    wins: 1
-    draws: 0
-    losses: 1
-    points: 3
-    fplPoints: 111
-  - rank: 9
     teamId: 7273
     team: S A L A J K A
     manager: Bojan Samardzija
@@ -79,17 +52,35 @@ q1:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 110
-  - rank: 10
-    teamId: 1380871
-    team: Fk Vikdam
-    manager: Juka Alimanovic
+    fplPoints: 126
+  - rank: 7
+    teamId: 458135
+    team: BOTTLE FC
+    manager: Arandjel Djuric
     wins: 1
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 102
-  - rank: 11
+    fplPoints: 122
+  - rank: 8
+    teamId: 384794
+    team: Pizza the Hutt
+    manager: Nebojsa Milosevic
+    wins: 1
+    draws: 0
+    losses: 1
+    points: 3
+    fplPoints: 115
+  - rank: 9
+    teamId: 882496
+    team: Wa$ted
+    manager: Mladen Lucic
+    wins: 1
+    draws: 0
+    losses: 1
+    points: 3
+    fplPoints: 113
+  - rank: 10
     teamId: 4717704
     team: Supermen
     manager: Goran Lakic
@@ -97,26 +88,17 @@ q1:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 96
+    fplPoints: 104
+  - rank: 11
+    teamId: 1380871
+    team: Fk Vikdam
+    manager: Juka Alimanovic
+    wins: 1
+    draws: 0
+    losses: 1
+    points: 3
+    fplPoints: 103
   - rank: 12
-    teamId: 4605524
-    team: BMA
-    manager: Danijel Avlijas
-    wins: 0
-    draws: 0
-    losses: 2
-    points: 0
-    fplPoints: 112
-  - rank: 13
-    teamId: 3625500
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 0
-    draws: 0
-    losses: 2
-    points: 0
-    fplPoints: 110
-  - rank: 14
     teamId: 3727970
     team: WinninThePoo
     manager: D Lukic
@@ -124,7 +106,25 @@ q1:
     draws: 0
     losses: 2
     points: 0
-    fplPoints: 108
+    fplPoints: 135
+  - rank: 13
+    teamId: 4605524
+    team: BMA
+    manager: Danijel Avlijas
+    wins: 0
+    draws: 0
+    losses: 2
+    points: 0
+    fplPoints: 118
+  - rank: 14
+    teamId: 3625500
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 0
+    draws: 0
+    losses: 2
+    points: 0
+    fplPoints: 116
 q2:
   - rank: 1
     teamId: 649897
