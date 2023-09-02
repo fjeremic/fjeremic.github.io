@@ -25,7 +25,7 @@ q1:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 174
+    fplPoints: 170
   - rank: 4
     teamId: 7273
     team: S A L A J K A
@@ -43,7 +43,7 @@ q1:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 152
+    fplPoints: 154
   - rank: 6
     teamId: 1620894
     team: FC Next Season
@@ -61,8 +61,17 @@ q1:
     draws: 1
     losses: 1
     points: 4
-    fplPoints: 143
+    fplPoints: 141
   - rank: 8
+    teamId: 458135
+    team: BOTTLE FC
+    manager: Arandjel Djuric
+    wins: 1
+    draws: 0
+    losses: 2
+    points: 3
+    fplPoints: 175
+  - rank: 9
     teamId: 3727970
     team: WinninThePoo
     manager: D Lukic
@@ -71,15 +80,6 @@ q1:
     losses: 2
     points: 3
     fplPoints: 170
-  - rank: 9
-    teamId: 458135
-    team: BOTTLE FC
-    manager: Arandjel Djuric
-    wins: 1
-    draws: 0
-    losses: 2
-    points: 3
-    fplPoints: 166
   - rank: 10
     teamId: 4605524
     team: BMA
@@ -88,7 +88,7 @@ q1:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 165
+    fplPoints: 161
   - rank: 11
     teamId: 384794
     team: Pizza the Hutt
@@ -97,7 +97,7 @@ q1:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 159
+    fplPoints: 161
   - rank: 12
     teamId: 882496
     team: Zeko Nista Nezna
@@ -106,7 +106,7 @@ q1:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 158
+    fplPoints: 160
   - rank: 13
     teamId: 1380871
     team: Fk Vikdam
@@ -115,7 +115,7 @@ q1:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 145
+    fplPoints: 148
   - rank: 14
     teamId: 3625500
     team: Rolo FC
@@ -124,7 +124,7 @@ q1:
     draws: 0
     losses: 3
     points: 0
-    fplPoints: 160
+    fplPoints: 162
 q2:
   - rank: 1
     teamId: 649897
