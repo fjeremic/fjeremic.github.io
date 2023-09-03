@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 0
     points: 9
-    fplPoints: 202
+    fplPoints: 263
   - rank: 2
     teamId: 122666
     team: JFC
@@ -16,7 +16,7 @@ q1:
     draws: 0
     losses: 0
     points: 9
-    fplPoints: 179
+    fplPoints: 230
   - rank: 3
     teamId: 182547
     team: DeeKay
@@ -25,7 +25,7 @@ q1:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 170
+    fplPoints: 263
   - rank: 4
     teamId: 7273
     team: S A L A J K A
@@ -34,7 +34,7 @@ q1:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 168
+    fplPoints: 212
   - rank: 5
     teamId: 1543228
     team: Top 20 Hopefully
@@ -43,7 +43,7 @@ q1:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 154
+    fplPoints: 203
   - rank: 6
     teamId: 1620894
     team: FC Next Season
@@ -52,7 +52,7 @@ q1:
     draws: 1
     losses: 1
     points: 4
-    fplPoints: 169
+    fplPoints: 226
   - rank: 7
     teamId: 4717704
     team: Supermen
@@ -61,7 +61,7 @@ q1:
     draws: 1
     losses: 1
     points: 4
-    fplPoints: 141
+    fplPoints: 189
   - rank: 8
     teamId: 458135
     team: BOTTLE FC
@@ -70,7 +70,7 @@ q1:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 175
+    fplPoints: 251
   - rank: 9
     teamId: 3727970
     team: WinninThePoo
@@ -79,26 +79,8 @@ q1:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 170
+    fplPoints: 228
   - rank: 10
-    teamId: 4605524
-    team: BMA
-    manager: Danijel Avlijas
-    wins: 1
-    draws: 0
-    losses: 2
-    points: 3
-    fplPoints: 161
-  - rank: 11
-    teamId: 384794
-    team: Pizza the Hutt
-    manager: Nebojsa Milosevic
-    wins: 1
-    draws: 0
-    losses: 2
-    points: 3
-    fplPoints: 161
-  - rank: 12
     teamId: 882496
     team: Zeko Nista Nezna
     manager: Mladen Lucic
@@ -106,7 +88,25 @@ q1:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 160
+    fplPoints: 225
+  - rank: 11
+    teamId: 4605524
+    team: BMA
+    manager: Danijel Avlijas
+    wins: 1
+    draws: 0
+    losses: 2
+    points: 3
+    fplPoints: 224
+  - rank: 12
+    teamId: 384794
+    team: Pizza the Hutt
+    manager: Nebojsa Milosevic
+    wins: 1
+    draws: 0
+    losses: 2
+    points: 3
+    fplPoints: 210
   - rank: 13
     teamId: 1380871
     team: Fk Vikdam
@@ -115,7 +115,7 @@ q1:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 148
+    fplPoints: 179
   - rank: 14
     teamId: 3625500
     team: Rolo FC
@@ -124,7 +124,7 @@ q1:
     draws: 0
     losses: 3
     points: 0
-    fplPoints: 162
+    fplPoints: 215
 q2:
   - rank: 1
     teamId: 649897
