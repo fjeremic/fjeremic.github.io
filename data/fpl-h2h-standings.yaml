@@ -25,7 +25,7 @@ q1:
     draws: 1
     losses: 1
     points: 13
-    fplPoints: 379
+    fplPoints: 381
   - rank: 4
     teamId: 1543228
     team: Top 20 Hopefully
@@ -52,7 +52,7 @@ q1:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 410
+    fplPoints: 412
   - rank: 7
     teamId: 182547
     team: DeeKay
@@ -61,7 +61,7 @@ q1:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 401
+    fplPoints: 403
   - rank: 8
     teamId: 4717704
     team: Supermen
@@ -97,7 +97,7 @@ q1:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 396
+    fplPoints: 398
   - rank: 12
     teamId: 384794
     team: Pizza the Hutt
@@ -106,7 +106,7 @@ q1:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 384
+    fplPoints: 386
   - rank: 13
     teamId: 7273
     team: S A L A J K A
@@ -115,7 +115,7 @@ q1:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 381
+    fplPoints: 383
   - rank: 14
     teamId: 3625500
     team: Rolo FC
@@ -124,7 +124,7 @@ q1:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 362
+    fplPoints: 364
 q2:
   - rank: 1
     teamId: 649897
