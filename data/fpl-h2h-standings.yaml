@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 1
     points: 15
-    fplPoints: 452
+    fplPoints: 459
   - rank: 2
     teamId: 122666
     team: JFC
@@ -61,7 +61,7 @@ q1:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 403
+    fplPoints: 410
   - rank: 8
     teamId: 4717704
     team: Supermen
@@ -90,6 +90,15 @@ q1:
     points: 6
     fplPoints: 402
   - rank: 11
+    teamId: 384794
+    team: Pizza the Hutt
+    manager: Nebojsa Milosevic
+    wins: 2
+    draws: 0
+    losses: 4
+    points: 6
+    fplPoints: 398
+  - rank: 12
     teamId: 3727970
     team: WinninThePoo
     manager: D Lukic
@@ -98,15 +107,6 @@ q1:
     losses: 4
     points: 6
     fplPoints: 398
-  - rank: 12
-    teamId: 384794
-    team: Pizza the Hutt
-    manager: Nebojsa Milosevic
-    wins: 2
-    draws: 0
-    losses: 4
-    points: 6
-    fplPoints: 386
   - rank: 13
     teamId: 7273
     team: S A L A J K A
