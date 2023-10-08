@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 1
     points: 18
-    fplPoints: 411
+    fplPoints: 435
   - rank: 2
     teamId: 649897
     team: FK Panic
@@ -16,7 +16,7 @@ q1:
     draws: 0
     losses: 2
     points: 15
-    fplPoints: 459
+    fplPoints: 475
   - rank: 3
     teamId: 1543228
     team: Top 20 Hopefully
@@ -25,7 +25,7 @@ q1:
     draws: 0
     losses: 2
     points: 15
-    fplPoints: 395
+    fplPoints: 402
   - rank: 4
     teamId: 1620894
     team: FC Next Season
@@ -34,7 +34,7 @@ q1:
     draws: 1
     losses: 2
     points: 13
-    fplPoints: 384
+    fplPoints: 405
   - rank: 5
     teamId: 1380871
     team: Fk Vikdam
@@ -43,7 +43,7 @@ q1:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 438
+    fplPoints: 458
   - rank: 6
     teamId: 458135
     team: BOTTLE FC
@@ -61,7 +61,7 @@ q1:
     draws: 1
     losses: 3
     points: 10
-    fplPoints: 364
+    fplPoints: 381
   - rank: 8
     teamId: 182547
     team: DeeKay
@@ -70,7 +70,7 @@ q1:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 410
+    fplPoints: 416
   - rank: 9
     teamId: 7273
     team: S A L A J K A
@@ -79,7 +79,7 @@ q1:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 383
+    fplPoints: 402
   - rank: 10
     teamId: 3625500
     team: Rolo FC
@@ -88,7 +88,7 @@ q1:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 364
+    fplPoints: 388
   - rank: 11
     teamId: 882496
     team: Zeko Nista Nezna
@@ -97,17 +97,8 @@ q1:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 421
+    fplPoints: 439
   - rank: 12
-    teamId: 384794
-    team: Pizza the Hutt
-    manager: Nebojsa Milosevic
-    wins: 2
-    draws: 0
-    losses: 5
-    points: 6
-    fplPoints: 402
-  - rank: 13
     teamId: 4605524
     team: BMA
     manager: Danijel Avlijas
@@ -115,7 +106,16 @@ q1:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 402
+    fplPoints: 421
+  - rank: 13
+    teamId: 384794
+    team: Pizza the Hutt
+    manager: Nebojsa Milosevic
+    wins: 2
+    draws: 0
+    losses: 5
+    points: 6
+    fplPoints: 416
   - rank: 14
     teamId: 3727970
     team: WinninThePoo
