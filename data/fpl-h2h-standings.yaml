@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 1
     points: 24
-    fplPoints: 551
+    fplPoints: 557
   - rank: 2
     teamId: 1620894
     team: FC Next Season
@@ -16,7 +16,7 @@ q1:
     draws: 1
     losses: 2
     points: 19
-    fplPoints: 545
+    fplPoints: 556
   - rank: 3
     teamId: 1380871
     team: Fk Vikdam
@@ -25,7 +25,7 @@ q1:
     draws: 0
     losses: 3
     points: 18
-    fplPoints: 593
+    fplPoints: 614
   - rank: 4
     teamId: 649897
     team: FK Panic
@@ -34,17 +34,8 @@ q1:
     draws: 0
     losses: 4
     points: 15
-    fplPoints: 597
+    fplPoints: 599
   - rank: 5
-    teamId: 7273
-    team: S A L A J K A
-    manager: Bojan Samardzija
-    wins: 5
-    draws: 0
-    losses: 4
-    points: 15
-    fplPoints: 532
-  - rank: 6
     teamId: 1543228
     team: Top 20 Hopefully
     manager: Ilija Milisic
@@ -52,7 +43,16 @@ q1:
     draws: 0
     losses: 4
     points: 15
-    fplPoints: 504
+    fplPoints: 535
+  - rank: 6
+    teamId: 7273
+    team: S A L A J K A
+    manager: Bojan Samardzija
+    wins: 5
+    draws: 0
+    losses: 4
+    points: 15
+    fplPoints: 534
   - rank: 7
     teamId: 4717704
     team: Supermen
@@ -61,7 +61,7 @@ q1:
     draws: 1
     losses: 4
     points: 13
-    fplPoints: 515
+    fplPoints: 520
   - rank: 8
     teamId: 182547
     team: DeeKay
@@ -70,7 +70,7 @@ q1:
     draws: 0
     losses: 5
     points: 12
-    fplPoints: 553
+    fplPoints: 577
   - rank: 9
     teamId: 458135
     team: BOTTLE FC
@@ -79,7 +79,7 @@ q1:
     draws: 0
     losses: 5
     points: 12
-    fplPoints: 514
+    fplPoints: 520
   - rank: 10
     teamId: 3625500
     team: Rolo FC
@@ -88,7 +88,7 @@ q1:
     draws: 0
     losses: 5
     points: 12
-    fplPoints: 512
+    fplPoints: 514
   - rank: 11
     teamId: 384794
     team: Pizza the Hutt
@@ -115,7 +115,7 @@ q1:
     draws: 0
     losses: 6
     points: 9
-    fplPoints: 541
+    fplPoints: 543
   - rank: 14
     teamId: 3727970
     team: WinninThePoo
@@ -124,7 +124,7 @@ q1:
     draws: 0
     losses: 7
     points: 6
-    fplPoints: 497
+    fplPoints: 510
 q2:
   - rank: 1
     teamId: 122666
