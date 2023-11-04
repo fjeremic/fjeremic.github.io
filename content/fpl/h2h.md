@@ -77,9 +77,9 @@ include your Team name and Manager name in the description of the Interac e-Tran
 
 ## Standings
 
-{{< fpl-h2h-standings "q1" true>}}
+{{< fpl-h2h-standings "q1" false>}}
 <br>
-{{< fpl-h2h-standings "q2" false>}}
+{{< fpl-h2h-standings "q2" true>}}
 <br>
 {{< fpl-h2h-standings "q3" false>}}
 <br>
