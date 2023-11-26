@@ -127,15 +127,6 @@ q1:
     fplPoints: 570
 q2:
   - rank: 1
-    teamId: 3727970
-    team: WinninThePoo
-    manager: D Lukic
-    wins: 2
-    draws: 0
-    losses: 0
-    points: 6
-    fplPoints: 130
-  - rank: 2
     teamId: 122666
     team: JFC
     manager: Filip Jeremic
@@ -143,7 +134,16 @@ q2:
     draws: 0
     losses: 0
     points: 6
-    fplPoints: 116
+    fplPoints: 166
+  - rank: 2
+    teamId: 3727970
+    team: WinninThePoo
+    manager: D Lukic
+    wins: 2
+    draws: 0
+    losses: 0
+    points: 6
+    fplPoints: 165
   - rank: 3
     teamId: 4605524
     team: BMA
@@ -152,17 +152,8 @@ q2:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 136
+    fplPoints: 174
   - rank: 4
-    teamId: 1380871
-    team: Fk Vikdam
-    manager: Juka Alimanovic
-    wins: 1
-    draws: 0
-    losses: 1
-    points: 3
-    fplPoints: 121
-  - rank: 5
     teamId: 1620894
     team: FC Next Season
     manager: Ivan J
@@ -170,17 +161,17 @@ q2:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 119
-  - rank: 6
-    teamId: 3625500
-    team: Rolo FC
-    manager: Branko Oluic
+    fplPoints: 160
+  - rank: 5
+    teamId: 1380871
+    team: Fk Vikdam
+    manager: Juka Alimanovic
     wins: 1
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 110
-  - rank: 7
+    fplPoints: 153
+  - rank: 6
     teamId: 649897
     team: FK Panic
     manager: Stefan Panic
@@ -188,7 +179,16 @@ q2:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 109
+    fplPoints: 149
+  - rank: 7
+    teamId: 3625500
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 1
+    draws: 0
+    losses: 1
+    points: 3
+    fplPoints: 148
   - rank: 8
     teamId: 882496
     team: AQ SPADES
@@ -197,16 +197,16 @@ q2:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 104
+    fplPoints: 134
   - rank: 9
-    teamId: 182547
-    team: DeeKay
-    manager: Dee Kay
+    teamId: 1543228
+    team: Top 20 Hopefully
+    manager: Ilija Milisic
     wins: 1
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 101
+    fplPoints: 131
   - rank: 10
     teamId: 458135
     team: BOTTLE FC
@@ -215,16 +215,16 @@ q2:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 98
+    fplPoints: 129
   - rank: 11
-    teamId: 1543228
-    team: Top 20 Hopefully
-    manager: Ilija Milisic
+    teamId: 182547
+    team: DeeKay
+    manager: Dee Kay
     wins: 1
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 90
+    fplPoints: 121
   - rank: 12
     teamId: 4717704
     team: Supermen
@@ -233,7 +233,7 @@ q2:
     draws: 1
     losses: 1
     points: 1
-    fplPoints: 103
+    fplPoints: 131
   - rank: 13
     teamId: 7273
     team: S A L A J K A
@@ -242,7 +242,7 @@ q2:
     draws: 1
     losses: 1
     points: 1
-    fplPoints: 80
+    fplPoints: 92
   - rank: 14
     teamId: 384794
     team: Pizza the Hutt
@@ -251,7 +251,7 @@ q2:
     draws: 0
     losses: 2
     points: 0
-    fplPoints: 96
+    fplPoints: 128
 q3:
   - rank: 1
     teamId: 122666
