@@ -55,7 +55,7 @@ q1:
     fplPoints: 587
   - rank: 7
     teamId: 182547
-    team: IceCold -56
+    team: IceCold -64
     manager: Dee Kay
     wins: 5
     draws: 0
@@ -218,7 +218,7 @@ q2:
     fplPoints: 148
   - rank: 11
     teamId: 182547
-    team: IceCold -56
+    team: IceCold -64
     manager: Dee Kay
     wins: 1
     draws: 0
@@ -309,7 +309,7 @@ q3:
     fplPoints: 0
   - rank: 7
     teamId: 182547
-    team: IceCold -56
+    team: IceCold -64
     manager: Dee Kay
     wins: 0
     draws: 0
@@ -436,7 +436,7 @@ q4:
     fplPoints: 0
   - rank: 7
     teamId: 182547
-    team: IceCold -56
+    team: IceCold -64
     manager: Dee Kay
     wins: 0
     draws: 0
