@@ -134,7 +134,7 @@ q2:
     draws: 0
     losses: 0
     points: 15
-    fplPoints: 264
+    fplPoints: 289
   - rank: 2
     teamId: 1620894
     team: FC Next Season
@@ -143,17 +143,8 @@ q2:
     draws: 0
     losses: 1
     points: 12
-    fplPoints: 273
+    fplPoints: 294
   - rank: 3
-    teamId: 3727970
-    team: WinninThePoo
-    manager: D Lukic
-    wins: 3
-    draws: 0
-    losses: 2
-    points: 9
-    fplPoints: 267
-  - rank: 4
     teamId: 1380871
     team: Fk Vikdam
     manager: Juka Alimanovic
@@ -161,16 +152,25 @@ q2:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 257
-  - rank: 5
-    teamId: 458135
-    team: BOTTLE FC
-    manager: Arandjel Djuric
+    fplPoints: 279
+  - rank: 4
+    teamId: 3727970
+    team: WinninThePoo
+    manager: D Lukic
     wins: 3
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 250
+    fplPoints: 275
+  - rank: 5
+    teamId: 384794
+    team: Pizza the Hutt
+    manager: Nebojsa Milosevic
+    wins: 3
+    draws: 0
+    losses: 2
+    points: 9
+    fplPoints: 270
   - rank: 6
     teamId: 649897
     team: FK Panic
@@ -179,16 +179,16 @@ q2:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 248
+    fplPoints: 265
   - rank: 7
-    teamId: 384794
-    team: Pizza the Hutt
-    manager: Nebojsa Milosevic
+    teamId: 458135
+    team: BOTTLE FC
+    manager: Arandjel Djuric
     wins: 3
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 247
+    fplPoints: 261
   - rank: 8
     teamId: 1543228
     team: Top 20 Hopefully
@@ -197,7 +197,7 @@ q2:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 232
+    fplPoints: 248
   - rank: 9
     teamId: 4605524
     team: BMA
@@ -206,7 +206,7 @@ q2:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 286
+    fplPoints: 308
   - rank: 10
     teamId: 882496
     team: AQ SPADES
@@ -215,7 +215,7 @@ q2:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 246
+    fplPoints: 266
   - rank: 11
     teamId: 3625500
     team: Rolo FC
@@ -224,7 +224,7 @@ q2:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 239
+    fplPoints: 257
   - rank: 12
     teamId: 182547
     team: IceCold -64
@@ -233,7 +233,7 @@ q2:
     draws: 0
     losses: 4
     points: 3
-    fplPoints: 177
+    fplPoints: 204
   - rank: 13
     teamId: 4717704
     team: Supermen
@@ -242,7 +242,7 @@ q2:
     draws: 1
     losses: 4
     points: 1
-    fplPoints: 229
+    fplPoints: 264
   - rank: 14
     teamId: 7273
     team: S A L A J K A
@@ -251,7 +251,7 @@ q2:
     draws: 1
     losses: 4
     points: 1
-    fplPoints: 184
+    fplPoints: 187
 q3:
   - rank: 1
     teamId: 122666
