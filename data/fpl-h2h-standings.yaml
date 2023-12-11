@@ -130,128 +130,128 @@ q2:
     teamId: 122666
     team: JFC
     manager: Filip Jeremic
-    wins: 5
+    wins: 6
     draws: 0
     losses: 0
-    points: 15
-    fplPoints: 289
+    points: 18
+    fplPoints: 331
   - rank: 2
     teamId: 1620894
     team: FC Next Season
     manager: Ivan J
-    wins: 4
+    wins: 5
     draws: 0
     losses: 1
-    points: 12
-    fplPoints: 294
+    points: 15
+    fplPoints: 339
   - rank: 3
     teamId: 1380871
     team: Fk Vikdam
     manager: Juka Alimanovic
-    wins: 3
+    wins: 4
     draws: 0
     losses: 2
-    points: 9
-    fplPoints: 279
+    points: 12
+    fplPoints: 339
   - rank: 4
-    teamId: 3727970
-    team: WinninThePoo
-    manager: D Lukic
-    wins: 3
+    teamId: 649897
+    team: FK Panic
+    manager: Stefan Panic
+    wins: 4
     draws: 0
     losses: 2
-    points: 9
-    fplPoints: 275
+    points: 12
+    fplPoints: 308
   - rank: 5
+    teamId: 1543228
+    team: Top 20 Hopefully
+    manager: Ilija Milisic
+    wins: 4
+    draws: 0
+    losses: 2
+    points: 12
+    fplPoints: 260
+  - rank: 6
+    teamId: 882496
+    team: AQ SPADES
+    manager: Mladen Lucic
+    wins: 3
+    draws: 0
+    losses: 3
+    points: 9
+    fplPoints: 305
+  - rank: 7
     teamId: 384794
     team: Pizza the Hutt
     manager: Nebojsa Milosevic
     wins: 3
     draws: 0
-    losses: 2
+    losses: 3
     points: 9
-    fplPoints: 270
-  - rank: 6
-    teamId: 649897
-    team: FK Panic
-    manager: Stefan Panic
+    fplPoints: 291
+  - rank: 8
+    teamId: 3727970
+    team: WinninThePoo
+    manager: D Lukic
     wins: 3
     draws: 0
-    losses: 2
+    losses: 3
     points: 9
-    fplPoints: 265
-  - rank: 7
+    fplPoints: 290
+  - rank: 9
     teamId: 458135
     team: BOTTLE FC
     manager: Arandjel Djuric
     wins: 3
     draws: 0
-    losses: 2
+    losses: 3
     points: 9
-    fplPoints: 261
-  - rank: 8
-    teamId: 1543228
-    team: Top 20 Hopefully
-    manager: Ilija Milisic
-    wins: 3
-    draws: 0
-    losses: 2
-    points: 9
-    fplPoints: 248
-  - rank: 9
+    fplPoints: 283
+  - rank: 10
     teamId: 4605524
     team: BMA
     manager: Danijel Avlijas
     wins: 2
     draws: 0
-    losses: 3
+    losses: 4
     points: 6
-    fplPoints: 308
-  - rank: 10
-    teamId: 882496
-    team: AQ SPADES
-    manager: Mladen Lucic
-    wins: 2
-    draws: 0
-    losses: 3
-    points: 6
-    fplPoints: 266
+    fplPoints: 327
   - rank: 11
     teamId: 3625500
     team: Rolo FC
     manager: Branko Oluic
     wins: 2
     draws: 0
-    losses: 3
+    losses: 4
     points: 6
-    fplPoints: 257
+    fplPoints: 295
   - rank: 12
     teamId: 182547
     team: IceCold -64
     manager: Dee Kay
-    wins: 1
+    wins: 2
     draws: 0
     losses: 4
-    points: 3
-    fplPoints: 204
+    points: 6
+    fplPoints: 219
   - rank: 13
     teamId: 4717704
     team: Supermen
     manager: Goran Lakic
     wins: 0
     draws: 1
-    losses: 4
+    losses: 5
     points: 1
-    fplPoints: 264
+    fplPoints: 294
   - rank: 14
     teamId: 7273
     team: S A L A J K A
     manager: Bojan Samardzija
     wins: 0
     draws: 1
-    losses: 4
+    losses: 5
     points: 1
-    fplPoints: 187
+    fplPoints: 220
 q3:
   - rank: 1
     teamId: 122666
@@ -272,18 +272,18 @@ q3:
     points: 0
     fplPoints: 0
   - rank: 3
-    teamId: 649897
-    team: FK Panic
-    manager: Stefan Panic
+    teamId: 1380871
+    team: Fk Vikdam
+    manager: Juka Alimanovic
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
   - rank: 4
-    teamId: 1380871
-    team: Fk Vikdam
-    manager: Juka Alimanovic
+    teamId: 649897
+    team: FK Panic
+    manager: Stefan Panic
     wins: 0
     draws: 0
     losses: 0
@@ -299,9 +299,9 @@ q3:
     points: 0
     fplPoints: 0
   - rank: 6
-    teamId: 458135
-    team: BOTTLE FC
-    manager: Arandjel Djuric
+    teamId: 882496
+    team: AQ SPADES
+    manager: Mladen Lucic
     wins: 0
     draws: 0
     losses: 0
@@ -317,27 +317,27 @@ q3:
     points: 0
     fplPoints: 0
   - rank: 8
-    teamId: 882496
-    team: AQ SPADES
-    manager: Mladen Lucic
+    teamId: 458135
+    team: BOTTLE FC
+    manager: Arandjel Djuric
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
   - rank: 9
-    teamId: 384794
-    team: Pizza the Hutt
-    manager: Nebojsa Milosevic
+    teamId: 182547
+    team: IceCold -64
+    manager: Dee Kay
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
   - rank: 10
-    teamId: 182547
-    team: IceCold -64
-    manager: Dee Kay
+    teamId: 384794
+    team: Pizza the Hutt
+    manager: Nebojsa Milosevic
     wins: 0
     draws: 0
     losses: 0
@@ -399,18 +399,18 @@ q4:
     points: 0
     fplPoints: 0
   - rank: 3
-    teamId: 649897
-    team: FK Panic
-    manager: Stefan Panic
+    teamId: 1380871
+    team: Fk Vikdam
+    manager: Juka Alimanovic
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
   - rank: 4
-    teamId: 1380871
-    team: Fk Vikdam
-    manager: Juka Alimanovic
+    teamId: 649897
+    team: FK Panic
+    manager: Stefan Panic
     wins: 0
     draws: 0
     losses: 0
@@ -426,9 +426,9 @@ q4:
     points: 0
     fplPoints: 0
   - rank: 6
-    teamId: 458135
-    team: BOTTLE FC
-    manager: Arandjel Djuric
+    teamId: 882496
+    team: AQ SPADES
+    manager: Mladen Lucic
     wins: 0
     draws: 0
     losses: 0
@@ -444,27 +444,27 @@ q4:
     points: 0
     fplPoints: 0
   - rank: 8
-    teamId: 882496
-    team: AQ SPADES
-    manager: Mladen Lucic
+    teamId: 458135
+    team: BOTTLE FC
+    manager: Arandjel Djuric
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
   - rank: 9
-    teamId: 384794
-    team: Pizza the Hutt
-    manager: Nebojsa Milosevic
+    teamId: 182547
+    team: IceCold -64
+    manager: Dee Kay
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
   - rank: 10
-    teamId: 182547
-    team: IceCold -64
-    manager: Dee Kay
+    teamId: 384794
+    team: Pizza the Hutt
+    manager: Nebojsa Milosevic
     wins: 0
     draws: 0
     losses: 0
