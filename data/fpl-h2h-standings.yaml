@@ -134,7 +134,7 @@ q2:
     draws: 0
     losses: 0
     points: 18
-    fplPoints: 360
+    fplPoints: 393
   - rank: 2
     teamId: 1620894
     team: FC Next Season
@@ -143,7 +143,7 @@ q2:
     draws: 0
     losses: 1
     points: 15
-    fplPoints: 372
+    fplPoints: 406
   - rank: 3
     teamId: 1380871
     team: Fk Vikdam
@@ -152,7 +152,7 @@ q2:
     draws: 0
     losses: 2
     points: 12
-    fplPoints: 350
+    fplPoints: 374
   - rank: 4
     teamId: 649897
     team: FK Panic
@@ -161,7 +161,7 @@ q2:
     draws: 0
     losses: 2
     points: 12
-    fplPoints: 335
+    fplPoints: 355
   - rank: 5
     teamId: 1543228
     team: Top 20 Hopefully
@@ -170,7 +170,7 @@ q2:
     draws: 0
     losses: 2
     points: 12
-    fplPoints: 279
+    fplPoints: 304
   - rank: 6
     teamId: 882496
     team: AQ SPADES
@@ -179,7 +179,7 @@ q2:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 329
+    fplPoints: 353
   - rank: 7
     teamId: 3727970
     team: WinninThePoo
@@ -188,17 +188,8 @@ q2:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 312
+    fplPoints: 332
   - rank: 8
-    teamId: 384794
-    team: Pizza the Hutt
-    manager: Nebojsa Milosevic
-    wins: 3
-    draws: 0
-    losses: 3
-    points: 9
-    fplPoints: 309
-  - rank: 9
     teamId: 458135
     team: BOTTLE FC
     manager: Arandjel Djuric
@@ -206,7 +197,16 @@ q2:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 299
+    fplPoints: 329
+  - rank: 9
+    teamId: 384794
+    team: Pizza the Hutt
+    manager: Nebojsa Milosevic
+    wins: 3
+    draws: 0
+    losses: 3
+    points: 9
+    fplPoints: 327
   - rank: 10
     teamId: 4605524
     team: BMA
@@ -215,7 +215,7 @@ q2:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 349
+    fplPoints: 381
   - rank: 11
     teamId: 3625500
     team: Rolo FC
@@ -224,7 +224,7 @@ q2:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 327
+    fplPoints: 356
   - rank: 12
     teamId: 182547
     team: IceCold -64
@@ -233,7 +233,7 @@ q2:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 218
+    fplPoints: 245
   - rank: 13
     teamId: 4717704
     team: Supermen
@@ -242,7 +242,7 @@ q2:
     draws: 1
     losses: 5
     points: 1
-    fplPoints: 315
+    fplPoints: 341
   - rank: 14
     teamId: 7273
     team: S A L A J K A
@@ -251,7 +251,7 @@ q2:
     draws: 1
     losses: 5
     points: 1
-    fplPoints: 251
+    fplPoints: 274
 q3:
   - rank: 1
     teamId: 122666
