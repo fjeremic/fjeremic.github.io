@@ -188,7 +188,7 @@ q2:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 314
+    fplPoints: 310
   - rank: 8
     teamId: 4605524
     team: BMA
@@ -197,7 +197,7 @@ q2:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 393
+    fplPoints: 395
   - rank: 9
     teamId: 3625500
     team: Rolo FC
@@ -233,7 +233,7 @@ q2:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 245
+    fplPoints: 247
   - rank: 13
     teamId: 4717704
     team: Supermen
@@ -242,7 +242,7 @@ q2:
     draws: 1
     losses: 5
     points: 4
-    fplPoints: 341
+    fplPoints: 339
   - rank: 14
     teamId: 7273
     team: S A L A J K A
@@ -251,7 +251,7 @@ q2:
     draws: 1
     losses: 6
     points: 1
-    fplPoints: 274
+    fplPoints: 276
 q3:
   - rank: 1
     teamId: 122666
