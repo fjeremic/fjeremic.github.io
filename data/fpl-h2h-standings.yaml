@@ -134,7 +134,7 @@ q2:
     draws: 0
     losses: 1
     points: 21
-    fplPoints: 457
+    fplPoints: 479
   - rank: 2
     teamId: 122666
     team: JFC
@@ -143,7 +143,7 @@ q2:
     draws: 0
     losses: 1
     points: 21
-    fplPoints: 452
+    fplPoints: 460
   - rank: 3
     teamId: 1380871
     team: Fk Vikdam
@@ -152,7 +152,7 @@ q2:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 460
+    fplPoints: 462
   - rank: 4
     teamId: 649897
     team: FK Panic
@@ -161,7 +161,7 @@ q2:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 422
+    fplPoints: 436
   - rank: 5
     teamId: 458135
     team: BOTTLE FC
@@ -170,7 +170,7 @@ q2:
     draws: 1
     losses: 3
     points: 13
-    fplPoints: 389
+    fplPoints: 397
   - rank: 6
     teamId: 3625500
     team: Rolo FC
@@ -179,7 +179,7 @@ q2:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 429
+    fplPoints: 437
   - rank: 7
     teamId: 882496
     team: AQ SPADES
@@ -188,7 +188,7 @@ q2:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 404
+    fplPoints: 426
   - rank: 8
     teamId: 3727970
     team: WinninThePoo
@@ -197,7 +197,7 @@ q2:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 376
+    fplPoints: 396
   - rank: 9
     teamId: 1543228
     team: Top 20 Hopefully
@@ -224,7 +224,7 @@ q2:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 394
+    fplPoints: 424
   - rank: 12
     teamId: 4717704
     team: Supermen
@@ -233,7 +233,7 @@ q2:
     draws: 1
     losses: 5
     points: 7
-    fplPoints: 400
+    fplPoints: 408
   - rank: 13
     teamId: 182547
     team: IceCold -64
@@ -242,7 +242,7 @@ q2:
     draws: 0
     losses: 6
     points: 6
-    fplPoints: 299
+    fplPoints: 315
   - rank: 14
     teamId: 7273
     team: S A L A J K A
@@ -251,7 +251,7 @@ q2:
     draws: 1
     losses: 7
     points: 1
-    fplPoints: 309
+    fplPoints: 319
 q3:
   - rank: 1
     teamId: 122666
