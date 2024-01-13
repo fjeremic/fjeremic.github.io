@@ -272,15 +272,6 @@ q3:
     points: 3
     fplPoints: 100
   - rank: 3
-    teamId: 882496
-    team: FC Last Season
-    manager: Mladen Lucic
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 98
-  - rank: 4
     teamId: 182547
     team: IceCold -64
     manager: Dee Kay
@@ -288,7 +279,16 @@ q3:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 88
+    fplPoints: 93
+  - rank: 4
+    teamId: 882496
+    team: FC Last Season
+    manager: Mladen Lucic
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 90
   - rank: 5
     teamId: 4605524
     team: BMA
@@ -306,7 +306,7 @@ q3:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 82
+    fplPoints: 78
   - rank: 7
     teamId: 1543228
     team: Top 20 Hopefully
@@ -333,17 +333,8 @@ q3:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 80
-  - rank: 10
-    teamId: 3727970
-    team: WinninThePoo
-    manager: D Lukic
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
     fplPoints: 76
-  - rank: 11
+  - rank: 10
     teamId: 384794
     team: Pizza the Hutt
     manager: Nebojsa Milosevic
@@ -352,6 +343,15 @@ q3:
     losses: 1
     points: 0
     fplPoints: 74
+  - rank: 11
+    teamId: 3727970
+    team: WinninThePoo
+    manager: D Lukic
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 72
   - rank: 12
     teamId: 1380871
     team: Fk Vikdam
@@ -369,7 +369,7 @@ q3:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 68
+    fplPoints: 64
   - rank: 14
     teamId: 4717704
     team: Supermen
@@ -378,7 +378,7 @@ q3:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 66
+    fplPoints: 62
 q4:
   - rank: 1
     teamId: 1620894
