@@ -1,7 +1,7 @@
 q1:
   - rank: 1
     teamId: 122666
-    team: FC This Season
+    team: JFC
     manager: Filip Jeremic
     wins: 8
     draws: 0
@@ -137,7 +137,7 @@ q2:
     fplPoints: 493
   - rank: 2
     teamId: 122666
-    team: FC This Season
+    team: JFC
     manager: Filip Jeremic
     wins: 7
     draws: 0
@@ -261,7 +261,7 @@ q3:
     draws: 0
     losses: 0
     points: 12
-    fplPoints: 301
+    fplPoints: 344
   - rank: 2
     teamId: 182547
     team: IceCold -64
@@ -270,7 +270,7 @@ q3:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 308
+    fplPoints: 344
   - rank: 3
     teamId: 882496
     team: FC Last Season
@@ -279,7 +279,7 @@ q3:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 296
+    fplPoints: 328
   - rank: 4
     teamId: 7273
     team: S A L A J K A
@@ -288,35 +288,17 @@ q3:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 248
+    fplPoints: 290
   - rank: 5
     teamId: 122666
-    team: FC This Season
+    team: JFC
     manager: Filip Jeremic
     wins: 2
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 317
+    fplPoints: 359
   - rank: 6
-    teamId: 1543228
-    team: Raspad Sistema
-    manager: Ilija Milisic
-    wins: 2
-    draws: 0
-    losses: 2
-    points: 6
-    fplPoints: 268
-  - rank: 7
-    teamId: 3727970
-    team: WinninThePoo
-    manager: D Lukic
-    wins: 2
-    draws: 0
-    losses: 2
-    points: 6
-    fplPoints: 262
-  - rank: 8
     teamId: 458135
     team: BOTTLE FC
     manager: Arandjel Djuric
@@ -324,7 +306,25 @@ q3:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 259
+    fplPoints: 310
+  - rank: 7
+    teamId: 1543228
+    team: Raspad Sistema
+    manager: Ilija Milisic
+    wins: 2
+    draws: 0
+    losses: 2
+    points: 6
+    fplPoints: 307
+  - rank: 8
+    teamId: 3727970
+    team: WinninThePoo
+    manager: D Lukic
+    wins: 2
+    draws: 0
+    losses: 2
+    points: 6
+    fplPoints: 294
   - rank: 9
     teamId: 4605524
     team: BMA
@@ -333,7 +333,7 @@ q3:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 237
+    fplPoints: 287
   - rank: 10
     teamId: 4717704
     team: Supermen
@@ -342,7 +342,7 @@ q3:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 290
+    fplPoints: 334
   - rank: 11
     teamId: 384794
     team: Pizza the Hutt
@@ -351,7 +351,7 @@ q3:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 280
+    fplPoints: 312
   - rank: 12
     teamId: 3625500
     team: Rolo FC
@@ -360,17 +360,8 @@ q3:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 264
+    fplPoints: 305
   - rank: 13
-    teamId: 649897
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 1
-    draws: 0
-    losses: 3
-    points: 3
-    fplPoints: 231
-  - rank: 14
     teamId: 1380871
     team: Fk Vikdam
     manager: Juka Alimanovic
@@ -378,7 +369,16 @@ q3:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 223
+    fplPoints: 276
+  - rank: 14
+    teamId: 649897
+    team: FK Panic
+    manager: Stefan Panic
+    wins: 1
+    draws: 0
+    losses: 3
+    points: 3
+    fplPoints: 273
 q4:
   - rank: 1
     teamId: 1620894
@@ -391,7 +391,7 @@ q4:
     fplPoints: 0
   - rank: 2
     teamId: 122666
-    team: FC This Season
+    team: JFC
     manager: Filip Jeremic
     wins: 0
     draws: 0
