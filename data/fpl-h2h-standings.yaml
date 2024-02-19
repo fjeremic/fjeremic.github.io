@@ -279,7 +279,7 @@ q3:
     draws: 0
     losses: 1
     points: 12
-    fplPoints: 369
+    fplPoints: 377
   - rank: 4
     teamId: 182547
     team: IceCold -64
@@ -288,7 +288,7 @@ q3:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 401
+    fplPoints: 404
   - rank: 5
     teamId: 458135
     team: BOTTLE FC
@@ -297,7 +297,7 @@ q3:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 393
+    fplPoints: 398
   - rank: 6
     teamId: 3727970
     team: WinninThePoo
@@ -315,7 +315,7 @@ q3:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 370
+    fplPoints: 373
   - rank: 8
     teamId: 122666
     team: JFC
@@ -324,7 +324,7 @@ q3:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 446
+    fplPoints: 452
   - rank: 9
     teamId: 1543228
     team: Raspad Sistema
@@ -342,7 +342,7 @@ q3:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 320
+    fplPoints: 322
   - rank: 11
     teamId: 3625500
     team: Rolo FC
@@ -351,7 +351,7 @@ q3:
     draws: 0
     losses: 4
     points: 3
-    fplPoints: 403
+    fplPoints: 404
   - rank: 12
     teamId: 4717704
     team: Supermen
