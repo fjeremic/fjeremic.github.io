@@ -261,7 +261,7 @@ q3:
     draws: 1
     losses: 0
     points: 16
-    fplPoints: 483
+    fplPoints: 526
   - rank: 2
     teamId: 882496
     team: FC Last Season
@@ -270,7 +270,7 @@ q3:
     draws: 0
     losses: 1
     points: 15
-    fplPoints: 459
+    fplPoints: 500
   - rank: 3
     teamId: 3727970
     team: WinninThePoo
@@ -279,7 +279,7 @@ q3:
     draws: 0
     losses: 2
     points: 12
-    fplPoints: 412
+    fplPoints: 462
   - rank: 4
     teamId: 7273
     team: S A L A J K A
@@ -288,7 +288,7 @@ q3:
     draws: 0
     losses: 2
     points: 12
-    fplPoints: 408
+    fplPoints: 438
   - rank: 5
     teamId: 4605524
     team: BMA
@@ -297,7 +297,7 @@ q3:
     draws: 0
     losses: 2
     points: 12
-    fplPoints: 396
+    fplPoints: 428
   - rank: 6
     teamId: 458135
     team: BOTTLE FC
@@ -306,7 +306,7 @@ q3:
     draws: 1
     losses: 2
     points: 10
-    fplPoints: 432
+    fplPoints: 495
   - rank: 7
     teamId: 122666
     team: JFC
@@ -315,7 +315,7 @@ q3:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 483
+    fplPoints: 524
   - rank: 8
     teamId: 182547
     team: IceCold -64
@@ -324,7 +324,7 @@ q3:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 430
+    fplPoints: 463
   - rank: 9
     teamId: 3625500
     team: Rolo FC
@@ -333,7 +333,7 @@ q3:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 436
+    fplPoints: 475
   - rank: 10
     teamId: 1543228
     team: Raspad Sistema
@@ -342,7 +342,7 @@ q3:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 417
+    fplPoints: 464
   - rank: 11
     teamId: 649897
     team: FK Panic
@@ -351,7 +351,7 @@ q3:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 377
+    fplPoints: 423
   - rank: 12
     teamId: 1380871
     team: Fk Vikdam
@@ -360,7 +360,7 @@ q3:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 343
+    fplPoints: 365
   - rank: 13
     teamId: 4717704
     team: Supermen
@@ -369,7 +369,7 @@ q3:
     draws: 0
     losses: 5
     points: 3
-    fplPoints: 399
+    fplPoints: 438
   - rank: 14
     teamId: 384794
     team: Pizza the Hutt
@@ -378,7 +378,7 @@ q3:
     draws: 0
     losses: 5
     points: 3
-    fplPoints: 368
+    fplPoints: 408
 q4:
   - rank: 1
     teamId: 1620894
