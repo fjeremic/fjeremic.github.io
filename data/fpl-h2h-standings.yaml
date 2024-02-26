@@ -261,7 +261,7 @@ q3:
     draws: 1
     losses: 0
     points: 16
-    fplPoints: 526
+    fplPoints: 529
   - rank: 2
     teamId: 882496
     team: FC Last Season
@@ -270,7 +270,7 @@ q3:
     draws: 0
     losses: 1
     points: 15
-    fplPoints: 500
+    fplPoints: 503
   - rank: 3
     teamId: 3727970
     team: WinninThePoo
@@ -288,7 +288,7 @@ q3:
     draws: 0
     losses: 2
     points: 12
-    fplPoints: 438
+    fplPoints: 441
   - rank: 5
     teamId: 4605524
     team: BMA
@@ -297,7 +297,7 @@ q3:
     draws: 0
     losses: 2
     points: 12
-    fplPoints: 428
+    fplPoints: 431
   - rank: 6
     teamId: 458135
     team: BOTTLE FC
@@ -315,7 +315,7 @@ q3:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 524
+    fplPoints: 527
   - rank: 8
     teamId: 182547
     team: IceCold -64
@@ -324,7 +324,7 @@ q3:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 463
+    fplPoints: 466
   - rank: 9
     teamId: 3625500
     team: Rolo FC
@@ -351,7 +351,7 @@ q3:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 423
+    fplPoints: 426
   - rank: 12
     teamId: 1380871
     team: Fk Vikdam
@@ -360,7 +360,7 @@ q3:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 365
+    fplPoints: 370
   - rank: 13
     teamId: 4717704
     team: Supermen
@@ -378,7 +378,7 @@ q3:
     draws: 0
     losses: 5
     points: 3
-    fplPoints: 408
+    fplPoints: 414
 q4:
   - rank: 1
     teamId: 1620894
