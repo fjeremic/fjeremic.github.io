@@ -261,7 +261,7 @@ q3:
     draws: 2
     losses: 0
     points: 17
-    fplPoints: 531
+    fplPoints: 558
   - rank: 2
     teamId: 882496
     team: FC Last Season
@@ -270,7 +270,7 @@ q3:
     draws: 1
     losses: 1
     points: 16
-    fplPoints: 507
+    fplPoints: 555
   - rank: 3
     teamId: 3727970
     team: WinninThePoo
@@ -279,7 +279,7 @@ q3:
     draws: 0
     losses: 2
     points: 15
-    fplPoints: 464
+    fplPoints: 504
   - rank: 4
     teamId: 4605524
     team: BMA
@@ -288,7 +288,7 @@ q3:
     draws: 0
     losses: 2
     points: 15
-    fplPoints: 432
+    fplPoints: 476
   - rank: 5
     teamId: 458135
     team: BOTTLE FC
@@ -297,7 +297,7 @@ q3:
     draws: 1
     losses: 2
     points: 13
-    fplPoints: 515
+    fplPoints: 555
   - rank: 6
     teamId: 7273
     team: S A L A J K A
@@ -306,7 +306,7 @@ q3:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 441
+    fplPoints: 471
   - rank: 7
     teamId: 122666
     team: JFC
@@ -315,7 +315,7 @@ q3:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 529
+    fplPoints: 568
   - rank: 8
     teamId: 3625500
     team: Rolo FC
@@ -324,7 +324,7 @@ q3:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 477
+    fplPoints: 502
   - rank: 9
     teamId: 182547
     team: IceCold -64
@@ -333,7 +333,7 @@ q3:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 467
+    fplPoints: 500
   - rank: 10
     teamId: 649897
     team: FK Panic
@@ -342,7 +342,7 @@ q3:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 426
+    fplPoints: 460
   - rank: 11
     teamId: 1543228
     team: Raspad Sistema
@@ -351,7 +351,7 @@ q3:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 464
+    fplPoints: 506
   - rank: 12
     teamId: 384794
     team: Pizza the Hutt
@@ -360,7 +360,7 @@ q3:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 425
+    fplPoints: 443
   - rank: 13
     teamId: 1380871
     team: Fk Vikdam
@@ -369,7 +369,7 @@ q3:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 372
+    fplPoints: 399
   - rank: 14
     teamId: 4717704
     team: Supermen
@@ -378,7 +378,7 @@ q3:
     draws: 0
     losses: 6
     points: 3
-    fplPoints: 445
+    fplPoints: 493
 q4:
   - rank: 1
     teamId: 1620894
