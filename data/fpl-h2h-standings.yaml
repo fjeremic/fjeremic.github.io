@@ -261,7 +261,7 @@ q3:
     draws: 1
     losses: 1
     points: 19
-    fplPoints: 601
+    fplPoints: 604
   - rank: 2
     teamId: 1620894
     team: FC Next Season
@@ -270,7 +270,7 @@ q3:
     draws: 2
     losses: 1
     points: 17
-    fplPoints: 609
+    fplPoints: 616
   - rank: 3
     teamId: 3727970
     team: WinninThePoo
@@ -279,7 +279,7 @@ q3:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 546
+    fplPoints: 561
   - rank: 4
     teamId: 4605524
     team: BMA
@@ -288,7 +288,7 @@ q3:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 494
+    fplPoints: 502
   - rank: 5
     teamId: 458135
     team: BOTTLE FC
@@ -297,7 +297,7 @@ q3:
     draws: 1
     losses: 3
     points: 13
-    fplPoints: 589
+    fplPoints: 601
   - rank: 6
     teamId: 122666
     team: JFC
@@ -306,7 +306,7 @@ q3:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 610
+    fplPoints: 615
   - rank: 7
     teamId: 3625500
     team: Rolo FC
@@ -315,7 +315,7 @@ q3:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 557
+    fplPoints: 568
   - rank: 8
     teamId: 182547
     team: IceCold -64
@@ -324,17 +324,8 @@ q3:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 534
+    fplPoints: 531
   - rank: 9
-    teamId: 649897
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 4
-    draws: 0
-    losses: 4
-    points: 12
-    fplPoints: 505
-  - rank: 10
     teamId: 7273
     team: S A L A J K A
     manager: Bojan Samardzija
@@ -342,7 +333,16 @@ q3:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 504
+    fplPoints: 517
+  - rank: 10
+    teamId: 649897
+    team: FK Panic
+    manager: Stefan Panic
+    wins: 4
+    draws: 0
+    losses: 4
+    points: 12
+    fplPoints: 509
   - rank: 11
     teamId: 1543228
     team: Raspad Sistema
@@ -351,7 +351,7 @@ q3:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 557
+    fplPoints: 563
   - rank: 12
     teamId: 384794
     team: Pizza the Hutt
@@ -360,7 +360,7 @@ q3:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 475
+    fplPoints: 484
   - rank: 13
     teamId: 1380871
     team: Fk Vikdam
@@ -369,7 +369,7 @@ q3:
     draws: 0
     losses: 6
     points: 6
-    fplPoints: 415
+    fplPoints: 436
   - rank: 14
     teamId: 4717704
     team: Supermen
