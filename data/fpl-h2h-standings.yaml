@@ -261,7 +261,7 @@ q3:
     draws: 1
     losses: 1
     points: 19
-    fplPoints: 629
+    fplPoints: 642
   - rank: 2
     teamId: 1620894
     team: FC Next Season
@@ -270,7 +270,7 @@ q3:
     draws: 2
     losses: 1
     points: 17
-    fplPoints: 646
+    fplPoints: 659
   - rank: 3
     teamId: 3727970
     team: WinninThePoo
@@ -279,7 +279,7 @@ q3:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 571
+    fplPoints: 585
   - rank: 4
     teamId: 4605524
     team: BMA
@@ -288,7 +288,7 @@ q3:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 544
+    fplPoints: 545
   - rank: 5
     teamId: 458135
     team: BOTTLE FC
@@ -297,7 +297,7 @@ q3:
     draws: 1
     losses: 3
     points: 13
-    fplPoints: 609
+    fplPoints: 624
   - rank: 6
     teamId: 122666
     team: JFC
@@ -315,7 +315,7 @@ q3:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 591
+    fplPoints: 604
   - rank: 8
     teamId: 182547
     team: IceCold -64
@@ -342,7 +342,7 @@ q3:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 522
+    fplPoints: 535
   - rank: 11
     teamId: 1543228
     team: Raspad Sistema
@@ -351,7 +351,7 @@ q3:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 574
+    fplPoints: 575
   - rank: 12
     teamId: 384794
     team: Pizza the Hutt
