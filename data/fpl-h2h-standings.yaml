@@ -388,26 +388,8 @@ q4:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 199
+    fplPoints: 229
   - rank: 2
-    teamId: 458135
-    team: BOTTLE FC
-    manager: Arandjel Djuric
-    wins: 2
-    draws: 0
-    losses: 1
-    points: 6
-    fplPoints: 197
-  - rank: 3
-    teamId: 4717704
-    team: Supermen
-    manager: Goran Lakic
-    wins: 2
-    draws: 0
-    losses: 1
-    points: 6
-    fplPoints: 197
-  - rank: 4
     teamId: 3727970
     team: WinninThePoo
     manager: D Lukic
@@ -415,8 +397,17 @@ q4:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 195
-  - rank: 5
+    fplPoints: 229
+  - rank: 3
+    teamId: 458135
+    team: BOTTLE FC
+    manager: Arandjel Djuric
+    wins: 2
+    draws: 0
+    losses: 1
+    points: 6
+    fplPoints: 228
+  - rank: 4
     teamId: 7273
     team: S A L A J K A
     manager: Bojan Samardzija
@@ -424,8 +415,8 @@ q4:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 183
-  - rank: 6
+    fplPoints: 223
+  - rank: 5
     teamId: 122666
     team: JFC
     manager: Filip Jeremic
@@ -433,7 +424,16 @@ q4:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 182
+    fplPoints: 208
+  - rank: 6
+    teamId: 4717704
+    team: Supermen
+    manager: Goran Lakic
+    wins: 2
+    draws: 0
+    losses: 1
+    points: 6
+    fplPoints: 206
   - rank: 7
     teamId: 384794
     team: Pizza the Hutt
@@ -442,7 +442,7 @@ q4:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 150
+    fplPoints: 181
   - rank: 8
     teamId: 1620894
     team: FC Next Season
@@ -451,7 +451,7 @@ q4:
     draws: 1
     losses: 1
     points: 4
-    fplPoints: 212
+    fplPoints: 246
   - rank: 9
     teamId: 649897
     team: FK Panic
@@ -460,7 +460,7 @@ q4:
     draws: 1
     losses: 1
     points: 4
-    fplPoints: 169
+    fplPoints: 189
   - rank: 10
     teamId: 882496
     team: FC Last Season
@@ -469,7 +469,7 @@ q4:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 182
+    fplPoints: 204
   - rank: 11
     teamId: 4605524
     team: BMA
@@ -478,17 +478,8 @@ q4:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 180
+    fplPoints: 204
   - rank: 12
-    teamId: 1380871
-    team: Fk Vikdam
-    manager: Juka Alimanovic
-    wins: 1
-    draws: 0
-    losses: 2
-    points: 3
-    fplPoints: 170
-  - rank: 13
     teamId: 1543228
     team: Raspad Sistema
     manager: Ilija Milisic
@@ -496,7 +487,16 @@ q4:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 155
+    fplPoints: 197
+  - rank: 13
+    teamId: 1380871
+    team: Fk Vikdam
+    manager: Juka Alimanovic
+    wins: 1
+    draws: 0
+    losses: 2
+    points: 3
+    fplPoints: 187
   - rank: 14
     teamId: 182547
     team: IceCold -64
@@ -505,4 +505,4 @@ q4:
     draws: 0
     losses: 3
     points: 0
-    fplPoints: 178
+    fplPoints: 193
