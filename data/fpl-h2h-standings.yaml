@@ -384,125 +384,125 @@ q4:
     teamId: 458135
     team: BOTTLE FC
     manager: Arandjel Djuric
-    wins: 2
+    wins: 3
     draws: 0
     losses: 1
-    points: 6
-    fplPoints: 240
+    points: 9
+    fplPoints: 273
   - rank: 2
     teamId: 3727970
     team: WinninThePoo
     manager: D Lukic
-    wins: 2
+    wins: 3
     draws: 0
     losses: 1
-    points: 6
-    fplPoints: 236
+    points: 9
+    fplPoints: 267
   - rank: 3
     teamId: 3625500
     team: Rolo FC
     manager: Branko Oluic
-    wins: 2
+    wins: 3
     draws: 0
     losses: 1
-    points: 6
-    fplPoints: 233
+    points: 9
+    fplPoints: 265
   - rank: 4
     teamId: 7273
     team: S A L A J K A
     manager: Bojan Samardzija
-    wins: 2
+    wins: 3
     draws: 0
     losses: 1
-    points: 6
-    fplPoints: 229
+    points: 9
+    fplPoints: 255
   - rank: 5
+    teamId: 1620894
+    team: FC Next Season
+    manager: Ivan J
+    wins: 2
+    draws: 1
+    losses: 1
+    points: 7
+    fplPoints: 292
+  - rank: 6
+    teamId: 882496
+    team: FC Last Season
+    manager: Mladen Lucic
+    wins: 2
+    draws: 0
+    losses: 2
+    points: 6
+    fplPoints: 253
+  - rank: 7
     teamId: 4717704
     team: Supermen
     manager: Goran Lakic
     wins: 2
     draws: 0
-    losses: 1
+    losses: 2
     points: 6
-    fplPoints: 221
-  - rank: 6
+    fplPoints: 247
+  - rank: 8
     teamId: 122666
     team: JFC
     manager: Filip Jeremic
     wins: 2
     draws: 0
-    losses: 1
+    losses: 2
     points: 6
-    fplPoints: 214
-  - rank: 7
+    fplPoints: 246
+  - rank: 9
+    teamId: 1543228
+    team: Raspad Sistema
+    manager: Ilija Milisic
+    wins: 2
+    draws: 0
+    losses: 2
+    points: 6
+    fplPoints: 239
+  - rank: 10
     teamId: 384794
     team: Pizza the Hutt
     manager: Nebojsa Milosevic
     wins: 2
     draws: 0
-    losses: 1
+    losses: 2
     points: 6
-    fplPoints: 189
-  - rank: 8
-    teamId: 1620894
-    team: FC Next Season
-    manager: Ivan J
-    wins: 1
-    draws: 1
-    losses: 1
-    points: 4
-    fplPoints: 254
-  - rank: 9
+    fplPoints: 204
+  - rank: 11
     teamId: 649897
     team: FK Panic
     manager: Stefan Panic
     wins: 1
     draws: 1
-    losses: 1
-    points: 4
-    fplPoints: 199
-  - rank: 10
-    teamId: 882496
-    team: FC Last Season
-    manager: Mladen Lucic
-    wins: 1
-    draws: 0
     losses: 2
-    points: 3
-    fplPoints: 215
-  - rank: 11
+    points: 4
+    fplPoints: 237
+  - rank: 12
     teamId: 4605524
     team: BMA
     manager: Danijel Avlijas
     wins: 1
     draws: 0
-    losses: 2
+    losses: 3
     points: 3
-    fplPoints: 210
-  - rank: 12
-    teamId: 1543228
-    team: Raspad Sistema
-    manager: Ilija Milisic
-    wins: 1
-    draws: 0
-    losses: 2
-    points: 3
-    fplPoints: 207
+    fplPoints: 242
   - rank: 13
     teamId: 1380871
     team: Fk Vikdam
     manager: Juka Alimanovic
     wins: 1
     draws: 0
-    losses: 2
+    losses: 3
     points: 3
-    fplPoints: 204
+    fplPoints: 205
   - rank: 14
     teamId: 182547
     team: IceCold -64
     manager: Dee Kay
     wins: 0
     draws: 0
-    losses: 3
+    losses: 4
     points: 0
-    fplPoints: 208
+    fplPoints: 236
