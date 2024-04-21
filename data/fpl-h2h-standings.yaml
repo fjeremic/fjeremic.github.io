@@ -55,7 +55,7 @@ q1:
     fplPoints: 587
   - rank: 7
     teamId: 182547
-    team: IceCold -64
+    team: BMA contact me! Ty
     manager: Dee Kay
     wins: 5
     draws: 0
@@ -236,7 +236,7 @@ q2:
     fplPoints: 422
   - rank: 13
     teamId: 182547
-    team: IceCold -64
+    team: BMA contact me! Ty
     manager: Dee Kay
     wins: 3
     draws: 0
@@ -336,7 +336,7 @@ q3:
     fplPoints: 683
   - rank: 10
     teamId: 182547
-    team: IceCold -64
+    team: BMA contact me! Ty
     manager: Dee Kay
     wins: 4
     draws: 1
@@ -388,7 +388,7 @@ q4:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 273
+    fplPoints: 286
   - rank: 2
     teamId: 3727970
     team: WinninThePoo
@@ -397,7 +397,7 @@ q4:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 267
+    fplPoints: 281
   - rank: 3
     teamId: 3625500
     team: Rolo FC
@@ -406,7 +406,7 @@ q4:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 265
+    fplPoints: 277
   - rank: 4
     teamId: 7273
     team: S A L A J K A
@@ -415,7 +415,7 @@ q4:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 255
+    fplPoints: 266
   - rank: 5
     teamId: 1620894
     team: FC Next Season
@@ -424,17 +424,8 @@ q4:
     draws: 1
     losses: 1
     points: 7
-    fplPoints: 292
+    fplPoints: 310
   - rank: 6
-    teamId: 882496
-    team: FC Last Season
-    manager: Mladen Lucic
-    wins: 2
-    draws: 0
-    losses: 2
-    points: 6
-    fplPoints: 253
-  - rank: 7
     teamId: 4717704
     team: Supermen
     manager: Goran Lakic
@@ -442,8 +433,8 @@ q4:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 247
-  - rank: 8
+    fplPoints: 264
+  - rank: 7
     teamId: 122666
     team: JFC
     manager: Filip Jeremic
@@ -451,7 +442,16 @@ q4:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 246
+    fplPoints: 261
+  - rank: 8
+    teamId: 882496
+    team: FC Last Season
+    manager: Mladen Lucic
+    wins: 2
+    draws: 0
+    losses: 2
+    points: 6
+    fplPoints: 257
   - rank: 9
     teamId: 1543228
     team: Raspad Sistema
@@ -460,7 +460,7 @@ q4:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 239
+    fplPoints: 252
   - rank: 10
     teamId: 384794
     team: Pizza the Hutt
@@ -478,7 +478,7 @@ q4:
     draws: 1
     losses: 2
     points: 4
-    fplPoints: 237
+    fplPoints: 249
   - rank: 12
     teamId: 4605524
     team: BMA
@@ -487,7 +487,7 @@ q4:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 242
+    fplPoints: 263
   - rank: 13
     teamId: 1380871
     team: Fk Vikdam
@@ -496,13 +496,13 @@ q4:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 205
+    fplPoints: 224
   - rank: 14
     teamId: 182547
-    team: IceCold -64
+    team: BMA contact me! Ty
     manager: Dee Kay
     wins: 0
     draws: 0
     losses: 4
     points: 0
-    fplPoints: 236
+    fplPoints: 247
