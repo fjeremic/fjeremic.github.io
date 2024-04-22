@@ -381,24 +381,6 @@ q3:
     fplPoints: 585
 q4:
   - rank: 1
-    teamId: 458135
-    team: BOTTLE FC
-    manager: Arandjel Djuric
-    wins: 3
-    draws: 0
-    losses: 1
-    points: 9
-    fplPoints: 286
-  - rank: 2
-    teamId: 3727970
-    team: WinninThePoo
-    manager: D Lukic
-    wins: 3
-    draws: 0
-    losses: 1
-    points: 9
-    fplPoints: 281
-  - rank: 3
     teamId: 3625500
     team: Rolo FC
     manager: Branko Oluic
@@ -406,7 +388,25 @@ q4:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 277
+    fplPoints: 333
+  - rank: 2
+    teamId: 458135
+    team: BOTTLE FC
+    manager: Arandjel Djuric
+    wins: 3
+    draws: 0
+    losses: 1
+    points: 9
+    fplPoints: 313
+  - rank: 3
+    teamId: 3727970
+    team: WinninThePoo
+    manager: D Lukic
+    wins: 3
+    draws: 0
+    losses: 1
+    points: 9
+    fplPoints: 303
   - rank: 4
     teamId: 7273
     team: S A L A J K A
@@ -415,7 +415,7 @@ q4:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 266
+    fplPoints: 302
   - rank: 5
     teamId: 1620894
     team: FC Next Season
@@ -424,17 +424,8 @@ q4:
     draws: 1
     losses: 1
     points: 7
-    fplPoints: 310
+    fplPoints: 364
   - rank: 6
-    teamId: 4717704
-    team: Supermen
-    manager: Goran Lakic
-    wins: 2
-    draws: 0
-    losses: 2
-    points: 6
-    fplPoints: 264
-  - rank: 7
     teamId: 122666
     team: JFC
     manager: Filip Jeremic
@@ -442,7 +433,16 @@ q4:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 261
+    fplPoints: 327
+  - rank: 7
+    teamId: 4717704
+    team: Supermen
+    manager: Goran Lakic
+    wins: 2
+    draws: 0
+    losses: 2
+    points: 6
+    fplPoints: 317
   - rank: 8
     teamId: 882496
     team: FC Last Season
@@ -451,7 +451,7 @@ q4:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 257
+    fplPoints: 285
   - rank: 9
     teamId: 1543228
     team: Raspad Sistema
@@ -460,7 +460,7 @@ q4:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 252
+    fplPoints: 280
   - rank: 10
     teamId: 384794
     team: Pizza the Hutt
@@ -469,7 +469,7 @@ q4:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 204
+    fplPoints: 228
   - rank: 11
     teamId: 649897
     team: FK Panic
@@ -478,7 +478,7 @@ q4:
     draws: 1
     losses: 2
     points: 4
-    fplPoints: 249
+    fplPoints: 284
   - rank: 12
     teamId: 4605524
     team: BMA
@@ -487,7 +487,7 @@ q4:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 263
+    fplPoints: 298
   - rank: 13
     teamId: 1380871
     team: Fk Vikdam
@@ -496,7 +496,7 @@ q4:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 224
+    fplPoints: 252
   - rank: 14
     teamId: 182547
     team: BMA contact me! Ty
@@ -505,4 +505,4 @@ q4:
     draws: 0
     losses: 4
     points: 0
-    fplPoints: 247
+    fplPoints: 281
