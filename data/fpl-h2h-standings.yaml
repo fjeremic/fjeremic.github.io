@@ -388,7 +388,7 @@ q4:
     draws: 0
     losses: 1
     points: 12
-    fplPoints: 360
+    fplPoints: 394
   - rank: 2
     teamId: 1620894
     team: FC Next Season
@@ -397,17 +397,8 @@ q4:
     draws: 1
     losses: 1
     points: 10
-    fplPoints: 427
+    fplPoints: 444
   - rank: 3
-    teamId: 3625500
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 3
-    draws: 0
-    losses: 2
-    points: 9
-    fplPoints: 411
-  - rank: 4
     teamId: 4717704
     team: Supermen
     manager: Goran Lakic
@@ -415,8 +406,8 @@ q4:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 408
-  - rank: 5
+    fplPoints: 433
+  - rank: 4
     teamId: 458135
     team: BOTTLE FC
     manager: Arandjel Djuric
@@ -424,7 +415,16 @@ q4:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 400
+    fplPoints: 426
+  - rank: 5
+    teamId: 3625500
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 3
+    draws: 0
+    losses: 2
+    points: 9
+    fplPoints: 413
   - rank: 6
     teamId: 122666
     team: JFC
@@ -433,7 +433,7 @@ q4:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 394
+    fplPoints: 400
   - rank: 7
     teamId: 7273
     team: S A L A J K A
@@ -442,7 +442,7 @@ q4:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 344
+    fplPoints: 378
   - rank: 8
     teamId: 649897
     team: FK Panic
@@ -451,7 +451,7 @@ q4:
     draws: 1
     losses: 2
     points: 7
-    fplPoints: 347
+    fplPoints: 385
   - rank: 9
     teamId: 882496
     team: FC Last Season
@@ -460,7 +460,7 @@ q4:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 354
+    fplPoints: 379
   - rank: 10
     teamId: 4605524
     team: BMA
@@ -469,7 +469,7 @@ q4:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 342
+    fplPoints: 367
   - rank: 11
     teamId: 1380871
     team: Fk Vikdam
@@ -478,7 +478,7 @@ q4:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 339
+    fplPoints: 355
   - rank: 12
     teamId: 1543228
     team: Raspad Sistema
@@ -487,7 +487,7 @@ q4:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 331
+    fplPoints: 343
   - rank: 13
     teamId: 384794
     team: Pizza the Hutt
@@ -496,7 +496,7 @@ q4:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 299
+    fplPoints: 327
   - rank: 14
     teamId: 182547
     team: DeeKay
@@ -505,4 +505,4 @@ q4:
     draws: 0
     losses: 5
     points: 0
-    fplPoints: 350
+    fplPoints: 369
