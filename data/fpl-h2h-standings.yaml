@@ -388,7 +388,7 @@ q4:
     draws: 0
     losses: 1
     points: 15
-    fplPoints: 445
+    fplPoints: 450
   - rank: 2
     teamId: 1620894
     team: FC Next Season
@@ -397,7 +397,7 @@ q4:
     draws: 1
     losses: 1
     points: 13
-    fplPoints: 496
+    fplPoints: 492
   - rank: 3
     teamId: 7273
     team: S A L A J K A
@@ -433,7 +433,7 @@ q4:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 460
+    fplPoints: 456
   - rank: 7
     teamId: 3625500
     team: Rolo FC
@@ -442,7 +442,7 @@ q4:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 457
+    fplPoints: 453
   - rank: 8
     teamId: 122666
     team: JFC
@@ -451,7 +451,7 @@ q4:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 452
+    fplPoints: 448
   - rank: 9
     teamId: 4605524
     team: BMA
@@ -460,7 +460,7 @@ q4:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 425
+    fplPoints: 426
   - rank: 10
     teamId: 384794
     team: Pizza the Hutt
@@ -469,7 +469,7 @@ q4:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 354
+    fplPoints: 362
   - rank: 11
     teamId: 882496
     team: FC Last Season
@@ -478,7 +478,7 @@ q4:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 417
+    fplPoints: 413
   - rank: 12
     teamId: 1380871
     team: Fk Vikdam
@@ -487,7 +487,7 @@ q4:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 401
+    fplPoints: 403
   - rank: 13
     teamId: 1543228
     team: Raspad Sistema
@@ -496,7 +496,7 @@ q4:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 370
+    fplPoints: 358
   - rank: 14
     teamId: 182547
     team: DeeKay
@@ -505,4 +505,4 @@ q4:
     draws: 0
     losses: 5
     points: 3
-    fplPoints: 423
+    fplPoints: 415
