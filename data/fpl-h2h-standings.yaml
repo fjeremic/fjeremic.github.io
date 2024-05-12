@@ -388,7 +388,7 @@ q4:
     draws: 0
     losses: 2
     points: 15
-    fplPoints: 506
+    fplPoints: 569
   - rank: 2
     teamId: 3727970
     team: WinninThePoo
@@ -397,7 +397,7 @@ q4:
     draws: 0
     losses: 2
     points: 15
-    fplPoints: 505
+    fplPoints: 559
   - rank: 3
     teamId: 1620894
     team: FC Next Season
@@ -406,7 +406,7 @@ q4:
     draws: 1
     losses: 2
     points: 13
-    fplPoints: 585
+    fplPoints: 645
   - rank: 4
     teamId: 649897
     team: FK Panic
@@ -415,7 +415,7 @@ q4:
     draws: 1
     losses: 2
     points: 13
-    fplPoints: 521
+    fplPoints: 583
   - rank: 5
     teamId: 3625500
     team: Rolo FC
@@ -424,7 +424,7 @@ q4:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 553
+    fplPoints: 599
   - rank: 6
     teamId: 4605524
     team: BMA
@@ -433,7 +433,7 @@ q4:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 548
+    fplPoints: 599
   - rank: 7
     teamId: 458135
     team: BOTTLE FC
@@ -442,7 +442,7 @@ q4:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 544
+    fplPoints: 579
   - rank: 8
     teamId: 384794
     team: Pizza the Hutt
@@ -451,7 +451,7 @@ q4:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 444
+    fplPoints: 496
   - rank: 9
     teamId: 122666
     team: JFC
@@ -460,7 +460,7 @@ q4:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 539
+    fplPoints: 604
   - rank: 10
     teamId: 4717704
     team: Supermen
@@ -469,7 +469,7 @@ q4:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 536
+    fplPoints: 587
   - rank: 11
     teamId: 182547
     team: DeeKay
@@ -478,7 +478,7 @@ q4:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 525
+    fplPoints: 588
   - rank: 12
     teamId: 882496
     team: FC Last Season
@@ -487,7 +487,7 @@ q4:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 496
+    fplPoints: 546
   - rank: 13
     teamId: 1380871
     team: Fk Vikdam
@@ -496,7 +496,7 @@ q4:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 470
+    fplPoints: 504
   - rank: 14
     teamId: 1543228
     team: Raspad Sistema
@@ -505,4 +505,4 @@ q4:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 446
+    fplPoints: 489
