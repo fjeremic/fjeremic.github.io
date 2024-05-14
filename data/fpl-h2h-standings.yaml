@@ -406,7 +406,7 @@ q4:
     draws: 1
     losses: 2
     points: 13
-    fplPoints: 654
+    fplPoints: 655
   - rank: 4
     teamId: 649897
     team: FK Panic
@@ -496,7 +496,7 @@ q4:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 512
+    fplPoints: 514
   - rank: 14
     teamId: 1543228
     team: Raspad Sistema
