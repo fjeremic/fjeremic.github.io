@@ -47,8 +47,7 @@ Premier League season:
 
 |                   | Payout       | 
 |:-----------------:|:------------:|
-| Last Man Standing | 70% of pot   |
-| Runner-up         | 30% of pot   |
+| Last Man Standing | 100% of pot  |
 
 ### Payment
 
