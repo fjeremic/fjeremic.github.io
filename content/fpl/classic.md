@@ -46,8 +46,7 @@ Premier League season:
 | 1<sup>st</sup>    | 50% of pot   |
 | 2<sup>nd</sup>    | 25% of pot   |
 | 3<sup>rd</sup>    | 10% of pot   |
-| 4<sup>th</sup>    | 5% of pot    |
-| League Cup Winner | 10% of pot   |
+| League Cup Winner | 15% of pot   |
 
 ## Payment
 
