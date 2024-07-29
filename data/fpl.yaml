@@ -1,8 +1,8 @@
 classic:
   name: Classic League
-  standings: https://fantasy.premierleague.com/leagues/571221/standings/c
-  joinLink: https://fantasy.premierleague.com/leagues/auto-join/9ot7rn
-  joinDeadline: 1:30 p.m. EST Friday August 11th, 2023
+  standings: https://fantasy.premierleague.com/leagues/523053/standings/c
+  joinLink: https://fantasy.premierleague.com/leagues/auto-join/u3m42f
+  joinDeadline: 1:30 p.m. EST Friday August 16th, 2024
   eTransferEmail: filip@jeremic.ca
   eTransferAmount: $100
   payment:
@@ -12,9 +12,9 @@ classic:
       paymentStatus: Paid
 h2h:
   name: Head-To-Head League
-  standings: https://fantasy.premierleague.com/leagues/571225/standings/h
-  joinLink: https://fantasy.premierleague.com/leagues/auto-join/f29jw8
-  joinDeadline: 1:30 p.m. EST Friday August 11th, 2023
+  standings: https://fantasy.premierleague.com/leagues/523066/standings/h
+  joinLink: https://fantasy.premierleague.com/leagues/auto-join/qf6o6z
+  joinDeadline: 1:30 p.m. EST Friday August 16th, 2024
   eTransferEmail: filip@jeremic.ca
   eTransferAmount: $100
   payment:
@@ -24,9 +24,9 @@ h2h:
       paymentStatus: Paid
 lms:
   name: Last Man Standing League
-  standings: https://fantasy.premierleague.com/leagues/571223/standings/c
-  joinLink: https://fantasy.premierleague.com/leagues/auto-join/1b66ue
-  joinDeadline: 1:30 p.m. EST Friday August 11th, 2023
+  standings: https://fantasy.premierleague.com/leagues/523062/standings/c
+  joinLink: https://fantasy.premierleague.com/leagues/auto-join/h3egou
+  joinDeadline: 1:30 p.m. EST Friday August 16th, 2024
   eTransferEmail: filip@jeremic.ca
   eTransferAmount: $50
   payment:
