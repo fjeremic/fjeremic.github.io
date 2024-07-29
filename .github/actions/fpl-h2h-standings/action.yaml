@@ -7,7 +7,7 @@ runs:
     - python3
     - scripts/fpl_h2h_standings.py
     - -l
-    - 571225
+    - 523066
     - -o
     - ./data/fpl-h2h-standings.yaml
     - -v

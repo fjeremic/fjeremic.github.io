@@ -1,6 +1,6 @@
 q1:
   - rank: 1
-    teamId: 122666
+    teamId: 67222
     team: JFC
     manager: Filip Jeremic
     wins: 0
@@ -10,7 +10,7 @@ q1:
     fplPoints: 0
 q2:
   - rank: 1
-    teamId: 122666
+    teamId: 67222
     team: JFC
     manager: Filip Jeremic
     wins: 0
@@ -20,7 +20,7 @@ q2:
     fplPoints: 0
 q3:
   - rank: 1
-    teamId: 122666
+    teamId: 67222
     team: JFC
     manager: Filip Jeremic
     wins: 0
@@ -30,7 +30,7 @@ q3:
     fplPoints: 0
 q4:
   - rank: 1
-    teamId: 122666
+    teamId: 67222
     team: JFC
     manager: Filip Jeremic
     wins: 0
