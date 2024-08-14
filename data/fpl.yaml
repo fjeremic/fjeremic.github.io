@@ -10,6 +10,86 @@ classic:
       manager: Filip Jeremic
       playmentDue: $100
       paymentStatus: Paid
+    - team: Van Der Trt Mrt
+      manager: Goran Lakic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: milisic
+      manager: Petar Milisic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Daddy's Boyz
+      manager: jakub kicinski
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FK Busije
+      manager: Nebojsa Milosevic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: WinninThePoo
+      manager: D Lukic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Fanatik
+      manager: Adrian Polgar
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Let_DK_play
+      manager: Danijel Avlijas
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FC Mudonja
+      manager: Goran Radovic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Sporting Abeergut
+      manager: Mirko Misic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: I OPET U KAFANI FC
+      manager: Arandjel Djuric
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FC Sandokan
+      manager: Sandi Jovanovic
+      playmentDue: $100
+      paymentStatus: Payment Pending
+    - team: Rolo FC
+      manager: Branko Oluic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Zanomnm
+      manager: Bojan Samardzija
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Zajebancija
+      manager: Ilija Milisic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FK Panic
+      manager: Stefan Panic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Fc Vikdam
+      manager: Juka Alimanovic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Dragan's Dalmatians
+      manager: Dragan Mijakovac
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FC Reeled Me Back In
+      manager: Mladen Lucic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Keep it on Dalot
+      manager: Marko Cholich
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FC Dragged Me Bak In
+      manager: Ivan J
+      playmentDue: $100
+      paymentStatus: Paid
 h2h:
   name: Head-To-Head League
   standings: https://fantasy.premierleague.com/leagues/523066/standings/h
@@ -22,6 +102,50 @@ h2h:
       manager: Filip Jeremic
       playmentDue: $100
       paymentStatus: Paid
+    - team: WinninThePoo
+      manager: D Lukic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Let_DK_play
+      manager: Danijel Avlijas
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: I OPET U KAFANI FC
+      manager: Arandjel Djuric
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Rolo FC
+      manager: Branko Oluic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Zanomnm
+      manager: Bojan Samardzija
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Zajebancija
+      manager: Ilija Milisic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FK Panic
+      manager: Stefan Panic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Fc Vikdam
+      manager: Juka Alimanovic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FC Reeled Me Back In
+      manager: Mladen Lucic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Keep it on Dalot
+      manager: Marko Cholich
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FC Dragged Me Bak In
+      manager: Ivan J
+      playmentDue: $100
+      paymentStatus: Paid
 lms:
   name: Last Man Standing League
   standings: https://fantasy.premierleague.com/leagues/523062/standings/c
@@ -32,5 +156,41 @@ lms:
   payment:
     - team: JFC
       manager: Filip Jeremic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: WinninThePoo
+      manager: D Lukic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: Let_DK_play
+      manager: Danijel Avlijas
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: Rolo FC
+      manager: Branko Oluic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: Zanomnm
+      manager: Bojan Samardzija
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: Zajebancija
+      manager: Ilija Milisic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: FK Panic
+      manager: Stefan Panic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: Fc Vikdam
+      manager: Juka Alimanovic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: FC Reeled Me Back In
+      manager: Mladen Lucic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: FC Dragged Me Bak In
+      manager: Ivan J
       playmentDue: $50
       paymentStatus: Paid
