@@ -7,17 +7,8 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 82
+    fplPoints: 152
   - rank: 2
-    teamId: 48496
-    team: Keep it on Dalot
-    manager: Marko Cholich
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 77
-  - rank: 3
     teamId: 197466
     team: I OPET U KAFANI FC
     manager: Arandjel Djuric
@@ -25,17 +16,8 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 77
-  - rank: 4
-    teamId: 91207
-    team: FC Dragged Me Bak In
-    manager: Ivan J
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 72
-  - rank: 5
+    fplPoints: 142
+  - rank: 3
     teamId: 67222
     team: JFC
     manager: Filip Jeremic
@@ -43,8 +25,8 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 67
-  - rank: 6
+    fplPoints: 132
+  - rank: 4
     teamId: 5697614
     team: Let_DK_play
     manager: Danijel Avlijas
@@ -52,7 +34,25 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 64
+    fplPoints: 127
+  - rank: 5
+    teamId: 91207
+    team: FC Dragged Me Bak In
+    manager: Ivan J
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 125
+  - rank: 6
+    teamId: 48496
+    team: Keep it on Dalot
+    manager: Marko Cholich
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 96
   - rank: 7
     teamId: 3030970
     team: Zajebancija
@@ -61,17 +61,8 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 71
+    fplPoints: 131
   - rank: 8
-    teamId: 6131190
-    team: WinninThePoo
-    manager: D Lukic
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
-    fplPoints: 70
-  - rank: 9
     teamId: 3084447
     team: Zanomnm
     manager: Bojan Samardzija
@@ -79,7 +70,16 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 66
+    fplPoints: 126
+  - rank: 9
+    teamId: 6131190
+    team: WinninThePoo
+    manager: D Lukic
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 118
   - rank: 10
     teamId: 1939110
     team: FC Reeled Me Back In
@@ -88,17 +88,8 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 60
+    fplPoints: 118
   - rank: 11
-    teamId: 2023523
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
-    fplPoints: 59
-  - rank: 12
     teamId: 228100
     team: FK Panic
     manager: Stefan Panic
@@ -106,7 +97,16 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 49
+    fplPoints: 118
+  - rank: 12
+    teamId: 2023523
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 111
 q2:
   - rank: 1
     teamId: 2935577
