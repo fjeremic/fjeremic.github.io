@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 0
     points: 9
-    fplPoints: 254
+    fplPoints: 296
   - rank: 2
     teamId: 197466
     team: I OPET U KAFANI FC
@@ -16,16 +16,16 @@ q1:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 253
+    fplPoints: 294
   - rank: 3
-    teamId: 67222
-    team: JFC
-    manager: Filip Jeremic
+    teamId: 3084447
+    team: Zanomnm
+    manager: Bojan Samardzija
     wins: 2
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 230
+    fplPoints: 294
   - rank: 4
     teamId: 228100
     team: FK Panic
@@ -34,16 +34,16 @@ q1:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 227
+    fplPoints: 268
   - rank: 5
-    teamId: 3084447
-    team: Zanomnm
-    manager: Bojan Samardzija
+    teamId: 67222
+    team: JFC
+    manager: Filip Jeremic
     wins: 2
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 227
+    fplPoints: 267
   - rank: 6
     teamId: 91207
     team: FC Dragged Me Bak In
@@ -52,7 +52,7 @@ q1:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 222
+    fplPoints: 258
   - rank: 7
     teamId: 1939110
     team: FC Reeled Me Back In
@@ -61,7 +61,7 @@ q1:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 214
+    fplPoints: 258
   - rank: 8
     teamId: 3030970
     team: Zajebancija
@@ -70,17 +70,8 @@ q1:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 225
+    fplPoints: 271
   - rank: 9
-    teamId: 48496
-    team: Keep it on Dalot
-    manager: Marko Cholich
-    wins: 1
-    draws: 0
-    losses: 2
-    points: 3
-    fplPoints: 219
-  - rank: 10
     teamId: 5697614
     team: Let_DK_play
     manager: Danijel Avlijas
@@ -88,7 +79,16 @@ q1:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 201
+    fplPoints: 246
+  - rank: 10
+    teamId: 48496
+    team: Keep it on Dalot
+    manager: Marko Cholich
+    wins: 1
+    draws: 0
+    losses: 2
+    points: 3
+    fplPoints: 242
   - rank: 11
     teamId: 6131190
     team: WinninThePoo
@@ -97,7 +97,7 @@ q1:
     draws: 0
     losses: 3
     points: 0
-    fplPoints: 210
+    fplPoints: 258
   - rank: 12
     teamId: 2023523
     team: Rolo FC
@@ -106,7 +106,7 @@ q1:
     draws: 0
     losses: 3
     points: 0
-    fplPoints: 189
+    fplPoints: 223
 q2:
   - rank: 1
     teamId: 2935577
