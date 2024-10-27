@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 2
     points: 18
-    fplPoints: 556
+    fplPoints: 602
   - rank: 2
     teamId: 1939110
     team: FC Believerz
@@ -16,7 +16,7 @@ q1:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 510
+    fplPoints: 555
   - rank: 3
     teamId: 91207
     team: FC Dragged Me Bak In
@@ -25,7 +25,7 @@ q1:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 475
+    fplPoints: 508
   - rank: 4
     teamId: 48496
     team: Keep it on Dalot
@@ -34,7 +34,7 @@ q1:
     draws: 1
     losses: 3
     points: 13
-    fplPoints: 508
+    fplPoints: 537
   - rank: 5
     teamId: 197466
     team: I OPET U KAFANI FC
@@ -43,7 +43,7 @@ q1:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 519
+    fplPoints: 537
   - rank: 6
     teamId: 2935577
     team: Fc Vikdam
@@ -52,17 +52,8 @@ q1:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 506
+    fplPoints: 523
   - rank: 7
-    teamId: 67222
-    team: JFC
-    manager: Filip Jeremic
-    wins: 4
-    draws: 0
-    losses: 4
-    points: 12
-    fplPoints: 465
-  - rank: 8
     teamId: 228100
     team: FK Panic
     manager: Stefan Panic
@@ -70,7 +61,16 @@ q1:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 461
+    fplPoints: 511
+  - rank: 8
+    teamId: 67222
+    team: JFC
+    manager: Filip Jeremic
+    wins: 4
+    draws: 0
+    losses: 4
+    points: 12
+    fplPoints: 502
   - rank: 9
     teamId: 3030970
     team: Zajebancija
@@ -79,7 +79,7 @@ q1:
     draws: 1
     losses: 4
     points: 10
-    fplPoints: 469
+    fplPoints: 500
   - rank: 10
     teamId: 5697614
     team: Let_DK_play
@@ -88,7 +88,7 @@ q1:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 523
+    fplPoints: 551
   - rank: 11
     teamId: 6131190
     team: WinninThePoo
@@ -97,7 +97,7 @@ q1:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 434
+    fplPoints: 467
   - rank: 12
     teamId: 2023523
     team: Rolo FC
@@ -106,7 +106,7 @@ q1:
     draws: 0
     losses: 6
     points: 6
-    fplPoints: 493
+    fplPoints: 539
 q2:
   - rank: 1
     teamId: 3084447
