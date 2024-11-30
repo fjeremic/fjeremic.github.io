@@ -116,7 +116,7 @@ q2:
     draws: 0
     losses: 0
     points: 6
-    fplPoints: 137
+    fplPoints: 139
   - rank: 2
     teamId: 67222
     team: JFC
@@ -127,15 +127,6 @@ q2:
     points: 6
     fplPoints: 122
   - rank: 3
-    teamId: 228100
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 1
-    draws: 1
-    losses: 0
-    points: 4
-    fplPoints: 138
-  - rank: 4
     teamId: 91207
     team: FC Dragged Me Bak In
     manager: Ivan J
@@ -143,7 +134,16 @@ q2:
     draws: 1
     losses: 0
     points: 4
-    fplPoints: 137
+    fplPoints: 135
+  - rank: 4
+    teamId: 228100
+    team: FK Panic
+    manager: Stefan Panic
+    wins: 1
+    draws: 1
+    losses: 0
+    points: 4
+    fplPoints: 134
   - rank: 5
     teamId: 197466
     team: Amorim's Red Army
@@ -152,7 +152,7 @@ q2:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 129
+    fplPoints: 131
   - rank: 6
     teamId: 1939110
     team: FC Believerz
@@ -161,7 +161,7 @@ q2:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 128
+    fplPoints: 130
   - rank: 7
     teamId: 2023523
     team: Rolo FC
@@ -179,7 +179,7 @@ q2:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 123
+    fplPoints: 119
   - rank: 9
     teamId: 3084447
     team: Zanomnm
@@ -188,7 +188,7 @@ q2:
     draws: 1
     losses: 1
     points: 1
-    fplPoints: 106
+    fplPoints: 120
   - rank: 10
     teamId: 3030970
     team: Zajebancija
@@ -197,7 +197,7 @@ q2:
     draws: 1
     losses: 1
     points: 1
-    fplPoints: 94
+    fplPoints: 82
   - rank: 11
     teamId: 2935577
     team: Fc Vikdam
@@ -206,7 +206,7 @@ q2:
     draws: 0
     losses: 2
     points: 0
-    fplPoints: 101
+    fplPoints: 103
   - rank: 12
     teamId: 48496
     team: Keep it on Dalot
