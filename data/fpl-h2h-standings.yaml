@@ -116,7 +116,7 @@ q2:
     draws: 0
     losses: 0
     points: 9
-    fplPoints: 211
+    fplPoints: 212
   - rank: 2
     teamId: 228100
     team: FK Panic
@@ -125,7 +125,7 @@ q2:
     draws: 1
     losses: 0
     points: 7
-    fplPoints: 220
+    fplPoints: 222
   - rank: 3
     teamId: 91207
     team: FC Dragged Me Bak In
@@ -134,7 +134,7 @@ q2:
     draws: 1
     losses: 0
     points: 7
-    fplPoints: 204
+    fplPoints: 206
   - rank: 4
     teamId: 2023523
     team: Rolo FC
@@ -152,7 +152,7 @@ q2:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 209
+    fplPoints: 205
   - rank: 6
     teamId: 67222
     team: JFC
@@ -161,17 +161,8 @@ q2:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 199
+    fplPoints: 201
   - rank: 7
-    teamId: 197466
-    team: Amorim's Red Army
-    manager: Arandjel Djuric
-    wins: 1
-    draws: 0
-    losses: 2
-    points: 3
-    fplPoints: 194
-  - rank: 8
     teamId: 1939110
     team: FC Believerz
     manager: Mladen Lucic
@@ -179,7 +170,16 @@ q2:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 193
+    fplPoints: 196
+  - rank: 8
+    teamId: 197466
+    team: Amorim's Red Army
+    manager: Arandjel Djuric
+    wins: 1
+    draws: 0
+    losses: 2
+    points: 3
+    fplPoints: 192
   - rank: 9
     teamId: 48496
     team: Keep it on Dalot
@@ -188,7 +188,7 @@ q2:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 169
+    fplPoints: 171
   - rank: 10
     teamId: 3084447
     team: Zanomnm
@@ -197,7 +197,7 @@ q2:
     draws: 1
     losses: 2
     points: 1
-    fplPoints: 167
+    fplPoints: 169
   - rank: 11
     teamId: 3030970
     team: Zajebancija
