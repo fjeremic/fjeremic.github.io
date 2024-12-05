@@ -116,7 +116,7 @@ q2:
     draws: 0
     losses: 0
     points: 9
-    fplPoints: 212
+    fplPoints: 237
   - rank: 2
     teamId: 228100
     team: FK Panic
@@ -125,7 +125,7 @@ q2:
     draws: 1
     losses: 0
     points: 7
-    fplPoints: 222
+    fplPoints: 272
   - rank: 3
     teamId: 91207
     team: FC Dragged Me Bak In
@@ -134,26 +134,8 @@ q2:
     draws: 1
     losses: 0
     points: 7
-    fplPoints: 206
+    fplPoints: 256
   - rank: 4
-    teamId: 2023523
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 2
-    draws: 0
-    losses: 1
-    points: 6
-    fplPoints: 217
-  - rank: 5
-    teamId: 5697614
-    team: Let_DK_play
-    manager: Danijel Avlijas
-    wins: 2
-    draws: 0
-    losses: 1
-    points: 6
-    fplPoints: 205
-  - rank: 6
     teamId: 67222
     team: JFC
     manager: Filip Jeremic
@@ -161,7 +143,25 @@ q2:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 201
+    fplPoints: 260
+  - rank: 5
+    teamId: 2023523
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 2
+    draws: 0
+    losses: 1
+    points: 6
+    fplPoints: 259
+  - rank: 6
+    teamId: 5697614
+    team: Let_DK_play
+    manager: Danijel Avlijas
+    wins: 2
+    draws: 0
+    losses: 1
+    points: 6
+    fplPoints: 248
   - rank: 7
     teamId: 1939110
     team: FC Believerz
@@ -170,7 +170,7 @@ q2:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 196
+    fplPoints: 249
   - rank: 8
     teamId: 197466
     team: Amorim's Red Army
@@ -179,7 +179,7 @@ q2:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 192
+    fplPoints: 239
   - rank: 9
     teamId: 48496
     team: Keep it on Dalot
@@ -188,7 +188,7 @@ q2:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 171
+    fplPoints: 199
   - rank: 10
     teamId: 3084447
     team: Zanomnm
@@ -197,7 +197,7 @@ q2:
     draws: 1
     losses: 2
     points: 1
-    fplPoints: 169
+    fplPoints: 213
   - rank: 11
     teamId: 3030970
     team: Zajebancija
@@ -206,7 +206,7 @@ q2:
     draws: 1
     losses: 2
     points: 1
-    fplPoints: 160
+    fplPoints: 213
   - rank: 12
     teamId: 2935577
     team: Fc Vikdam
@@ -215,7 +215,7 @@ q2:
     draws: 0
     losses: 3
     points: 0
-    fplPoints: 150
+    fplPoints: 213
 q3:
   - rank: 1
     teamId: 3084447
