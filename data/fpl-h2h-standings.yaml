@@ -116,7 +116,7 @@ q2:
     draws: 0
     losses: 0
     points: 12
-    fplPoints: 281
+    fplPoints: 304
   - rank: 2
     teamId: 91207
     team: FC Dragged Me Bak In
@@ -125,7 +125,7 @@ q2:
     draws: 1
     losses: 0
     points: 10
-    fplPoints: 265
+    fplPoints: 281
   - rank: 3
     teamId: 2023523
     team: Rolo FC
@@ -134,7 +134,7 @@ q2:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 274
+    fplPoints: 297
   - rank: 4
     teamId: 67222
     team: JFC
@@ -143,7 +143,7 @@ q2:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 268
+    fplPoints: 283
   - rank: 5
     teamId: 228100
     team: FK Panic
@@ -152,7 +152,7 @@ q2:
     draws: 1
     losses: 1
     points: 7
-    fplPoints: 275
+    fplPoints: 293
   - rank: 6
     teamId: 5697614
     team: Let_DK_play
@@ -161,7 +161,7 @@ q2:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 261
+    fplPoints: 278
   - rank: 7
     teamId: 3030970
     team: Zajebancija
@@ -170,7 +170,7 @@ q2:
     draws: 1
     losses: 2
     points: 4
-    fplPoints: 227
+    fplPoints: 243
   - rank: 8
     teamId: 1939110
     team: FC Believerz
@@ -179,7 +179,7 @@ q2:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 258
+    fplPoints: 270
   - rank: 9
     teamId: 197466
     team: Amorim's Red Army
@@ -188,17 +188,8 @@ q2:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 245
+    fplPoints: 257
   - rank: 10
-    teamId: 2935577
-    team: Fc Vikdam
-    manager: Juka Alimanovic
-    wins: 1
-    draws: 0
-    losses: 3
-    points: 3
-    fplPoints: 233
-  - rank: 11
     teamId: 48496
     team: Keep it on Dalot
     manager: Marko Cholich
@@ -206,7 +197,16 @@ q2:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 209
+    fplPoints: 256
+  - rank: 11
+    teamId: 2935577
+    team: Fc Vikdam
+    manager: Juka Alimanovic
+    wins: 1
+    draws: 0
+    losses: 3
+    points: 3
+    fplPoints: 255
   - rank: 12
     teamId: 3084447
     team: Zanomnm
@@ -215,7 +215,7 @@ q2:
     draws: 1
     losses: 3
     points: 1
-    fplPoints: 220
+    fplPoints: 248
 q3:
   - rank: 1
     teamId: 3084447
