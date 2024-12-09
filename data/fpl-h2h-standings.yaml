@@ -116,7 +116,7 @@ q2:
     draws: 0
     losses: 0
     points: 12
-    fplPoints: 304
+    fplPoints: 310
   - rank: 2
     teamId: 91207
     team: FC Dragged Me Bak In
@@ -125,7 +125,7 @@ q2:
     draws: 1
     losses: 0
     points: 10
-    fplPoints: 281
+    fplPoints: 331
   - rank: 3
     teamId: 2023523
     team: Rolo FC
@@ -134,7 +134,7 @@ q2:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 297
+    fplPoints: 339
   - rank: 4
     teamId: 67222
     team: JFC
@@ -143,7 +143,7 @@ q2:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 283
+    fplPoints: 314
   - rank: 5
     teamId: 228100
     team: FK Panic
@@ -152,7 +152,7 @@ q2:
     draws: 1
     losses: 1
     points: 7
-    fplPoints: 293
+    fplPoints: 325
   - rank: 6
     teamId: 5697614
     team: Let_DK_play
@@ -161,7 +161,7 @@ q2:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 278
+    fplPoints: 319
   - rank: 7
     teamId: 3030970
     team: Zajebancija
@@ -170,7 +170,7 @@ q2:
     draws: 1
     losses: 2
     points: 4
-    fplPoints: 243
+    fplPoints: 269
   - rank: 8
     teamId: 1939110
     team: FC Believerz
@@ -179,7 +179,7 @@ q2:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 270
+    fplPoints: 297
   - rank: 9
     teamId: 197466
     team: Amorim's Red Army
@@ -188,7 +188,7 @@ q2:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 257
+    fplPoints: 286
   - rank: 10
     teamId: 48496
     team: Keep it on Dalot
@@ -197,7 +197,7 @@ q2:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 256
+    fplPoints: 276
   - rank: 11
     teamId: 2935577
     team: Fc Vikdam
@@ -206,7 +206,7 @@ q2:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 255
+    fplPoints: 258
   - rank: 12
     teamId: 3084447
     team: Zanomnm
@@ -215,7 +215,7 @@ q2:
     draws: 1
     losses: 3
     points: 1
-    fplPoints: 248
+    fplPoints: 269
 q3:
   - rank: 1
     teamId: 3084447
