@@ -112,110 +112,110 @@ q2:
     teamId: 2023523
     team: Rolo FC
     manager: Branko Oluic
-    wins: 6
+    wins: 7
     draws: 0
     losses: 1
-    points: 18
-    fplPoints: 534
+    points: 21
+    fplPoints: 544
   - rank: 2
     teamId: 91207
     team: FC Dragged Me Bak In
     manager: Ivan J
-    wins: 5
+    wins: 6
     draws: 1
     losses: 1
-    points: 16
-    fplPoints: 531
+    points: 19
+    fplPoints: 533
   - rank: 3
+    teamId: 67222
+    team: JFC
+    manager: Filip Jeremic
+    wins: 5
+    draws: 0
+    losses: 3
+    points: 15
+    fplPoints: 542
+  - rank: 4
     teamId: 6131190
     team: WinninThePoo
     manager: D Lukic
     wins: 5
     draws: 0
-    losses: 2
+    losses: 3
     points: 15
-    fplPoints: 509
-  - rank: 4
-    teamId: 67222
-    team: JFC
-    manager: Filip Jeremic
+    fplPoints: 511
+  - rank: 5
+    teamId: 1939110
+    team: FC Believerz
+    manager: Mladen Lucic
     wins: 4
     draws: 0
-    losses: 3
+    losses: 4
     points: 12
-    fplPoints: 527
-  - rank: 5
+    fplPoints: 515
+  - rank: 6
+    teamId: 197466
+    team: Amorim's Red Army
+    manager: Arandjel Djuric
+    wins: 4
+    draws: 0
+    losses: 4
+    points: 12
+    fplPoints: 511
+  - rank: 7
     teamId: 228100
     team: FK Panic
     manager: Stefan Panic
     wins: 3
     draws: 1
-    losses: 3
+    losses: 4
     points: 10
-    fplPoints: 533
-  - rank: 6
+    fplPoints: 544
+  - rank: 8
     teamId: 3030970
     team: Zajebancija
     manager: Ilija Milisic
     wins: 3
     draws: 1
-    losses: 3
+    losses: 4
     points: 10
-    fplPoints: 402
-  - rank: 7
-    teamId: 197466
-    team: Amorim's Red Army
-    manager: Arandjel Djuric
-    wins: 3
-    draws: 0
-    losses: 4
-    points: 9
-    fplPoints: 509
-  - rank: 8
-    teamId: 1939110
-    team: FC Believerz
-    manager: Mladen Lucic
-    wins: 3
-    draws: 0
-    losses: 4
-    points: 9
-    fplPoints: 494
+    fplPoints: 411
   - rank: 9
     teamId: 5697614
     team: Let_DK_play
     manager: Danijel Avlijas
     wins: 3
     draws: 0
-    losses: 4
+    losses: 5
     points: 9
-    fplPoints: 479
+    fplPoints: 493
   - rank: 10
     teamId: 48496
     team: Keep it on Dalot
     manager: Marko Cholich
     wins: 3
     draws: 0
-    losses: 4
+    losses: 5
     points: 9
-    fplPoints: 406
+    fplPoints: 414
   - rank: 11
     teamId: 2935577
     team: Fc Vikdam
     manager: Juka Alimanovic
     wins: 2
     draws: 0
-    losses: 5
+    losses: 6
     points: 6
-    fplPoints: 432
+    fplPoints: 437
   - rank: 12
     teamId: 3084447
     team: Zanomnm
     manager: Bojan Samardzija
-    wins: 0
+    wins: 1
     draws: 1
     losses: 6
-    points: 1
-    fplPoints: 461
+    points: 4
+    fplPoints: 466
 q3:
   - rank: 1
     teamId: 91207
@@ -254,15 +254,6 @@ q3:
     points: 0
     fplPoints: 0
   - rank: 5
-    teamId: 6131190
-    team: WinninThePoo
-    manager: D Lukic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 6
     teamId: 3084447
     team: Zanomnm
     manager: Bojan Samardzija
@@ -271,19 +262,28 @@ q3:
     losses: 0
     points: 0
     fplPoints: 0
+  - rank: 6
+    teamId: 197466
+    team: Amorim's Red Army
+    manager: Arandjel Djuric
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
   - rank: 7
-    teamId: 48496
-    team: Keep it on Dalot
-    manager: Marko Cholich
+    teamId: 6131190
+    team: WinninThePoo
+    manager: D Lukic
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
   - rank: 8
-    teamId: 197466
-    team: Amorim's Red Army
-    manager: Arandjel Djuric
+    teamId: 48496
+    team: Keep it on Dalot
+    manager: Marko Cholich
     wins: 0
     draws: 0
     losses: 0
@@ -363,15 +363,6 @@ q4:
     points: 0
     fplPoints: 0
   - rank: 5
-    teamId: 6131190
-    team: WinninThePoo
-    manager: D Lukic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 6
     teamId: 3084447
     team: Zanomnm
     manager: Bojan Samardzija
@@ -380,19 +371,28 @@ q4:
     losses: 0
     points: 0
     fplPoints: 0
+  - rank: 6
+    teamId: 197466
+    team: Amorim's Red Army
+    manager: Arandjel Djuric
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
   - rank: 7
-    teamId: 48496
-    team: Keep it on Dalot
-    manager: Marko Cholich
+    teamId: 6131190
+    team: WinninThePoo
+    manager: D Lukic
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
   - rank: 8
-    teamId: 197466
-    team: Amorim's Red Army
-    manager: Arandjel Djuric
+    teamId: 48496
+    team: Keep it on Dalot
+    manager: Marko Cholich
     wins: 0
     draws: 0
     losses: 0
