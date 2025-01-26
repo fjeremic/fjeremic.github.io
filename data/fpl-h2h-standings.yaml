@@ -225,17 +225,8 @@ q3:
     draws: 0
     losses: 0
     points: 9
-    fplPoints: 202
+    fplPoints: 238
   - rank: 2
-    teamId: 48496
-    team: Keep it on Dalot
-    manager: Marko Cholich
-    wins: 2
-    draws: 0
-    losses: 1
-    points: 6
-    fplPoints: 208
-  - rank: 3
     teamId: 2023523
     team: Rolo FC
     manager: Branko Oluic
@@ -243,7 +234,16 @@ q3:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 189
+    fplPoints: 256
+  - rank: 3
+    teamId: 48496
+    team: Keep it on Dalot
+    manager: Marko Cholich
+    wins: 2
+    draws: 0
+    losses: 1
+    points: 6
+    fplPoints: 237
   - rank: 4
     teamId: 67222
     team: JFC
@@ -252,7 +252,7 @@ q3:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 166
+    fplPoints: 222
   - rank: 5
     teamId: 3084447
     team: Zanomnm
@@ -261,17 +261,8 @@ q3:
     draws: 1
     losses: 1
     points: 4
-    fplPoints: 209
+    fplPoints: 271
   - rank: 6
-    teamId: 3030970
-    team: Zajebancija
-    manager: Ilija Milisic
-    wins: 1
-    draws: 1
-    losses: 1
-    points: 4
-    fplPoints: 188
-  - rank: 7
     teamId: 91207
     team: FC Dragged Me Bak In
     manager: Ivan J
@@ -279,7 +270,16 @@ q3:
     draws: 1
     losses: 1
     points: 4
-    fplPoints: 186
+    fplPoints: 232
+  - rank: 7
+    teamId: 3030970
+    team: Zajebancija
+    manager: Ilija Milisic
+    wins: 1
+    draws: 1
+    losses: 1
+    points: 4
+    fplPoints: 230
   - rank: 8
     teamId: 5697614
     team: Let_DK_play
@@ -288,7 +288,7 @@ q3:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 203
+    fplPoints: 270
   - rank: 9
     teamId: 1939110
     team: FC Believerz
@@ -297,7 +297,7 @@ q3:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 193
+    fplPoints: 241
   - rank: 10
     teamId: 6131190
     team: WinninThePoo
@@ -306,7 +306,7 @@ q3:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 171
+    fplPoints: 230
   - rank: 11
     teamId: 2935577
     team: Fc Vikdam
@@ -315,7 +315,7 @@ q3:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 155
+    fplPoints: 206
   - rank: 12
     teamId: 228100
     team: FK Panic
@@ -324,7 +324,7 @@ q3:
     draws: 1
     losses: 2
     points: 1
-    fplPoints: 181
+    fplPoints: 237
 q4:
   - rank: 1
     teamId: 2023523
