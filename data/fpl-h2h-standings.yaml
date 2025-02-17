@@ -225,7 +225,7 @@ q3:
     draws: 0
     losses: 1
     points: 12
-    fplPoints: 443
+    fplPoints: 472
   - rank: 2
     teamId: 67222
     team: JFC
@@ -234,7 +234,7 @@ q3:
     draws: 0
     losses: 1
     points: 12
-    fplPoints: 379
+    fplPoints: 406
   - rank: 3
     teamId: 91207
     team: FC Dragged Me Bak In
@@ -243,7 +243,7 @@ q3:
     draws: 1
     losses: 1
     points: 10
-    fplPoints: 407
+    fplPoints: 430
   - rank: 4
     teamId: 6131190
     team: WinninThePoo
@@ -252,7 +252,7 @@ q3:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 377
+    fplPoints: 406
   - rank: 5
     teamId: 197466
     team: Amorim's Red Army
@@ -261,17 +261,8 @@ q3:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 373
+    fplPoints: 397
   - rank: 6
-    teamId: 3084447
-    team: Zanomnm
-    manager: Bojan Samardzija
-    wins: 2
-    draws: 1
-    losses: 2
-    points: 7
-    fplPoints: 419
-  - rank: 7
     teamId: 228100
     team: FK Panic
     manager: Stefan Panic
@@ -279,7 +270,16 @@ q3:
     draws: 1
     losses: 2
     points: 7
-    fplPoints: 409
+    fplPoints: 444
+  - rank: 7
+    teamId: 3084447
+    team: Zanomnm
+    manager: Bojan Samardzija
+    wins: 2
+    draws: 1
+    losses: 2
+    points: 7
+    fplPoints: 431
   - rank: 8
     teamId: 1939110
     team: FC Believerz
@@ -288,7 +288,7 @@ q3:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 418
+    fplPoints: 440
   - rank: 9
     teamId: 48496
     team: Keep it on Dalot
@@ -297,7 +297,7 @@ q3:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 373
+    fplPoints: 409
   - rank: 10
     teamId: 3030970
     team: Zajebancija
@@ -306,7 +306,7 @@ q3:
     draws: 1
     losses: 3
     points: 4
-    fplPoints: 369
+    fplPoints: 404
   - rank: 11
     teamId: 5697614
     team: Let_DK_play
@@ -315,7 +315,7 @@ q3:
     draws: 0
     losses: 4
     points: 3
-    fplPoints: 427
+    fplPoints: 456
   - rank: 12
     teamId: 2935577
     team: Fc Vikdam
@@ -324,7 +324,7 @@ q3:
     draws: 0
     losses: 4
     points: 3
-    fplPoints: 342
+    fplPoints: 373
 q4:
   - rank: 1
     teamId: 2023523
