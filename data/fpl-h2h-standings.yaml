@@ -225,7 +225,7 @@ q3:
     draws: 0
     losses: 1
     points: 15
-    fplPoints: 515
+    fplPoints: 529
   - rank: 2
     teamId: 67222
     team: JFC
@@ -261,7 +261,7 @@ q3:
     draws: 0
     losses: 2
     points: 12
-    fplPoints: 438
+    fplPoints: 452
   - rank: 6
     teamId: 228100
     team: FK Panic
@@ -270,7 +270,7 @@ q3:
     draws: 1
     losses: 3
     points: 7
-    fplPoints: 487
+    fplPoints: 501
   - rank: 7
     teamId: 3084447
     team: Zanomnm
@@ -279,7 +279,7 @@ q3:
     draws: 1
     losses: 3
     points: 7
-    fplPoints: 477
+    fplPoints: 491
   - rank: 8
     teamId: 5697614
     team: Let_DK_play
@@ -288,7 +288,7 @@ q3:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 510
+    fplPoints: 524
   - rank: 9
     teamId: 1939110
     team: FC Believerz
@@ -297,7 +297,7 @@ q3:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 473
+    fplPoints: 487
   - rank: 10
     teamId: 48496
     team: Keep it on Dalot
@@ -306,7 +306,7 @@ q3:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 421
+    fplPoints: 456
   - rank: 11
     teamId: 3030970
     team: Zajebancija
@@ -324,7 +324,7 @@ q3:
     draws: 0
     losses: 5
     points: 3
-    fplPoints: 405
+    fplPoints: 412
 q4:
   - rank: 1
     teamId: 2023523
