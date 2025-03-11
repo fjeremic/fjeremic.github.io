@@ -218,84 +218,84 @@ q2:
     fplPoints: 502
 q3:
   - rank: 1
+    teamId: 91207
+    team: FC Dragged Me Bak In
+    manager: Ivan J
+    wins: 7
+    draws: 1
+    losses: 1
+    points: 22
+    fplPoints: 724
+  - rank: 2
     teamId: 67222
     team: JFC
     manager: Filip Jeremic
     wins: 7
     draws: 0
-    losses: 1
+    losses: 2
     points: 21
-    fplPoints: 687
-  - rank: 2
-    teamId: 91207
-    team: FC Dragged Me Bak In
-    manager: Ivan J
-    wins: 6
-    draws: 1
-    losses: 1
-    points: 19
-    fplPoints: 722
+    fplPoints: 689
   - rank: 3
     teamId: 6131190
     team: WinninThePoo
     manager: D Lukic
-    wins: 6
+    wins: 7
     draws: 0
     losses: 2
-    points: 18
-    fplPoints: 630
+    points: 21
+    fplPoints: 632
   - rank: 4
     teamId: 2023523
     team: Rolo FC
     manager: Branko Oluic
-    wins: 5
+    wins: 6
     draws: 0
     losses: 3
-    points: 15
+    points: 18
     fplPoints: 716
   - rank: 5
     teamId: 197466
     team: Amorim's Red Army
     manager: Arandjel Djuric
-    wins: 4
+    wins: 5
     draws: 0
     losses: 4
-    points: 12
-    fplPoints: 632
+    points: 15
+    fplPoints: 634
   - rank: 6
     teamId: 5697614
     team: Let_DK_play
     manager: Danijel Avlijas
-    wins: 3
+    wins: 4
     draws: 0
     losses: 5
-    points: 9
-    fplPoints: 711
+    points: 12
+    fplPoints: 715
   - rank: 7
     teamId: 1939110
     team: FC Believerz
     manager: Mladen Lucic
-    wins: 3
+    wins: 4
     draws: 0
     losses: 5
-    points: 9
-    fplPoints: 675
+    points: 12
+    fplPoints: 677
   - rank: 8
     teamId: 2935577
     team: Fc Vikdam
     manager: Juka Alimanovic
     wins: 3
     draws: 0
-    losses: 5
+    losses: 6
     points: 9
-    fplPoints: 625
+    fplPoints: 627
   - rank: 9
     teamId: 48496
     team: Keep it on Dalot
     manager: Marko Cholich
     wins: 3
     draws: 0
-    losses: 5
+    losses: 6
     points: 9
     fplPoints: 604
   - rank: 10
@@ -304,16 +304,16 @@ q3:
     manager: Stefan Panic
     wins: 2
     draws: 1
-    losses: 5
+    losses: 6
     points: 7
-    fplPoints: 678
+    fplPoints: 680
   - rank: 11
     teamId: 3084447
     team: Zanomnm
     manager: Bojan Samardzija
     wins: 2
     draws: 1
-    losses: 5
+    losses: 6
     points: 7
     fplPoints: 644
   - rank: 12
@@ -322,9 +322,9 @@ q3:
     manager: Ilija Milisic
     wins: 2
     draws: 1
-    losses: 5
+    losses: 6
     points: 7
-    fplPoints: 624
+    fplPoints: 629
 q4:
   - rank: 1
     teamId: 91207
@@ -381,6 +381,15 @@ q4:
     points: 0
     fplPoints: 0
   - rank: 7
+    teamId: 5697614
+    team: Let_DK_play
+    manager: Danijel Avlijas
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 8
     teamId: 3084447
     team: Zanomnm
     manager: Bojan Samardzija
@@ -389,19 +398,10 @@ q4:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 8
+  - rank: 9
     teamId: 48496
     team: Keep it on Dalot
     manager: Marko Cholich
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 9
-    teamId: 5697614
-    team: Let_DK_play
-    manager: Danijel Avlijas
     wins: 0
     draws: 0
     losses: 0
