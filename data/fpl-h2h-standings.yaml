@@ -327,24 +327,6 @@ q3:
     fplPoints: 740
 q4:
   - rank: 1
-    teamId: 6131190
-    team: WinninThePoo
-    manager: D Lukic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 17
-  - rank: 2
-    teamId: 2935577
-    team: Fc Vikdam
-    manager: Juka Alimanovic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 17
-  - rank: 3
     teamId: 1939110
     team: FC Believerz
     manager: Mladen Lucic
@@ -352,26 +334,17 @@ q4:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 16
-  - rank: 4
-    teamId: 2023523
-    team: Rolo FC
-    manager: Branko Oluic
+    fplPoints: 63
+  - rank: 2
+    teamId: 6131190
+    team: WinninThePoo
+    manager: D Lukic
     wins: 0
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 9
-  - rank: 5
-    teamId: 5697614
-    team: Let_DK_play
-    manager: Danijel Avlijas
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 9
-  - rank: 6
+    fplPoints: 62
+  - rank: 3
     teamId: 3030970
     team: Zajebancija
     manager: Ilija Milisic
@@ -379,17 +352,8 @@ q4:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 9
-  - rank: 7
-    teamId: 228100
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 9
-  - rank: 8
+    fplPoints: 61
+  - rank: 4
     teamId: 3084447
     team: Zanomnm
     manager: Bojan Samardzija
@@ -397,26 +361,26 @@ q4:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 8
-  - rank: 9
-    teamId: 197466
-    team: Amorim's Red Army
-    manager: Arandjel Djuric
+    fplPoints: 57
+  - rank: 5
+    teamId: 228100
+    team: FK Panic
+    manager: Stefan Panic
     wins: 0
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 5
-  - rank: 10
-    teamId: 91207
-    team: FC Dragged Me Bak In
-    manager: Ivan J
+    fplPoints: 51
+  - rank: 6
+    teamId: 2023523
+    team: Rolo FC
+    manager: Branko Oluic
     wins: 0
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 3
-  - rank: 11
+    fplPoints: 45
+  - rank: 7
     teamId: 67222
     team: JFC
     manager: Filip Jeremic
@@ -424,8 +388,26 @@ q4:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 3
-  - rank: 12
+    fplPoints: 45
+  - rank: 8
+    teamId: 197466
+    team: Amorim's Red Army
+    manager: Arandjel Djuric
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 45
+  - rank: 9
+    teamId: 2935577
+    team: Fc Vikdam
+    manager: Juka Alimanovic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 45
+  - rank: 10
     teamId: 48496
     team: Keep it on Dalot
     manager: Marko Cholich
@@ -433,4 +415,22 @@ q4:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 0
+    fplPoints: 44
+  - rank: 11
+    teamId: 5697614
+    team: Let_DK_play
+    manager: Danijel Avlijas
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 43
+  - rank: 12
+    teamId: 91207
+    team: FC Dragged Me Bak In
+    manager: Ivan J
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 40
