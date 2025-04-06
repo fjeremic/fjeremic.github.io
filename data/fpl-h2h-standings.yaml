@@ -334,7 +334,7 @@ q4:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 62
+    fplPoints: 83
   - rank: 2
     teamId: 228100
     team: FK Panic
@@ -343,17 +343,8 @@ q4:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 58
+    fplPoints: 83
   - rank: 3
-    teamId: 3084447
-    team: Zanomnm
-    manager: Bojan Samardzija
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 57
-  - rank: 4
     teamId: 197466
     team: Amorim's Red Army
     manager: Arandjel Djuric
@@ -361,8 +352,8 @@ q4:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 53
-  - rank: 5
+    fplPoints: 80
+  - rank: 4
     teamId: 48496
     team: Keep it on Dalot
     manager: Marko Cholich
@@ -370,7 +361,16 @@ q4:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 52
+    fplPoints: 72
+  - rank: 5
+    teamId: 3084447
+    team: Zanomnm
+    manager: Bojan Samardzija
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 69
   - rank: 6
     teamId: 1939110
     team: FC Believerz
@@ -379,7 +379,7 @@ q4:
     draws: 1
     losses: 0
     points: 1
-    fplPoints: 63
+    fplPoints: 76
   - rank: 7
     teamId: 3030970
     team: Zajebancija
@@ -388,7 +388,7 @@ q4:
     draws: 1
     losses: 0
     points: 1
-    fplPoints: 63
+    fplPoints: 75
   - rank: 8
     teamId: 5697614
     team: Let_DK_play
@@ -397,35 +397,8 @@ q4:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 56
+    fplPoints: 87
   - rank: 9
-    teamId: 2935577
-    team: Fc Vikdam
-    manager: Juka Alimanovic
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
-    fplPoints: 56
-  - rank: 10
-    teamId: 2023523
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
-    fplPoints: 50
-  - rank: 11
-    teamId: 91207
-    team: FC Dragged Me Bak In
-    manager: Ivan J
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
-    fplPoints: 46
-  - rank: 12
     teamId: 67222
     team: JFC
     manager: Filip Jeremic
@@ -433,4 +406,31 @@ q4:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 45
+    fplPoints: 71
+  - rank: 10
+    teamId: 2935577
+    team: Fc Vikdam
+    manager: Juka Alimanovic
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 69
+  - rank: 11
+    teamId: 2023523
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 68
+  - rank: 12
+    teamId: 91207
+    team: FC Dragged Me Bak In
+    manager: Ivan J
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 62
