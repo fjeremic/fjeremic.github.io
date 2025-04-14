@@ -327,15 +327,6 @@ q3:
     fplPoints: 740
 q4:
   - rank: 1
-    teamId: 228100
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 2
-    draws: 0
-    losses: 0
-    points: 6
-    fplPoints: 148
-  - rank: 2
     teamId: 6131190
     team: WinninThePoo
     manager: D Lukic
@@ -343,7 +334,16 @@ q4:
     draws: 0
     losses: 0
     points: 6
-    fplPoints: 144
+    fplPoints: 172
+  - rank: 2
+    teamId: 228100
+    team: FK Panic
+    manager: Stefan Panic
+    wins: 2
+    draws: 0
+    losses: 0
+    points: 6
+    fplPoints: 171
   - rank: 3
     teamId: 48496
     team: Keep it on Dalot
@@ -352,7 +352,7 @@ q4:
     draws: 0
     losses: 0
     points: 6
-    fplPoints: 126
+    fplPoints: 162
   - rank: 4
     teamId: 1939110
     team: FC Believerz
@@ -361,7 +361,7 @@ q4:
     draws: 1
     losses: 0
     points: 4
-    fplPoints: 137
+    fplPoints: 192
   - rank: 5
     teamId: 197466
     team: Amorim's Red Army
@@ -370,7 +370,7 @@ q4:
     draws: 1
     losses: 0
     points: 4
-    fplPoints: 132
+    fplPoints: 160
   - rank: 6
     teamId: 2023523
     team: Rolo FC
@@ -379,7 +379,7 @@ q4:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 126
+    fplPoints: 150
   - rank: 7
     teamId: 3084447
     team: Zanomnm
@@ -388,7 +388,7 @@ q4:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 114
+    fplPoints: 141
   - rank: 8
     teamId: 5697614
     team: Let_DK_play
@@ -397,7 +397,7 @@ q4:
     draws: 1
     losses: 1
     points: 1
-    fplPoints: 130
+    fplPoints: 174
   - rank: 9
     teamId: 3030970
     team: Zajebancija
@@ -406,7 +406,7 @@ q4:
     draws: 1
     losses: 1
     points: 1
-    fplPoints: 123
+    fplPoints: 153
   - rank: 10
     teamId: 2935577
     team: Fc Vikdam
@@ -415,17 +415,8 @@ q4:
     draws: 0
     losses: 2
     points: 0
-    fplPoints: 135
+    fplPoints: 158
   - rank: 11
-    teamId: 67222
-    team: JFC
-    manager: Filip Jeremic
-    wins: 0
-    draws: 0
-    losses: 2
-    points: 0
-    fplPoints: 129
-  - rank: 12
     teamId: 91207
     team: FC Dragged Me Bak In
     manager: Ivan J
@@ -433,4 +424,13 @@ q4:
     draws: 0
     losses: 2
     points: 0
-    fplPoints: 122
+    fplPoints: 151
+  - rank: 12
+    teamId: 67222
+    team: JFC
+    manager: Filip Jeremic
+    wins: 0
+    draws: 0
+    losses: 2
+    points: 0
+    fplPoints: 149
