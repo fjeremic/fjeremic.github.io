@@ -352,7 +352,7 @@ q4:
     draws: 1
     losses: 0
     points: 7
-    fplPoints: 259
+    fplPoints: 260
   - rank: 4
     teamId: 6131190
     team: WinninThePoo
@@ -361,7 +361,7 @@ q4:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 263
+    fplPoints: 267
   - rank: 5
     teamId: 2023523
     team: Rolo FC
@@ -370,7 +370,7 @@ q4:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 237
+    fplPoints: 239
   - rank: 6
     teamId: 197466
     team: Amorim's Red Army
@@ -424,7 +424,7 @@ q4:
     draws: 1
     losses: 2
     points: 1
-    fplPoints: 227
+    fplPoints: 229
   - rank: 12
     teamId: 67222
     team: JFC
