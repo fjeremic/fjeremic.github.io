@@ -334,7 +334,7 @@ q4:
     draws: 0
     losses: 0
     points: 15
-    fplPoints: 366
+    fplPoints: 371
   - rank: 2
     teamId: 197466
     team: Amorim's Red Army
@@ -343,17 +343,8 @@ q4:
     draws: 2
     losses: 0
     points: 11
-    fplPoints: 381
+    fplPoints: 387
   - rank: 3
-    teamId: 6131190
-    team: WinninThePoo
-    manager: D Lukic
-    wins: 3
-    draws: 1
-    losses: 1
-    points: 10
-    fplPoints: 378
-  - rank: 4
     teamId: 1939110
     team: FC Believerz
     manager: Mladen Lucic
@@ -361,7 +352,16 @@ q4:
     draws: 1
     losses: 1
     points: 10
-    fplPoints: 378
+    fplPoints: 389
+  - rank: 4
+    teamId: 6131190
+    team: WinninThePoo
+    manager: D Lukic
+    wins: 3
+    draws: 1
+    losses: 1
+    points: 10
+    fplPoints: 388
   - rank: 5
     teamId: 228100
     team: FK Panic
@@ -370,17 +370,8 @@ q4:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 379
+    fplPoints: 388
   - rank: 6
-    teamId: 2023523
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 2
-    draws: 1
-    losses: 2
-    points: 7
-    fplPoints: 385
-  - rank: 7
     teamId: 2935577
     team: Fc Vikdam
     manager: Juka Alimanovic
@@ -388,7 +379,16 @@ q4:
     draws: 1
     losses: 2
     points: 7
-    fplPoints: 379
+    fplPoints: 401
+  - rank: 7
+    teamId: 2023523
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 2
+    draws: 1
+    losses: 2
+    points: 7
+    fplPoints: 390
   - rank: 8
     teamId: 91207
     team: FC Dragged Me Bak In
@@ -397,7 +397,7 @@ q4:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 366
+    fplPoints: 377
   - rank: 9
     teamId: 3030970
     team: Zajebancija
@@ -406,7 +406,7 @@ q4:
     draws: 1
     losses: 3
     points: 4
-    fplPoints: 309
+    fplPoints: 311
   - rank: 10
     teamId: 67222
     team: JFC
@@ -415,7 +415,7 @@ q4:
     draws: 0
     losses: 4
     points: 3
-    fplPoints: 349
+    fplPoints: 354
   - rank: 11
     teamId: 3084447
     team: Zanomnm
@@ -424,7 +424,7 @@ q4:
     draws: 0
     losses: 4
     points: 3
-    fplPoints: 323
+    fplPoints: 332
   - rank: 12
     teamId: 5697614
     team: Let_DK_play
@@ -433,4 +433,4 @@ q4:
     draws: 1
     losses: 4
     points: 1
-    fplPoints: 346
+    fplPoints: 359
