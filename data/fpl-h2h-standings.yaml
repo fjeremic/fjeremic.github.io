@@ -334,7 +334,7 @@ q4:
     draws: 0
     losses: 1
     points: 15
-    fplPoints: 394
+    fplPoints: 424
   - rank: 2
     teamId: 1939110
     team: FC Believerz
@@ -343,7 +343,7 @@ q4:
     draws: 1
     losses: 1
     points: 13
-    fplPoints: 422
+    fplPoints: 443
   - rank: 3
     teamId: 197466
     team: Amorim's Red Army
@@ -352,17 +352,8 @@ q4:
     draws: 2
     losses: 1
     points: 11
-    fplPoints: 414
+    fplPoints: 436
   - rank: 4
-    teamId: 2935577
-    team: Fc Vikdam
-    manager: Juka Alimanovic
-    wins: 3
-    draws: 1
-    losses: 2
-    points: 10
-    fplPoints: 412
-  - rank: 5
     teamId: 2023523
     team: Rolo FC
     manager: Branko Oluic
@@ -370,7 +361,16 @@ q4:
     draws: 1
     losses: 2
     points: 10
-    fplPoints: 406
+    fplPoints: 433
+  - rank: 5
+    teamId: 2935577
+    team: Fc Vikdam
+    manager: Juka Alimanovic
+    wins: 3
+    draws: 1
+    losses: 2
+    points: 10
+    fplPoints: 432
   - rank: 6
     teamId: 6131190
     team: WinninThePoo
@@ -379,7 +379,7 @@ q4:
     draws: 1
     losses: 2
     points: 10
-    fplPoints: 397
+    fplPoints: 428
   - rank: 7
     teamId: 228100
     team: FK Panic
@@ -388,7 +388,7 @@ q4:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 418
+    fplPoints: 449
   - rank: 8
     teamId: 91207
     team: FC Dragged Me Bak In
@@ -397,7 +397,7 @@ q4:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 408
+    fplPoints: 442
   - rank: 9
     teamId: 3084447
     team: Zanomnm
@@ -406,7 +406,7 @@ q4:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 361
+    fplPoints: 387
   - rank: 10
     teamId: 5697614
     team: Let_DK_play
@@ -415,7 +415,7 @@ q4:
     draws: 1
     losses: 4
     points: 4
-    fplPoints: 403
+    fplPoints: 432
   - rank: 11
     teamId: 3030970
     team: Zajebancija
@@ -424,7 +424,7 @@ q4:
     draws: 1
     losses: 4
     points: 4
-    fplPoints: 336
+    fplPoints: 364
   - rank: 12
     teamId: 67222
     team: JFC
@@ -433,4 +433,4 @@ q4:
     draws: 0
     losses: 5
     points: 3
-    fplPoints: 384
+    fplPoints: 419
