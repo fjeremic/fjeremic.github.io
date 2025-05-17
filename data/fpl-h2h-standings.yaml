@@ -334,17 +334,8 @@ q4:
     draws: 0
     losses: 2
     points: 15
-    fplPoints: 440
+    fplPoints: 446
   - rank: 2
-    teamId: 1939110
-    team: FC Believerz
-    manager: Mladen Lucic
-    wins: 4
-    draws: 1
-    losses: 2
-    points: 13
-    fplPoints: 463
-  - rank: 3
     teamId: 6131190
     team: WinninThePoo
     manager: D Lukic
@@ -352,7 +343,16 @@ q4:
     draws: 1
     losses: 2
     points: 13
-    fplPoints: 455
+    fplPoints: 481
+  - rank: 3
+    teamId: 1939110
+    team: FC Believerz
+    manager: Mladen Lucic
+    wins: 4
+    draws: 1
+    losses: 2
+    points: 13
+    fplPoints: 469
   - rank: 4
     teamId: 91207
     team: FC Dragged Me Bak In
@@ -361,7 +361,7 @@ q4:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 481
+    fplPoints: 506
   - rank: 5
     teamId: 228100
     team: FK Panic
@@ -370,7 +370,7 @@ q4:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 474
+    fplPoints: 490
   - rank: 6
     teamId: 197466
     team: Amorim's Red Army
@@ -379,7 +379,7 @@ q4:
     draws: 2
     losses: 2
     points: 11
-    fplPoints: 469
+    fplPoints: 479
   - rank: 7
     teamId: 2935577
     team: Fc Vikdam
@@ -388,7 +388,7 @@ q4:
     draws: 1
     losses: 3
     points: 10
-    fplPoints: 450
+    fplPoints: 468
   - rank: 8
     teamId: 2023523
     team: Rolo FC
@@ -397,7 +397,7 @@ q4:
     draws: 1
     losses: 3
     points: 10
-    fplPoints: 447
+    fplPoints: 463
   - rank: 9
     teamId: 3084447
     team: Zanomnm
@@ -406,7 +406,7 @@ q4:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 417
+    fplPoints: 428
   - rank: 10
     teamId: 5697614
     team: Let_DK_play
@@ -415,7 +415,7 @@ q4:
     draws: 1
     losses: 4
     points: 7
-    fplPoints: 461
+    fplPoints: 472
   - rank: 11
     teamId: 67222
     team: JFC
@@ -424,7 +424,7 @@ q4:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 428
+    fplPoints: 434
   - rank: 12
     teamId: 3030970
     team: Zajebancija
@@ -433,4 +433,4 @@ q4:
     draws: 1
     losses: 5
     points: 4
-    fplPoints: 402
+    fplPoints: 399
