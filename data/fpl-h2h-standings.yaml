@@ -334,7 +334,7 @@ q4:
     draws: 0
     losses: 2
     points: 15
-    fplPoints: 451
+    fplPoints: 453
   - rank: 2
     teamId: 1939110
     team: FC Believerz
@@ -343,7 +343,7 @@ q4:
     draws: 1
     losses: 2
     points: 13
-    fplPoints: 497
+    fplPoints: 499
   - rank: 3
     teamId: 6131190
     team: WinninThePoo
@@ -361,7 +361,7 @@ q4:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 521
+    fplPoints: 523
   - rank: 5
     teamId: 228100
     team: FK Panic
@@ -379,7 +379,7 @@ q4:
     draws: 2
     losses: 2
     points: 11
-    fplPoints: 490
+    fplPoints: 492
   - rank: 7
     teamId: 2023523
     team: Rolo FC
@@ -388,7 +388,7 @@ q4:
     draws: 1
     losses: 3
     points: 10
-    fplPoints: 492
+    fplPoints: 494
   - rank: 8
     teamId: 2935577
     team: Fc Vikdam
@@ -397,7 +397,7 @@ q4:
     draws: 1
     losses: 3
     points: 10
-    fplPoints: 488
+    fplPoints: 490
   - rank: 9
     teamId: 3084447
     team: Zanomnm
@@ -406,7 +406,7 @@ q4:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 461
+    fplPoints: 463
   - rank: 10
     teamId: 5697614
     team: Let_DK_play
@@ -415,7 +415,7 @@ q4:
     draws: 1
     losses: 4
     points: 7
-    fplPoints: 495
+    fplPoints: 497
   - rank: 11
     teamId: 67222
     team: JFC
@@ -424,7 +424,7 @@ q4:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 463
+    fplPoints: 467
   - rank: 12
     teamId: 3030970
     team: Zajebancija
@@ -433,4 +433,4 @@ q4:
     draws: 1
     losses: 5
     points: 4
-    fplPoints: 438
+    fplPoints: 442
