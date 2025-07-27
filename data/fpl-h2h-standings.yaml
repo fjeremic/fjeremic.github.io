@@ -1,40 +1,4 @@
-q1:
-  - rank: 1
-    teamId: 178496
-    team: JFC
-    manager: Filip Jeremic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-q2:
-  - rank: 1
-    teamId: 178496
-    team: JFC
-    manager: Filip Jeremic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-q3:
-  - rank: 1
-    teamId: 178496
-    team: JFC
-    manager: Filip Jeremic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-q4:
-  - rank: 1
-    teamId: 178496
-    team: JFC
-    manager: Filip Jeremic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
+q1: []
+q2: []
+q3: []
+q4: []
