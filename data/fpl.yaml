@@ -10,6 +10,70 @@ classic:
       manager: Filip Jeremic
       playmentDue: $100
       paymentStatus: Paid
+    - team: Sporting Abeergut
+      manager: Dee Kay
+      playmentDue: $100
+      paymentStatus: Pending
+    - team: FC Mudonja
+      manager: Goran Radovic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Change Name
+      manager: Luka Novakovic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Zeka Buljubasa
+      manager: Petar Trzin
+      playmentDue: $100
+      paymentStatus: Pending
+    - team: FC Believerz
+      manager: Mladen Lucic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FK Kanarinac 50
+      manager: Marko Cholich
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: No Wirtz in Diaz
+      manager: Adrian Polgar
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FK Vikdam
+      manager: Juka Alimanovic
+      playmentDue: $100
+      paymentStatus: Pending
+    - team: VareolaMera
+      manager: Nebojsa Milosevic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: DELIJE UNITED
+      manager: Arandjel Djuric
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: KINDER MBUEMO
+      manager: Ilija Milisic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: BMA
+      manager: Danijel Avlijas
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: WinninThePoo
+      manager: D Lukic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: P A R T I Z A N
+      manager: Bojan Samardzija
+      playmentDue: $100
+      paymentStatus: Pending
+    - team: FC Jerked Me Back In
+      manager: Ivan J
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Rolo FC
+      manager: Branko Oluic
+      playmentDue: $100
+      paymentStatus: Paid
 h2h:
   name: Head-To-Head League
   standings: https://fantasy.premierleague.com/leagues/420654/standings/h
@@ -22,6 +86,42 @@ h2h:
       manager: Filip Jeremic
       playmentDue: $100
       paymentStatus: Paid
+    - team: FC Believerz
+      manager: Mladen Lucic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: FK Vikdam
+      manager: Juka Alimanovic
+      playmentDue: $100
+      paymentStatus: Pending
+    - team: DELIJE UNITED
+      manager: Arandjel Djuric
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: KINDER MBUEMO
+      manager: Ilija Milisic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: BMA
+      manager: Danijel Avlijas
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: WinninThePoo
+      manager: D Lukic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: P A R T I Z A N
+      manager: Bojan Samardzija
+      playmentDue: $100
+      paymentStatus: Pending
+    - team: FC Jerked Me Back In
+      manager: Ivan J
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Rolo FC
+      manager: Branko Oluic
+      playmentDue: $100
+      paymentStatus: Paid
 lms:
   name: Last Man Standing League
   standings: https://fantasy.premierleague.com/leagues/420646/standings/c
@@ -32,5 +132,37 @@ lms:
   payment:
     - team: JFC
       manager: Filip Jeremic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: FC Believerz
+      manager: Mladen Lucic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: FK Vikdam
+      manager: Juka Alimanovic
+      playmentDue: $50
+      paymentStatus: Pending
+    - team: KINDER MBUEMO
+      manager: Ilija Milisic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: BMA
+      manager: Danijel Avlijas
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: WinninThePoo
+      manager: D Lukic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: P A R T I Z A N
+      manager: Bojan Samardzija
+      playmentDue: $50
+      paymentStatus: Pending
+    - team: FC Jerked Me Back In
+      manager: Ivan J
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: Rolo FC
+      manager: Branko Oluic
       playmentDue: $50
       paymentStatus: Paid
