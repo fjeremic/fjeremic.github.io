@@ -45,7 +45,7 @@ classic:
     - team: FK Vikdam
       manager: Juka Alimanovic
       playmentDue: $100
-      paymentStatus: Pending
+      paymentStatus: Paid
     - team: VareolaMera
       manager: Nebojsa Milosevic
       playmentDue: $100
@@ -101,7 +101,7 @@ h2h:
     - team: FK Vikdam
       manager: Juka Alimanovic
       playmentDue: $100
-      paymentStatus: Pending
+      paymentStatus: Paid
     - team: DELIJE UNITED
       manager: Arandjel Djuric
       playmentDue: $100
@@ -153,7 +153,7 @@ lms:
     - team: FK Vikdam
       manager: Juka Alimanovic
       playmentDue: $50
-      paymentStatus: Pending
+      paymentStatus: Paid
     - team: KINDER MBUEMO
       manager: Ilija Milisic
       playmentDue: $50
