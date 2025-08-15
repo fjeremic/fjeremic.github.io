@@ -10,6 +10,10 @@ classic:
       manager: Filip Jeremic
       playmentDue: $100
       paymentStatus: Paid
+    - team: DeeKay
+      manager: Dee Kay
+      playmentDue: $100
+      paymentStatus: Paid
     - team: FK Panic
       manager: Stefan Panic
       playmentDue: $100
@@ -88,6 +92,10 @@ h2h:
   payment:
     - team: JFC
       manager: Filip Jeremic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: DeeKay
+      manager: Dee Kay
       playmentDue: $100
       paymentStatus: Paid
     - team: FK Panic
