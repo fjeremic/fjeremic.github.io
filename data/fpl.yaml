@@ -77,7 +77,7 @@ classic:
     - team: P A R T I Z A N
       manager: Bojan Samardzija
       playmentDue: $100
-      paymentStatus: Pending
+      paymentStatus: Paid
     - team: FC Jerked Me Back In
       manager: Ivan J
       playmentDue: $100
@@ -137,7 +137,7 @@ h2h:
     - team: P A R T I Z A N
       manager: Bojan Samardzija
       playmentDue: $100
-      paymentStatus: Pending
+      paymentStatus: Paid
     - team: FC Jerked Me Back In
       manager: Ivan J
       playmentDue: $100
@@ -185,7 +185,7 @@ lms:
     - team: P A R T I Z A N
       manager: Bojan Samardzija
       playmentDue: $50
-      paymentStatus: Pending
+      paymentStatus: Paid
     - team: FC Jerked Me Back In
       manager: Ivan J
       playmentDue: $50
