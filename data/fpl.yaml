@@ -10,6 +10,10 @@ classic:
       manager: Filip Jeremic
       playmentDue: $100
       paymentStatus: Paid
+    - team: FSA
+      manager: Dragoljub Bešević
+      playmentDue: $100
+      paymentStatus: Pending
     - team: milisic fc
       manager: Petar Milisic
       playmentDue: $100
