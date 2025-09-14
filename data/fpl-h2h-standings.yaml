@@ -7,17 +7,8 @@ q1:
     draws: 0
     losses: 0
     points: 9
-    fplPoints: 165
+    fplPoints: 209
   - rank: 2
-    teamId: 1813312
-    team: FC Believerz
-    manager: Mladen Lucic
-    wins: 2
-    draws: 0
-    losses: 1
-    points: 6
-    fplPoints: 183
-  - rank: 3
     teamId: 2698398
     team: WinninThePoo
     manager: D Lukic
@@ -25,17 +16,17 @@ q1:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 175
-  - rank: 4
-    teamId: 1973444
-    team: DELIJE UNITED
-    manager: Arandjel Djuric
+    fplPoints: 230
+  - rank: 3
+    teamId: 1813312
+    team: FC Believerz
+    manager: Mladen Lucic
     wins: 2
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 163
-  - rank: 5
+    fplPoints: 222
+  - rank: 4
     teamId: 3104256
     team: BMA
     manager: Danijel Avlijas
@@ -43,8 +34,8 @@ q1:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 158
-  - rank: 6
+    fplPoints: 194
+  - rank: 5
     teamId: 2510766
     team: KINDER MBUEMO
     manager: Ilija Milisic
@@ -52,7 +43,16 @@ q1:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 146
+    fplPoints: 188
+  - rank: 6
+    teamId: 1973444
+    team: DELIJE UNITED
+    manager: Arandjel Djuric
+    wins: 2
+    draws: 0
+    losses: 1
+    points: 6
+    fplPoints: 182
   - rank: 7
     teamId: 178496
     team: JFC
@@ -61,7 +61,7 @@ q1:
     draws: 2
     losses: 0
     points: 5
-    fplPoints: 139
+    fplPoints: 160
   - rank: 8
     teamId: 218545
     team: DeeKay
@@ -70,17 +70,8 @@ q1:
     draws: 1
     losses: 1
     points: 4
-    fplPoints: 154
+    fplPoints: 204
   - rank: 9
-    teamId: 4151233
-    team: FK Vikdam
-    manager: Juka Alimanovic
-    wins: 1
-    draws: 0
-    losses: 2
-    points: 3
-    fplPoints: 141
-  - rank: 10
     teamId: 1388247
     team: FC Jerked Me Back In
     manager: Ivan J
@@ -88,8 +79,8 @@ q1:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 139
-  - rank: 11
+    fplPoints: 188
+  - rank: 10
     teamId: 9268090
     team: milisic fc
     manager: Petar Milisic
@@ -97,7 +88,16 @@ q1:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 137
+    fplPoints: 161
+  - rank: 11
+    teamId: 4151233
+    team: FK Vikdam
+    manager: Juka Alimanovic
+    wins: 1
+    draws: 0
+    losses: 2
+    points: 3
+    fplPoints: 156
   - rank: 12
     teamId: 856142
     team: FK Panic
@@ -106,7 +106,7 @@ q1:
     draws: 2
     losses: 1
     points: 2
-    fplPoints: 152
+    fplPoints: 188
   - rank: 13
     teamId: null
     team: AVERAGE
@@ -115,7 +115,7 @@ q1:
     draws: 1
     losses: 2
     points: 1
-    fplPoints: 153
+    fplPoints: 191
   - rank: 14
     teamId: 74035
     team: P A R T I Z A N
@@ -124,7 +124,7 @@ q1:
     draws: 0
     losses: 3
     points: 0
-    fplPoints: 110
+    fplPoints: 147
 q2:
   - rank: 1
     teamId: 2275553
