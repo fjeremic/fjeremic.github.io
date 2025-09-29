@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 1
     points: 12
-    fplPoints: 365
+    fplPoints: 363
   - rank: 2
     teamId: 2275553
     team: Rolo FC
@@ -16,7 +16,7 @@ q1:
     draws: 0
     losses: 1
     points: 12
-    fplPoints: 350
+    fplPoints: 358
   - rank: 3
     teamId: 2698398
     team: WinninThePoo
@@ -25,7 +25,7 @@ q1:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 342
+    fplPoints: 346
   - rank: 4
     teamId: 2510766
     team: KINDER MBUEMO
@@ -34,7 +34,7 @@ q1:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 327
+    fplPoints: 328
   - rank: 5
     teamId: 1813312
     team: FC Believerz
@@ -43,7 +43,7 @@ q1:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 320
+    fplPoints: 322
   - rank: 6
     teamId: 4151233
     team: FK Vikdam
@@ -52,7 +52,7 @@ q1:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 286
+    fplPoints: 287
   - rank: 7
     teamId: 856142
     team: FK Panic
@@ -61,7 +61,7 @@ q1:
     draws: 2
     losses: 1
     points: 8
-    fplPoints: 346
+    fplPoints: 353
   - rank: 8
     teamId: 218545
     team: DeeKay
@@ -70,17 +70,8 @@ q1:
     draws: 1
     losses: 2
     points: 7
-    fplPoints: 291
+    fplPoints: 306
   - rank: 9
-    teamId: 1388247
-    team: FC Jerked Me Back In
-    manager: Ivan J
-    wins: 2
-    draws: 0
-    losses: 3
-    points: 6
-    fplPoints: 310
-  - rank: 10
     teamId: 1973444
     team: DELIJE UNITED
     manager: Arandjel Djuric
@@ -88,7 +79,16 @@ q1:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 303
+    fplPoints: 316
+  - rank: 10
+    teamId: 1388247
+    team: FC Jerked Me Back In
+    manager: Ivan J
+    wins: 2
+    draws: 0
+    losses: 3
+    points: 6
+    fplPoints: 312
   - rank: 11
     teamId: 9268090
     team: milisic fc
@@ -97,7 +97,7 @@ q1:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 270
+    fplPoints: 272
   - rank: 12
     teamId: 178496
     team: JFC
@@ -106,7 +106,7 @@ q1:
     draws: 2
     losses: 2
     points: 5
-    fplPoints: 292
+    fplPoints: 309
   - rank: 13
     teamId: 74035
     team: P A R T I Z A N
@@ -115,7 +115,7 @@ q1:
     draws: 0
     losses: 4
     points: 3
-    fplPoints: 303
+    fplPoints: 318
   - rank: 14
     teamId: null
     team: AVERAGE
@@ -124,7 +124,7 @@ q1:
     draws: 1
     losses: 4
     points: 1
-    fplPoints: 293
+    fplPoints: 300
 q2:
   - rank: 1
     teamId: 2275553
