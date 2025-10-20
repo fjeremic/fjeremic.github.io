@@ -16,7 +16,7 @@ q1:
     draws: 0
     losses: 2
     points: 15
-    fplPoints: 496
+    fplPoints: 505
   - rank: 3
     teamId: 2698398
     team: WinninThePoo
@@ -25,7 +25,7 @@ q1:
     draws: 0
     losses: 2
     points: 15
-    fplPoints: 476
+    fplPoints: 488
   - rank: 4
     teamId: 856142
     team: FK Panic
@@ -34,7 +34,7 @@ q1:
     draws: 2
     losses: 1
     points: 14
-    fplPoints: 481
+    fplPoints: 492
   - rank: 5
     teamId: 1813312
     team: FC Believerz
@@ -52,7 +52,7 @@ q1:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 449
+    fplPoints: 454
   - rank: 7
     teamId: 4151233
     team: FK Vikdam
@@ -61,7 +61,7 @@ q1:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 373
+    fplPoints: 385
   - rank: 8
     teamId: 2510766
     team: KINDER MBUEMO
@@ -70,7 +70,7 @@ q1:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 461
+    fplPoints: 470
   - rank: 9
     teamId: 1388247
     team: FC Jerked Me Back In
@@ -79,7 +79,7 @@ q1:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 456
+    fplPoints: 464
   - rank: 10
     teamId: 9268090
     team: milisic fc
@@ -88,7 +88,7 @@ q1:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 389
+    fplPoints: 397
   - rank: 11
     teamId: 178496
     team: JFC
@@ -97,7 +97,7 @@ q1:
     draws: 2
     losses: 3
     points: 8
-    fplPoints: 457
+    fplPoints: 465
   - rank: 12
     teamId: 218545
     team: DeeKay
@@ -106,7 +106,7 @@ q1:
     draws: 1
     losses: 4
     points: 7
-    fplPoints: 433
+    fplPoints: 437
   - rank: 13
     teamId: 74035
     team: P A R T I Z A N
@@ -115,7 +115,7 @@ q1:
     draws: 0
     losses: 6
     points: 3
-    fplPoints: 452
+    fplPoints: 468
   - rank: 14
     teamId: null
     team: AVERAGE
@@ -124,7 +124,7 @@ q1:
     draws: 1
     losses: 6
     points: 1
-    fplPoints: 408
+    fplPoints: 416
 q2:
   - rank: 1
     teamId: 2275553
