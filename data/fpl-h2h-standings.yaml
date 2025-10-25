@@ -34,7 +34,7 @@ q1:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 489
+    fplPoints: 490
   - rank: 5
     teamId: 1813312
     team: FC Believerz
@@ -70,7 +70,7 @@ q1:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 390
+    fplPoints: 391
   - rank: 9
     teamId: 178496
     team: JFC
@@ -97,7 +97,7 @@ q1:
     draws: 1
     losses: 4
     points: 10
-    fplPoints: 437
+    fplPoints: 429
   - rank: 12
     teamId: 9268090
     team: milisic fc
@@ -115,7 +115,7 @@ q1:
     draws: 0
     losses: 6
     points: 6
-    fplPoints: 468
+    fplPoints: 464
   - rank: 14
     teamId: null
     team: AVERAGE
