@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 1
     points: 21
-    fplPoints: 504
+    fplPoints: 513
   - rank: 2
     teamId: 856142
     team: FK Panic
@@ -16,7 +16,7 @@ q1:
     draws: 2
     losses: 1
     points: 17
-    fplPoints: 499
+    fplPoints: 516
   - rank: 3
     teamId: 3104256
     team: BMA
@@ -25,7 +25,7 @@ q1:
     draws: 1
     losses: 2
     points: 16
-    fplPoints: 505
+    fplPoints: 512
   - rank: 4
     teamId: 2698398
     team: WinninThePoo
@@ -34,7 +34,7 @@ q1:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 490
+    fplPoints: 509
   - rank: 5
     teamId: 1813312
     team: FC Believerz
@@ -43,7 +43,7 @@ q1:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 465
+    fplPoints: 475
   - rank: 6
     teamId: 1388247
     team: FC Jerked Me Back In
@@ -52,7 +52,7 @@ q1:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 464
+    fplPoints: 470
   - rank: 7
     teamId: 1973444
     team: DELIJE UNITED
@@ -61,7 +61,7 @@ q1:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 460
+    fplPoints: 469
   - rank: 8
     teamId: 4151233
     team: FK Vikdam
@@ -70,7 +70,7 @@ q1:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 391
+    fplPoints: 412
   - rank: 9
     teamId: 178496
     team: JFC
@@ -79,7 +79,7 @@ q1:
     draws: 2
     losses: 3
     points: 11
-    fplPoints: 469
+    fplPoints: 481
   - rank: 10
     teamId: 2510766
     team: KINDER MBUEMO
@@ -88,7 +88,7 @@ q1:
     draws: 1
     losses: 4
     points: 10
-    fplPoints: 470
+    fplPoints: 480
   - rank: 11
     teamId: 218545
     team: DeeKay
@@ -97,7 +97,7 @@ q1:
     draws: 1
     losses: 4
     points: 10
-    fplPoints: 429
+    fplPoints: 437
   - rank: 12
     teamId: 9268090
     team: milisic fc
@@ -106,7 +106,7 @@ q1:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 405
+    fplPoints: 421
   - rank: 13
     teamId: 74035
     team: P A R T I Z A N
@@ -115,7 +115,7 @@ q1:
     draws: 0
     losses: 6
     points: 6
-    fplPoints: 464
+    fplPoints: 490
   - rank: 14
     teamId: null
     team: AVERAGE
@@ -124,7 +124,7 @@ q1:
     draws: 1
     losses: 7
     points: 1
-    fplPoints: 420
+    fplPoints: 434
 q2:
   - rank: 1
     teamId: 2275553
