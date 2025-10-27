@@ -3,128 +3,128 @@ q1:
     teamId: 2275553
     team: Rolo FC
     manager: Branko Oluic
-    wins: 7
+    wins: 8
     draws: 0
     losses: 1
-    points: 21
-    fplPoints: 513
+    points: 24
+    fplPoints: 540
   - rank: 2
     teamId: 856142
     team: FK Panic
     manager: Stefan Panic
-    wins: 5
+    wins: 6
     draws: 2
     losses: 1
-    points: 17
-    fplPoints: 516
+    points: 20
+    fplPoints: 561
   - rank: 3
     teamId: 3104256
     team: BMA
     manager: Danijel Avlijas
-    wins: 5
+    wins: 6
     draws: 1
     losses: 2
-    points: 16
-    fplPoints: 512
+    points: 19
+    fplPoints: 563
   - rank: 4
     teamId: 2698398
     team: WinninThePoo
     manager: D Lukic
-    wins: 5
+    wins: 6
     draws: 0
     losses: 3
-    points: 15
-    fplPoints: 509
+    points: 18
+    fplPoints: 533
   - rank: 5
     teamId: 1813312
     team: FC Believerz
     manager: Mladen Lucic
-    wins: 4
+    wins: 5
     draws: 0
     losses: 4
-    points: 12
-    fplPoints: 475
+    points: 15
+    fplPoints: 507
   - rank: 6
     teamId: 1388247
     team: FC Jerked Me Back In
     manager: Ivan J
     wins: 4
     draws: 0
-    losses: 4
+    losses: 5
     points: 12
-    fplPoints: 470
+    fplPoints: 503
   - rank: 7
     teamId: 1973444
     team: DELIJE UNITED
     manager: Arandjel Djuric
     wins: 4
     draws: 0
-    losses: 4
+    losses: 5
     points: 12
-    fplPoints: 469
+    fplPoints: 493
   - rank: 8
+    teamId: 9268090
+    team: milisic fc
+    manager: Petar Milisic
+    wins: 4
+    draws: 0
+    losses: 5
+    points: 12
+    fplPoints: 450
+  - rank: 9
     teamId: 4151233
     team: FK Vikdam
     manager: Juka Alimanovic
     wins: 4
     draws: 0
-    losses: 4
+    losses: 5
     points: 12
-    fplPoints: 412
-  - rank: 9
+    fplPoints: 431
+  - rank: 10
     teamId: 178496
     team: JFC
     manager: Filip Jeremic
     wins: 3
     draws: 2
-    losses: 3
+    losses: 4
     points: 11
-    fplPoints: 481
-  - rank: 10
+    fplPoints: 511
+  - rank: 11
     teamId: 2510766
     team: KINDER MBUEMO
     manager: Ilija Milisic
     wins: 3
     draws: 1
-    losses: 4
+    losses: 5
     points: 10
-    fplPoints: 480
-  - rank: 11
+    fplPoints: 511
+  - rank: 12
     teamId: 218545
     team: DeeKay
     manager: Dee Kay
     wins: 3
     draws: 1
-    losses: 4
-    points: 10
-    fplPoints: 437
-  - rank: 12
-    teamId: 9268090
-    team: milisic fc
-    manager: Petar Milisic
-    wins: 3
-    draws: 0
     losses: 5
-    points: 9
-    fplPoints: 421
+    points: 10
+    fplPoints: 468
   - rank: 13
     teamId: 74035
     team: P A R T I Z A N
     manager: Bojan Samardzija
     wins: 2
     draws: 0
-    losses: 6
+    losses: 7
     points: 6
-    fplPoints: 490
+    fplPoints: 527
   - rank: 14
     teamId: null
     team: AVERAGE
     manager: AVERAGE
-    wins: 0
+    wins: 1
     draws: 1
     losses: 7
-    points: 1
-    fplPoints: 434
+    points: 4
+    fplPoints: 466
 q2:
   - rank: 1
     teamId: 2275553
@@ -190,6 +190,15 @@ q2:
     points: 0
     fplPoints: 0
   - rank: 8
+    teamId: 9268090
+    team: milisic fc
+    manager: Petar Milisic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 9
     teamId: 4151233
     team: FK Vikdam
     manager: Juka Alimanovic
@@ -198,7 +207,7 @@ q2:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 9
+  - rank: 10
     teamId: 178496
     team: JFC
     manager: Filip Jeremic
@@ -207,7 +216,7 @@ q2:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 10
+  - rank: 11
     teamId: 2510766
     team: KINDER MBUEMO
     manager: Ilija Milisic
@@ -216,19 +225,10 @@ q2:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 11
+  - rank: 12
     teamId: 218545
     team: DeeKay
     manager: Dee Kay
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 12
-    teamId: 9268090
-    team: milisic fc
-    manager: Petar Milisic
     wins: 0
     draws: 0
     losses: 0
@@ -317,6 +317,15 @@ q3:
     points: 0
     fplPoints: 0
   - rank: 8
+    teamId: 9268090
+    team: milisic fc
+    manager: Petar Milisic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 9
     teamId: 4151233
     team: FK Vikdam
     manager: Juka Alimanovic
@@ -325,7 +334,7 @@ q3:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 9
+  - rank: 10
     teamId: 178496
     team: JFC
     manager: Filip Jeremic
@@ -334,7 +343,7 @@ q3:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 10
+  - rank: 11
     teamId: 2510766
     team: KINDER MBUEMO
     manager: Ilija Milisic
@@ -343,19 +352,10 @@ q3:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 11
+  - rank: 12
     teamId: 218545
     team: DeeKay
     manager: Dee Kay
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 12
-    teamId: 9268090
-    team: milisic fc
-    manager: Petar Milisic
     wins: 0
     draws: 0
     losses: 0
@@ -444,6 +444,15 @@ q4:
     points: 0
     fplPoints: 0
   - rank: 8
+    teamId: 9268090
+    team: milisic fc
+    manager: Petar Milisic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 9
     teamId: 4151233
     team: FK Vikdam
     manager: Juka Alimanovic
@@ -452,7 +461,7 @@ q4:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 9
+  - rank: 10
     teamId: 178496
     team: JFC
     manager: Filip Jeremic
@@ -461,7 +470,7 @@ q4:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 10
+  - rank: 11
     teamId: 2510766
     team: KINDER MBUEMO
     manager: Ilija Milisic
@@ -470,19 +479,10 @@ q4:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 11
+  - rank: 12
     teamId: 218545
     team: DeeKay
     manager: Dee Kay
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 12
-    teamId: 9268090
-    team: milisic fc
-    manager: Petar Milisic
     wins: 0
     draws: 0
     losses: 0
