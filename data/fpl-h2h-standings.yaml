@@ -127,24 +127,6 @@ q1:
     fplPoints: 531
 q2:
   - rank: 1
-    teamId: 2275553
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 2
-    teamId: 3104256
-    team: BMA
-    manager: Danijel Avlijas
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 3
     teamId: 2698398
     team: WinninThePoo
     manager: D Lukic
@@ -152,89 +134,8 @@ q2:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 0
-  - rank: 4
-    teamId: 856142
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 5
-    teamId: 1813312
-    team: FC Believerz
-    manager: Mladen Lucic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 6
-    teamId: 1388247
-    team: FC Jerked Me Back In
-    manager: Ivan J
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 7
-    teamId: 178496
-    team: JFC
-    manager: Filip Jeremic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 8
-    teamId: 1973444
-    team: DELIJE UNITED
-    manager: Arandjel Djuric
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 9
-    teamId: 9268090
-    team: milisic fc
-    manager: Petar Milisic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 10
-    teamId: 4151233
-    team: FK Vikdam
-    manager: Juka Alimanovic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 11
-    teamId: 2510766
-    team: KINDER MBUEMO
-    manager: Ilija Milisic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 12
-    teamId: 218545
-    team: DeeKay
-    manager: Dee Kay
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 13
+    fplPoints: 36
+  - rank: 2
     teamId: 74035
     team: P A R T I Z A N
     manager: Bojan Samardzija
@@ -242,8 +143,80 @@ q2:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 0
-  - rank: 14
+    fplPoints: 34
+  - rank: 3
+    teamId: 1973444
+    team: DELIJE UNITED
+    manager: Arandjel Djuric
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 33
+  - rank: 4
+    teamId: 178496
+    team: JFC
+    manager: Filip Jeremic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 30
+  - rank: 5
+    teamId: 9268090
+    team: milisic fc
+    manager: Petar Milisic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 28
+  - rank: 6
+    teamId: 218545
+    team: DeeKay
+    manager: Dee Kay
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 24
+  - rank: 7
+    teamId: 2275553
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 23
+  - rank: 8
+    teamId: 3104256
+    team: BMA
+    manager: Danijel Avlijas
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 21
+  - rank: 9
+    teamId: 1813312
+    team: FC Believerz
+    manager: Mladen Lucic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 21
+  - rank: 10
+    teamId: 1388247
+    team: FC Jerked Me Back In
+    manager: Ivan J
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 20
+  - rank: 11
     teamId: null
     team: AVERAGE
     manager: AVERAGE
@@ -251,7 +224,34 @@ q2:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 0
+    fplPoints: 19
+  - rank: 12
+    teamId: 4151233
+    team: FK Vikdam
+    manager: Juka Alimanovic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 17
+  - rank: 13
+    teamId: 856142
+    team: FK Panic
+    manager: Stefan Panic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 16
+  - rank: 14
+    teamId: 2510766
+    team: KINDER MBUEMO
+    manager: Ilija Milisic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 14
 q3:
   - rank: 1
     teamId: 2275553
