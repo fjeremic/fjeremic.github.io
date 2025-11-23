@@ -134,7 +134,7 @@ q2:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 56
+    fplPoints: 95
   - rank: 2
     teamId: 2275553
     team: Rolo FC
@@ -143,7 +143,7 @@ q2:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 49
+    fplPoints: 82
   - rank: 3
     teamId: 74035
     team: P A R T I Z A N
@@ -152,16 +152,16 @@ q2:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 48
+    fplPoints: 73
   - rank: 4
-    teamId: 1973444
-    team: DELIJE UNITED
-    manager: Arandjel Djuric
+    teamId: 4151233
+    team: FK Vikdam
+    manager: Juka Alimanovic
     wins: 1
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 45
+    fplPoints: 69
   - rank: 5
     teamId: 2698398
     team: WinninThePoo
@@ -170,16 +170,16 @@ q2:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 44
+    fplPoints: 63
   - rank: 6
-    teamId: 4151233
-    team: FK Vikdam
-    manager: Juka Alimanovic
+    teamId: 1973444
+    team: DELIJE UNITED
+    manager: Arandjel Djuric
     wins: 1
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 39
+    fplPoints: 63
   - rank: 7
     teamId: 3104256
     team: BMA
@@ -188,7 +188,7 @@ q2:
     draws: 1
     losses: 0
     points: 1
-    fplPoints: 52
+    fplPoints: 82
   - rank: 8
     teamId: 856142
     team: FK Panic
@@ -197,16 +197,16 @@ q2:
     draws: 1
     losses: 0
     points: 1
-    fplPoints: 52
+    fplPoints: 76
   - rank: 9
-    teamId: 9268090
-    team: milisic fc
-    manager: Petar Milisic
+    teamId: 218545
+    team: DeeKay
+    manager: Dee Kay
     wins: 0
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 42
+    fplPoints: 72
   - rank: 10
     teamId: 1813312
     team: FC Believerz
@@ -215,7 +215,7 @@ q2:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 41
+    fplPoints: 69
   - rank: 11
     teamId: 1388247
     team: FC Jerked Me Back In
@@ -224,16 +224,16 @@ q2:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 41
+    fplPoints: 66
   - rank: 12
-    teamId: 218545
-    team: DeeKay
-    manager: Dee Kay
+    teamId: 9268090
+    team: milisic fc
+    manager: Petar Milisic
     wins: 0
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 39
+    fplPoints: 61
   - rank: 13
     teamId: null
     team: AVERAGE
@@ -242,7 +242,7 @@ q2:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 38
+    fplPoints: 60
   - rank: 14
     teamId: 2510766
     team: KINDER MBUEMO
@@ -251,7 +251,7 @@ q2:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 32
+    fplPoints: 45
 q3:
   - rank: 1
     teamId: 2275553
