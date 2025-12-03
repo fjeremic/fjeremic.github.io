@@ -134,7 +134,7 @@ q2:
     draws: 0
     losses: 0
     points: 9
-    fplPoints: 170
+    fplPoints: 194
   - rank: 2
     teamId: 178496
     team: JFC
@@ -143,7 +143,7 @@ q2:
     draws: 1
     losses: 0
     points: 7
-    fplPoints: 161
+    fplPoints: 219
   - rank: 3
     teamId: 74035
     team: P A R T I Z A N
@@ -152,7 +152,7 @@ q2:
     draws: 1
     losses: 0
     points: 7
-    fplPoints: 160
+    fplPoints: 191
   - rank: 4
     teamId: 856142
     team: FK Panic
@@ -161,7 +161,7 @@ q2:
     draws: 1
     losses: 0
     points: 7
-    fplPoints: 145
+    fplPoints: 180
   - rank: 5
     teamId: 9268090
     team: milisic fc
@@ -170,7 +170,7 @@ q2:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 122
+    fplPoints: 159
   - rank: 6
     teamId: null
     team: AVERAGE
@@ -179,7 +179,7 @@ q2:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 112
+    fplPoints: 140
   - rank: 7
     teamId: 3104256
     team: BMA
@@ -188,7 +188,7 @@ q2:
     draws: 1
     losses: 1
     points: 4
-    fplPoints: 156
+    fplPoints: 191
   - rank: 8
     teamId: 1388247
     team: FC Jerked Me Back In
@@ -197,7 +197,7 @@ q2:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 146
+    fplPoints: 184
   - rank: 9
     teamId: 2698398
     team: WinninThePoo
@@ -206,7 +206,7 @@ q2:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 118
+    fplPoints: 160
   - rank: 10
     teamId: 1973444
     team: DELIJE UNITED
@@ -215,7 +215,7 @@ q2:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 117
+    fplPoints: 158
   - rank: 11
     teamId: 4151233
     team: FK Vikdam
@@ -224,7 +224,7 @@ q2:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 104
+    fplPoints: 135
   - rank: 12
     teamId: 218545
     team: DeeKay
@@ -233,7 +233,7 @@ q2:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 61
+    fplPoints: 95
   - rank: 13
     teamId: 2510766
     team: KINDER MBUEMO
@@ -242,7 +242,7 @@ q2:
     draws: 0
     losses: 3
     points: 0
-    fplPoints: 127
+    fplPoints: 149
   - rank: 14
     teamId: 1813312
     team: FC Believerz
@@ -251,7 +251,7 @@ q2:
     draws: 0
     losses: 3
     points: 0
-    fplPoints: 115
+    fplPoints: 147
 q3:
   - rank: 1
     teamId: 2275553
