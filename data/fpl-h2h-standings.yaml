@@ -134,7 +134,7 @@ q2:
     draws: 1
     losses: 0
     points: 10
-    fplPoints: 250
+    fplPoints: 285
   - rank: 2
     teamId: 856142
     team: FK Panic
@@ -143,7 +143,7 @@ q2:
     draws: 1
     losses: 0
     points: 10
-    fplPoints: 213
+    fplPoints: 254
   - rank: 3
     teamId: 2275553
     team: Rolo FC
@@ -152,7 +152,7 @@ q2:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 229
+    fplPoints: 261
   - rank: 4
     teamId: 9268090
     team: milisic fc
@@ -161,7 +161,7 @@ q2:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 186
+    fplPoints: 231
   - rank: 5
     teamId: 74035
     team: P A R T I Z A N
@@ -170,7 +170,7 @@ q2:
     draws: 1
     losses: 1
     points: 7
-    fplPoints: 228
+    fplPoints: 272
   - rank: 6
     teamId: 3104256
     team: BMA
@@ -179,7 +179,7 @@ q2:
     draws: 1
     losses: 1
     points: 7
-    fplPoints: 222
+    fplPoints: 241
   - rank: 7
     teamId: 1388247
     team: FC Jerked Me Back In
@@ -188,7 +188,7 @@ q2:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 216
+    fplPoints: 242
   - rank: 8
     teamId: 1973444
     team: DELIJE UNITED
@@ -197,7 +197,7 @@ q2:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 194
+    fplPoints: 228
   - rank: 9
     teamId: null
     team: AVERAGE
@@ -206,7 +206,7 @@ q2:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 170
+    fplPoints: 203
   - rank: 10
     teamId: 2510766
     team: KINDER MBUEMO
@@ -215,7 +215,7 @@ q2:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 186
+    fplPoints: 221
   - rank: 11
     teamId: 2698398
     team: WinninThePoo
@@ -224,17 +224,8 @@ q2:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 176
+    fplPoints: 213
   - rank: 12
-    teamId: 4151233
-    team: FK Vikdam
-    manager: Juka Alimanovic
-    wins: 1
-    draws: 0
-    losses: 3
-    points: 3
-    fplPoints: 150
-  - rank: 13
     teamId: 218545
     team: DeeKay
     manager: Dee Kay
@@ -242,7 +233,16 @@ q2:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 141
+    fplPoints: 190
+  - rank: 13
+    teamId: 4151233
+    team: FK Vikdam
+    manager: Juka Alimanovic
+    wins: 1
+    draws: 0
+    losses: 3
+    points: 3
+    fplPoints: 185
   - rank: 14
     teamId: 1813312
     team: FC Believerz
@@ -251,7 +251,7 @@ q2:
     draws: 0
     losses: 4
     points: 0
-    fplPoints: 177
+    fplPoints: 211
 q3:
   - rank: 1
     teamId: 2275553
