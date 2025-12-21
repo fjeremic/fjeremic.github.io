@@ -134,7 +134,7 @@ q2:
     draws: 1
     losses: 0
     points: 16
-    fplPoints: 367
+    fplPoints: 439
   - rank: 2
     teamId: 74035
     team: P A R T I Z A N
@@ -143,7 +143,7 @@ q2:
     draws: 1
     losses: 1
     points: 13
-    fplPoints: 411
+    fplPoints: 475
   - rank: 3
     teamId: 178496
     team: JFC
@@ -152,7 +152,7 @@ q2:
     draws: 1
     losses: 1
     points: 13
-    fplPoints: 386
+    fplPoints: 460
   - rank: 4
     teamId: 2275553
     team: Rolo FC
@@ -161,7 +161,7 @@ q2:
     draws: 0
     losses: 2
     points: 12
-    fplPoints: 364
+    fplPoints: 437
   - rank: 5
     teamId: 1388247
     team: FC Jerked Me Back In
@@ -170,7 +170,7 @@ q2:
     draws: 0
     losses: 2
     points: 12
-    fplPoints: 351
+    fplPoints: 433
   - rank: 6
     teamId: 1973444
     team: DELIJE UNITED
@@ -179,7 +179,7 @@ q2:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 358
+    fplPoints: 422
   - rank: 7
     teamId: 9268090
     team: milisic fc
@@ -188,7 +188,7 @@ q2:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 309
+    fplPoints: 358
   - rank: 8
     teamId: null
     team: AVERAGE
@@ -197,7 +197,7 @@ q2:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 279
+    fplPoints: 337
   - rank: 9
     teamId: 3104256
     team: BMA
@@ -206,17 +206,8 @@ q2:
     draws: 1
     losses: 3
     points: 7
-    fplPoints: 319
+    fplPoints: 385
   - rank: 10
-    teamId: 218545
-    team: DeeKay
-    manager: Dee Kay
-    wins: 2
-    draws: 0
-    losses: 4
-    points: 6
-    fplPoints: 324
-  - rank: 11
     teamId: 2510766
     team: KINDER MBUEMO
     manager: Ilija Milisic
@@ -224,7 +215,16 @@ q2:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 322
+    fplPoints: 405
+  - rank: 11
+    teamId: 218545
+    team: DeeKay
+    manager: Dee Kay
+    wins: 2
+    draws: 0
+    losses: 4
+    points: 6
+    fplPoints: 382
   - rank: 12
     teamId: 1813312
     team: FC Believerz
@@ -233,7 +233,7 @@ q2:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 310
+    fplPoints: 372
   - rank: 13
     teamId: 2698398
     team: WinninThePoo
@@ -242,7 +242,7 @@ q2:
     draws: 0
     losses: 5
     points: 3
-    fplPoints: 296
+    fplPoints: 355
   - rank: 14
     teamId: 4151233
     team: FK Vikdam
@@ -251,7 +251,7 @@ q2:
     draws: 0
     losses: 5
     points: 3
-    fplPoints: 270
+    fplPoints: 341
 q3:
   - rank: 1
     teamId: 2275553
