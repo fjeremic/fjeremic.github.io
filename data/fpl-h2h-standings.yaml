@@ -143,7 +143,7 @@ q2:
     draws: 1
     losses: 1
     points: 16
-    fplPoints: 479
+    fplPoints: 496
   - rank: 3
     teamId: 178496
     team: JFC
@@ -152,7 +152,7 @@ q2:
     draws: 1
     losses: 1
     points: 16
-    fplPoints: 469
+    fplPoints: 471
   - rank: 4
     teamId: 1388247
     team: FC Jerked Me Back In
@@ -161,7 +161,7 @@ q2:
     draws: 0
     losses: 2
     points: 15
-    fplPoints: 441
+    fplPoints: 443
   - rank: 5
     teamId: 1973444
     team: DELIJE UNITED
@@ -170,7 +170,7 @@ q2:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 447
+    fplPoints: 444
   - rank: 6
     teamId: 2275553
     team: Rolo FC
@@ -179,7 +179,7 @@ q2:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 444
+    fplPoints: 442
   - rank: 7
     teamId: 3104256
     team: BMA
@@ -188,7 +188,7 @@ q2:
     draws: 1
     losses: 3
     points: 10
-    fplPoints: 403
+    fplPoints: 401
   - rank: 8
     teamId: 2510766
     team: KINDER MBUEMO
@@ -197,7 +197,7 @@ q2:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 410
+    fplPoints: 408
   - rank: 9
     teamId: 9268090
     team: milisic fc
@@ -206,7 +206,7 @@ q2:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 361
+    fplPoints: 357
   - rank: 10
     teamId: null
     team: AVERAGE
@@ -215,7 +215,7 @@ q2:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 345
+    fplPoints: 346
   - rank: 11
     teamId: 218545
     team: DeeKay
@@ -224,7 +224,7 @@ q2:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 401
+    fplPoints: 383
   - rank: 12
     teamId: 1813312
     team: FC Believerz
@@ -251,7 +251,7 @@ q2:
     draws: 0
     losses: 6
     points: 3
-    fplPoints: 350
+    fplPoints: 354
 q3:
   - rank: 1
     teamId: 856142
