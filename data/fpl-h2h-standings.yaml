@@ -134,7 +134,7 @@ q2:
     draws: 1
     losses: 0
     points: 22
-    fplPoints: 488
+    fplPoints: 517
   - rank: 2
     teamId: 74035
     team: P A R T I Z A N
@@ -143,7 +143,7 @@ q2:
     draws: 1
     losses: 1
     points: 19
-    fplPoints: 549
+    fplPoints: 564
   - rank: 3
     teamId: 178496
     team: JFC
@@ -152,7 +152,7 @@ q2:
     draws: 1
     losses: 1
     points: 19
-    fplPoints: 524
+    fplPoints: 549
   - rank: 4
     teamId: 1388247
     team: FC Jerked Me Back In
@@ -161,7 +161,7 @@ q2:
     draws: 0
     losses: 2
     points: 18
-    fplPoints: 489
+    fplPoints: 510
   - rank: 5
     teamId: 2275553
     team: Rolo FC
@@ -170,7 +170,7 @@ q2:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 490
+    fplPoints: 502
   - rank: 6
     teamId: 1973444
     team: DELIJE UNITED
@@ -179,7 +179,7 @@ q2:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 483
+    fplPoints: 491
   - rank: 7
     teamId: 3104256
     team: BMA
@@ -188,7 +188,7 @@ q2:
     draws: 1
     losses: 4
     points: 10
-    fplPoints: 436
+    fplPoints: 444
   - rank: 8
     teamId: 2510766
     team: KINDER MBUEMO
@@ -197,7 +197,7 @@ q2:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 449
+    fplPoints: 455
   - rank: 9
     teamId: 9268090
     team: milisic fc
@@ -206,7 +206,7 @@ q2:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 411
+    fplPoints: 414
   - rank: 10
     teamId: null
     team: AVERAGE
@@ -215,7 +215,7 @@ q2:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 389
+    fplPoints: 407
   - rank: 11
     teamId: 218545
     team: DeeKay
@@ -224,17 +224,8 @@ q2:
     draws: 0
     losses: 6
     points: 6
-    fplPoints: 434
+    fplPoints: 447
   - rank: 12
-    teamId: 2698398
-    team: WinninThePoo
-    manager: D Lukic
-    wins: 2
-    draws: 0
-    losses: 6
-    points: 6
-    fplPoints: 417
-  - rank: 13
     teamId: 1813312
     team: FC Believerz
     manager: Mladen Lucic
@@ -242,7 +233,16 @@ q2:
     draws: 0
     losses: 6
     points: 6
-    fplPoints: 415
+    fplPoints: 441
+  - rank: 13
+    teamId: 2698398
+    team: WinninThePoo
+    manager: D Lukic
+    wins: 2
+    draws: 0
+    losses: 6
+    points: 6
+    fplPoints: 434
   - rank: 14
     teamId: 4151233
     team: FK Vikdam
@@ -251,7 +251,7 @@ q2:
     draws: 0
     losses: 6
     points: 6
-    fplPoints: 391
+    fplPoints: 400
 q3:
   - rank: 1
     teamId: 856142
