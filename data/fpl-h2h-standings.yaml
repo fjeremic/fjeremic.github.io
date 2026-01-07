@@ -342,7 +342,7 @@ q3:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 44
+    fplPoints: 46
   - rank: 11
     teamId: 1813312
     team: FC Believerz
@@ -351,8 +351,17 @@ q3:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 42
+    fplPoints: 44
   - rank: 12
+    teamId: 218545
+    team: DeeKay
+    manager: Dee Kay
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 42
+  - rank: 13
     teamId: null
     team: AVERAGE
     manager: AVERAGE
@@ -361,15 +370,6 @@ q3:
     losses: 1
     points: 0
     fplPoints: 42
-  - rank: 13
-    teamId: 218545
-    team: DeeKay
-    manager: Dee Kay
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
-    fplPoints: 40
   - rank: 14
     teamId: 2275553
     team: Rolo FC
