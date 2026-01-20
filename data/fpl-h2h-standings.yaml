@@ -254,131 +254,131 @@ q2:
     fplPoints: 457
 q3:
   - rank: 1
+    teamId: 2510766
+    team: KINDER MBUEMO
+    manager: Ilija Milisic
+    wins: 2
+    draws: 1
+    losses: 0
+    points: 7
+    fplPoints: 150
+  - rank: 2
     teamId: 856142
     team: FK Panic
     manager: Stefan Panic
     wins: 2
     draws: 0
-    losses: 0
+    losses: 1
     points: 6
     fplPoints: 161
-  - rank: 2
+  - rank: 3
+    teamId: 1388247
+    team: FC Jerked Me Back In
+    manager: Ivan J
+    wins: 2
+    draws: 0
+    losses: 1
+    points: 6
+    fplPoints: 159
+  - rank: 4
     teamId: 1973444
     team: DELIJE UNITED
     manager: Arandjel Djuric
     wins: 2
     draws: 0
-    losses: 0
+    losses: 1
     points: 6
     fplPoints: 158
-  - rank: 3
+  - rank: 5
+    teamId: 2698398
+    team: WinninThePoo
+    manager: D Lukic
+    wins: 2
+    draws: 0
+    losses: 1
+    points: 6
+    fplPoints: 144
+  - rank: 6
+    teamId: 74035
+    team: P A R T I Z A N
+    manager: Bojan Samardzija
+    wins: 2
+    draws: 0
+    losses: 1
+    points: 6
+    fplPoints: 140
+  - rank: 7
     teamId: 9268090
     team: milisic fc
     manager: Petar Milisic
     wins: 2
     draws: 0
-    losses: 0
+    losses: 1
     points: 6
     fplPoints: 132
-  - rank: 4
-    teamId: 2510766
-    team: KINDER MBUEMO
-    manager: Ilija Milisic
-    wins: 1
-    draws: 1
-    losses: 0
-    points: 4
-    fplPoints: 150
-  - rank: 5
-    teamId: 1388247
-    team: FC Jerked Me Back In
-    manager: Ivan J
-    wins: 1
-    draws: 0
-    losses: 1
-    points: 3
-    fplPoints: 158
-  - rank: 6
-    teamId: 2698398
-    team: WinninThePoo
-    manager: D Lukic
-    wins: 1
-    draws: 0
-    losses: 1
-    points: 3
-    fplPoints: 144
-  - rank: 7
-    teamId: 74035
-    team: P A R T I Z A N
-    manager: Bojan Samardzija
-    wins: 1
-    draws: 0
-    losses: 1
-    points: 3
-    fplPoints: 139
   - rank: 8
+    teamId: 178496
+    team: JFC
+    manager: Filip Jeremic
+    wins: 2
+    draws: 0
+    losses: 1
+    points: 6
+    fplPoints: 125
+  - rank: 9
     teamId: null
     team: AVERAGE
     manager: AVERAGE
     wins: 1
     draws: 0
-    losses: 1
+    losses: 2
     points: 3
-    fplPoints: 126
-  - rank: 9
-    teamId: 178496
-    team: JFC
-    manager: Filip Jeremic
+    fplPoints: 130
+  - rank: 10
+    teamId: 218545
+    team: DeeKay
+    manager: Dee Kay
     wins: 1
     draws: 0
-    losses: 1
+    losses: 2
     points: 3
     fplPoints: 125
-  - rank: 10
+  - rank: 11
     teamId: 1813312
     team: FC Believerz
     manager: Mladen Lucic
     wins: 1
     draws: 0
-    losses: 1
+    losses: 2
     points: 3
-    fplPoints: 123
-  - rank: 11
+    fplPoints: 122
+  - rank: 12
+    teamId: 2275553
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 1
+    draws: 0
+    losses: 2
+    points: 3
+    fplPoints: 121
+  - rank: 13
     teamId: 3104256
     team: BMA
     manager: Danijel Avlijas
     wins: 0
     draws: 1
-    losses: 1
+    losses: 2
     points: 1
     fplPoints: 135
-  - rank: 12
-    teamId: 218545
-    team: DeeKay
-    manager: Dee Kay
-    wins: 0
-    draws: 0
-    losses: 2
-    points: 0
-    fplPoints: 124
-  - rank: 13
-    teamId: 2275553
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 0
-    draws: 0
-    losses: 2
-    points: 0
-    fplPoints: 121
   - rank: 14
     teamId: 4151233
     team: FK Vikdam
     manager: Juka Alimanovic
     wins: 0
     draws: 0
-    losses: 2
+    losses: 3
     points: 0
-    fplPoints: 110
+    fplPoints: 112
 q4:
   - rank: 1
     teamId: 856142
@@ -426,18 +426,18 @@ q4:
     points: 0
     fplPoints: 0
   - rank: 6
-    teamId: 3104256
-    team: BMA
-    manager: Danijel Avlijas
+    teamId: 2698398
+    team: WinninThePoo
+    manager: D Lukic
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
   - rank: 7
-    teamId: 2698398
-    team: WinninThePoo
-    manager: D Lukic
+    teamId: 3104256
+    team: BMA
+    manager: Danijel Avlijas
     wins: 0
     draws: 0
     losses: 0
@@ -489,18 +489,18 @@ q4:
     points: 0
     fplPoints: 0
   - rank: 13
-    teamId: null
-    team: AVERAGE
-    manager: AVERAGE
+    teamId: 218545
+    team: DeeKay
+    manager: Dee Kay
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
   - rank: 14
-    teamId: 218545
-    team: DeeKay
-    manager: Dee Kay
+    teamId: null
+    team: AVERAGE
+    manager: AVERAGE
     wins: 0
     draws: 0
     losses: 0
