@@ -261,7 +261,7 @@ q3:
     draws: 1
     losses: 0
     points: 7
-    fplPoints: 160
+    fplPoints: 182
   - rank: 2
     teamId: 1973444
     team: DELIJE UNITED
@@ -270,7 +270,7 @@ q3:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 194
+    fplPoints: 212
   - rank: 3
     teamId: 856142
     team: FK Panic
@@ -279,7 +279,7 @@ q3:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 184
+    fplPoints: 208
   - rank: 4
     teamId: 1388247
     team: FC Jerked Me Back In
@@ -288,7 +288,7 @@ q3:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 184
+    fplPoints: 195
   - rank: 5
     teamId: 2698398
     team: WinninThePoo
@@ -297,17 +297,8 @@ q3:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 175
+    fplPoints: 184
   - rank: 6
-    teamId: 9268090
-    team: milisic fc
-    manager: Petar Milisic
-    wins: 2
-    draws: 0
-    losses: 1
-    points: 6
-    fplPoints: 160
-  - rank: 7
     teamId: 74035
     team: P A R T I Z A N
     manager: Bojan Samardzija
@@ -315,7 +306,16 @@ q3:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 156
+    fplPoints: 181
+  - rank: 7
+    teamId: 9268090
+    team: milisic fc
+    manager: Petar Milisic
+    wins: 2
+    draws: 0
+    losses: 1
+    points: 6
+    fplPoints: 175
   - rank: 8
     teamId: 178496
     team: JFC
@@ -324,17 +324,8 @@ q3:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 151
+    fplPoints: 172
   - rank: 9
-    teamId: 1813312
-    team: FC Believerz
-    manager: Mladen Lucic
-    wins: 1
-    draws: 0
-    losses: 2
-    points: 3
-    fplPoints: 154
-  - rank: 10
     teamId: null
     team: AVERAGE
     manager: AVERAGE
@@ -342,7 +333,16 @@ q3:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 150
+    fplPoints: 169
+  - rank: 10
+    teamId: 1813312
+    team: FC Believerz
+    manager: Mladen Lucic
+    wins: 1
+    draws: 0
+    losses: 2
+    points: 3
+    fplPoints: 168
   - rank: 11
     teamId: 2275553
     team: Rolo FC
@@ -351,7 +351,7 @@ q3:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 140
+    fplPoints: 151
   - rank: 12
     teamId: 218545
     team: DeeKay
@@ -360,7 +360,7 @@ q3:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 133
+    fplPoints: 151
   - rank: 13
     teamId: 3104256
     team: BMA
@@ -369,7 +369,7 @@ q3:
     draws: 1
     losses: 2
     points: 1
-    fplPoints: 146
+    fplPoints: 166
   - rank: 14
     teamId: 4151233
     team: FK Vikdam
@@ -378,7 +378,7 @@ q3:
     draws: 0
     losses: 3
     points: 0
-    fplPoints: 144
+    fplPoints: 161
 q4:
   - rank: 1
     teamId: 856142
