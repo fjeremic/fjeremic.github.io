@@ -100,8 +100,8 @@ q1:
     fplPoints: 581
   - rank: 12
     teamId: 218545
-    team: Deleted
-    manager: Deleted Player
+    team: Restored
+    manager: Dee Kay
     wins: 3
     draws: 1
     losses: 6
@@ -245,8 +245,8 @@ q2:
     fplPoints: 420
   - rank: 14
     teamId: 218545
-    team: Deleted
-    manager: Deleted Player
+    team: Restored
+    manager: Dee Kay
     wins: 2
     draws: 0
     losses: 7
@@ -336,8 +336,8 @@ q3:
     fplPoints: 172
   - rank: 10
     teamId: 218545
-    team: Deleted
-    manager: Deleted Player
+    team: Restored
+    manager: Dee Kay
     wins: 2
     draws: 0
     losses: 2
@@ -490,8 +490,8 @@ q4:
     fplPoints: 0
   - rank: 13
     teamId: 218545
-    team: Deleted
-    manager: Deleted Player
+    team: Restored
+    manager: Dee Kay
     wins: 0
     draws: 0
     losses: 0
