@@ -261,7 +261,7 @@ q3:
     draws: 1
     losses: 0
     points: 10
-    fplPoints: 220
+    fplPoints: 257
   - rank: 2
     teamId: 1973444
     team: DELIJE UNITED
@@ -270,7 +270,7 @@ q3:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 247
+    fplPoints: 278
   - rank: 3
     teamId: 178496
     team: JFC
@@ -279,7 +279,7 @@ q3:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 198
+    fplPoints: 229
   - rank: 4
     teamId: 74035
     team: P A R T I Z A N
@@ -288,7 +288,7 @@ q3:
     draws: 1
     losses: 1
     points: 7
-    fplPoints: 224
+    fplPoints: 253
   - rank: 5
     teamId: 9268090
     team: milisic fc
@@ -297,7 +297,7 @@ q3:
     draws: 1
     losses: 1
     points: 7
-    fplPoints: 204
+    fplPoints: 227
   - rank: 6
     teamId: 856142
     team: FK Panic
@@ -306,7 +306,7 @@ q3:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 237
+    fplPoints: 269
   - rank: 7
     teamId: 1388247
     team: FC Jerked Me Back In
@@ -315,7 +315,7 @@ q3:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 217
+    fplPoints: 260
   - rank: 8
     teamId: 2698398
     team: WinninThePoo
@@ -324,7 +324,7 @@ q3:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 203
+    fplPoints: 225
   - rank: 9
     teamId: 1813312
     team: FC Believerz
@@ -333,7 +333,7 @@ q3:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 188
+    fplPoints: 220
   - rank: 10
     teamId: 218545
     team: Restored
@@ -342,7 +342,7 @@ q3:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 174
+    fplPoints: 195
   - rank: 11
     teamId: 4151233
     team: FK Vikdam
@@ -351,7 +351,7 @@ q3:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 204
+    fplPoints: 232
   - rank: 12
     teamId: null
     team: AVERAGE
@@ -360,7 +360,7 @@ q3:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 202
+    fplPoints: 222
   - rank: 13
     teamId: 2275553
     team: Rolo FC
@@ -369,7 +369,7 @@ q3:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 189
+    fplPoints: 215
   - rank: 14
     teamId: 3104256
     team: BMA
@@ -378,7 +378,7 @@ q3:
     draws: 1
     losses: 3
     points: 1
-    fplPoints: 226
+    fplPoints: 233
 q4:
   - rank: 1
     teamId: 856142
