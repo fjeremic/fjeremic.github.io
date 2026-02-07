@@ -261,7 +261,7 @@ q3:
     draws: 1
     losses: 0
     points: 13
-    fplPoints: 257
+    fplPoints: 253
   - rank: 2
     teamId: 1973444
     team: DELIJE UNITED
@@ -279,7 +279,7 @@ q3:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 269
+    fplPoints: 273
   - rank: 4
     teamId: 178496
     team: JFC
@@ -297,7 +297,7 @@ q3:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 226
+    fplPoints: 222
   - rank: 6
     teamId: 74035
     team: P A R T I Z A N
@@ -333,7 +333,7 @@ q3:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 241
+    fplPoints: 248
   - rank: 10
     teamId: 2698398
     team: WinninThePoo
@@ -351,7 +351,7 @@ q3:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 222
+    fplPoints: 220
   - rank: 12
     teamId: 218545
     team: Restored
@@ -360,7 +360,7 @@ q3:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 210
+    fplPoints: 202
   - rank: 13
     teamId: 3104256
     team: BMA
@@ -378,7 +378,7 @@ q3:
     draws: 0
     losses: 4
     points: 3
-    fplPoints: 229
+    fplPoints: 230
 q4:
   - rank: 1
     teamId: 856142
