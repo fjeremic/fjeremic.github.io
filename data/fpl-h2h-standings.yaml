@@ -261,7 +261,7 @@ q3:
     draws: 1
     losses: 0
     points: 13
-    fplPoints: 253
+    fplPoints: 311
   - rank: 2
     teamId: 1973444
     team: DELIJE UNITED
@@ -270,7 +270,7 @@ q3:
     draws: 0
     losses: 1
     points: 12
-    fplPoints: 278
+    fplPoints: 342
   - rank: 3
     teamId: 1388247
     team: FC Jerked Me Back In
@@ -279,7 +279,7 @@ q3:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 273
+    fplPoints: 324
   - rank: 4
     teamId: 178496
     team: JFC
@@ -288,7 +288,7 @@ q3:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 235
+    fplPoints: 291
   - rank: 5
     teamId: 1813312
     team: FC Believerz
@@ -297,7 +297,7 @@ q3:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 222
+    fplPoints: 289
   - rank: 6
     teamId: 74035
     team: P A R T I Z A N
@@ -306,7 +306,7 @@ q3:
     draws: 1
     losses: 2
     points: 7
-    fplPoints: 254
+    fplPoints: 339
   - rank: 7
     teamId: 9268090
     team: milisic fc
@@ -315,7 +315,7 @@ q3:
     draws: 1
     losses: 2
     points: 7
-    fplPoints: 230
+    fplPoints: 276
   - rank: 8
     teamId: 856142
     team: FK Panic
@@ -324,7 +324,7 @@ q3:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 278
+    fplPoints: 337
   - rank: 9
     teamId: 4151233
     team: FK Vikdam
@@ -333,17 +333,8 @@ q3:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 248
+    fplPoints: 287
   - rank: 10
-    teamId: 2698398
-    team: WinninThePoo
-    manager: D Lukic
-    wins: 2
-    draws: 0
-    losses: 3
-    points: 6
-    fplPoints: 231
-  - rank: 11
     teamId: 2275553
     team: Rolo FC
     manager: Branko Oluic
@@ -351,8 +342,8 @@ q3:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 220
-  - rank: 12
+    fplPoints: 279
+  - rank: 11
     teamId: 218545
     team: Restored
     manager: Dee Kay
@@ -360,7 +351,16 @@ q3:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 202
+    fplPoints: 278
+  - rank: 12
+    teamId: 2698398
+    team: WinninThePoo
+    manager: D Lukic
+    wins: 2
+    draws: 0
+    losses: 3
+    points: 6
+    fplPoints: 273
   - rank: 13
     teamId: 3104256
     team: BMA
@@ -369,7 +369,7 @@ q3:
     draws: 1
     losses: 3
     points: 4
-    fplPoints: 252
+    fplPoints: 310
   - rank: 14
     teamId: null
     team: AVERAGE
@@ -378,7 +378,7 @@ q3:
     draws: 0
     losses: 4
     points: 3
-    fplPoints: 230
+    fplPoints: 266
 q4:
   - rank: 1
     teamId: 856142
