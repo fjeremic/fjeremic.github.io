@@ -261,7 +261,7 @@ q3:
     draws: 1
     losses: 2
     points: 16
-    fplPoints: 418
+    fplPoints: 406
   - rank: 2
     teamId: 1973444
     team: DELIJE UNITED
@@ -270,7 +270,7 @@ q3:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 469
+    fplPoints: 471
   - rank: 3
     teamId: 1388247
     team: FC Jerked Me Back In
@@ -288,7 +288,7 @@ q3:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 429
+    fplPoints: 431
   - rank: 5
     teamId: 1813312
     team: FC Believerz
@@ -306,7 +306,7 @@ q3:
     draws: 1
     losses: 3
     points: 13
-    fplPoints: 442
+    fplPoints: 444
   - rank: 7
     teamId: 178496
     team: JFC
@@ -333,7 +333,7 @@ q3:
     draws: 1
     losses: 4
     points: 10
-    fplPoints: 406
+    fplPoints: 408
   - rank: 10
     teamId: 856142
     team: FK Panic
@@ -342,7 +342,7 @@ q3:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 439
+    fplPoints: 442
   - rank: 11
     teamId: 2698398
     team: WinninThePoo
@@ -351,7 +351,7 @@ q3:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 418
+    fplPoints: 421
   - rank: 12
     teamId: null
     team: AVERAGE
@@ -369,7 +369,7 @@ q3:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 379
+    fplPoints: 375
   - rank: 14
     teamId: 3104256
     team: BMA
@@ -378,7 +378,7 @@ q3:
     draws: 1
     losses: 5
     points: 7
-    fplPoints: 414
+    fplPoints: 416
 q4:
   - rank: 1
     teamId: 856142
