@@ -381,24 +381,6 @@ q3:
     fplPoints: 426
 q4:
   - rank: 1
-    teamId: 218545
-    team: Restored
-    manager: Dee Kay
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 41
-  - rank: 2
-    teamId: 1973444
-    team: DELIJE UNITED
-    manager: Arandjel Djuric
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 29
-  - rank: 3
     teamId: 856142
     team: FK Panic
     manager: Stefan Panic
@@ -406,44 +388,17 @@ q4:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 28
-  - rank: 4
-    teamId: 9268090
-    team: milisic fc
-    manager: Petar Milisic
+    fplPoints: 67
+  - rank: 2
+    teamId: 218545
+    team: Restored
+    manager: Dee Kay
     wins: 0
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 28
-  - rank: 5
-    teamId: 2275553
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 26
-  - rank: 6
-    teamId: null
-    team: AVERAGE
-    manager: AVERAGE
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 23
-  - rank: 7
-    teamId: 1388247
-    team: FC Jerked Me Back In
-    manager: Ivan J
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 21
-  - rank: 8
+    fplPoints: 66
+  - rank: 3
     teamId: 178496
     team: JFC
     manager: Filip Jeremic
@@ -451,17 +406,26 @@ q4:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 20
-  - rank: 9
-    teamId: 3104256
-    team: BMA
-    manager: Danijel Avlijas
+    fplPoints: 65
+  - rank: 4
+    teamId: 1388247
+    team: FC Jerked Me Back In
+    manager: Ivan J
     wins: 0
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 20
-  - rank: 10
+    fplPoints: 53
+  - rank: 5
+    teamId: 1973444
+    team: DELIJE UNITED
+    manager: Arandjel Djuric
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 49
+  - rank: 6
     teamId: 4151233
     team: FK Vikdam
     manager: Juka Alimanovic
@@ -469,8 +433,17 @@ q4:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 20
-  - rank: 11
+    fplPoints: 48
+  - rank: 7
+    teamId: 2275553
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 43
+  - rank: 8
     teamId: 74035
     team: P A R T I Z A N
     manager: Bojan Samardzija
@@ -478,16 +451,43 @@ q4:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 17
-  - rank: 12
-    teamId: 2698398
-    team: WinninThePoo
-    manager: D Lukic
+    fplPoints: 42
+  - rank: 9
+    teamId: 9268090
+    team: milisic fc
+    manager: Petar Milisic
     wins: 0
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 15
+    fplPoints: 42
+  - rank: 10
+    teamId: null
+    team: AVERAGE
+    manager: AVERAGE
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 37
+  - rank: 11
+    teamId: 3104256
+    team: BMA
+    manager: Danijel Avlijas
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 32
+  - rank: 12
+    teamId: 2510766
+    team: KINDER MBUEMO
+    manager: Ilija Milisic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 28
   - rank: 13
     teamId: 1813312
     team: FC Believerz
@@ -496,13 +496,13 @@ q4:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 14
+    fplPoints: 27
   - rank: 14
-    teamId: 2510766
-    team: KINDER MBUEMO
-    manager: Ilija Milisic
+    teamId: 2698398
+    team: WinninThePoo
+    manager: D Lukic
     wins: 0
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 14
+    fplPoints: 21
