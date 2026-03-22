@@ -388,17 +388,8 @@ q4:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 102
+    fplPoints: 126
   - rank: 2
-    teamId: 1388247
-    team: FC Jerked Me Back In
-    manager: Ivan J
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 100
-  - rank: 3
     teamId: 178496
     team: JFC
     manager: Filip Jeremic
@@ -406,26 +397,17 @@ q4:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 99
+    fplPoints: 125
+  - rank: 3
+    teamId: 1388247
+    team: FC Jerked Me Back In
+    manager: Ivan J
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 120
   - rank: 4
-    teamId: 3104256
-    team: BMA
-    manager: Danijel Avlijas
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 67
-  - rank: 5
-    teamId: 74035
-    team: P A R T I Z A N
-    manager: Bojan Samardzija
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 63
-  - rank: 6
     teamId: 2510766
     team: KINDER MBUEMO
     manager: Ilija Milisic
@@ -433,8 +415,17 @@ q4:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 60
-  - rank: 7
+    fplPoints: 88
+  - rank: 5
+    teamId: 3104256
+    team: BMA
+    manager: Danijel Avlijas
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 86
+  - rank: 6
     teamId: 9268090
     team: milisic fc
     manager: Petar Milisic
@@ -442,7 +433,16 @@ q4:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 60
+    fplPoints: 79
+  - rank: 7
+    teamId: 74035
+    team: P A R T I Z A N
+    manager: Bojan Samardzija
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 78
   - rank: 8
     teamId: 218545
     team: Restored
@@ -451,7 +451,7 @@ q4:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 99
+    fplPoints: 126
   - rank: 9
     teamId: 2275553
     team: Rolo FC
@@ -460,16 +460,16 @@ q4:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 79
+    fplPoints: 104
   - rank: 10
-    teamId: 4151233
-    team: FK Vikdam
-    manager: Juka Alimanovic
+    teamId: 1973444
+    team: DELIJE UNITED
+    manager: Arandjel Djuric
     wins: 0
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 77
+    fplPoints: 98
   - rank: 11
     teamId: 1813312
     team: FC Believerz
@@ -478,16 +478,16 @@ q4:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 71
+    fplPoints: 92
   - rank: 12
-    teamId: 1973444
-    team: DELIJE UNITED
-    manager: Arandjel Djuric
+    teamId: 4151233
+    team: FK Vikdam
+    manager: Juka Alimanovic
     wins: 0
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 69
+    fplPoints: 87
   - rank: 13
     teamId: null
     team: AVERAGE
@@ -496,7 +496,7 @@ q4:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 53
+    fplPoints: 67
   - rank: 14
     teamId: 2698398
     team: WinninThePoo
@@ -505,4 +505,4 @@ q4:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 23
+    fplPoints: 41
