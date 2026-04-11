@@ -381,6 +381,15 @@ q3:
     fplPoints: 426
 q4:
   - rank: 1
+    teamId: 178496
+    team: JFC
+    manager: Filip Jeremic
+    wins: 2
+    draws: 0
+    losses: 0
+    points: 6
+    fplPoints: 142
+  - rank: 2
     teamId: 1388247
     team: FC Jerked Me Back In
     manager: Ivan J
@@ -389,7 +398,7 @@ q4:
     losses: 0
     points: 6
     fplPoints: 135
-  - rank: 2
+  - rank: 3
     teamId: 856142
     team: FK Panic
     manager: Stefan Panic
@@ -398,15 +407,6 @@ q4:
     losses: 0
     points: 6
     fplPoints: 132
-  - rank: 3
-    teamId: 178496
-    team: JFC
-    manager: Filip Jeremic
-    wins: 2
-    draws: 0
-    losses: 0
-    points: 6
-    fplPoints: 128
   - rank: 4
     teamId: 74035
     team: P A R T I Z A N
@@ -424,7 +424,7 @@ q4:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 148
+    fplPoints: 136
   - rank: 6
     teamId: 2275553
     team: Rolo FC
@@ -433,7 +433,7 @@ q4:
     draws: 0
     losses: 1
     points: 3
-    fplPoints: 114
+    fplPoints: 128
   - rank: 7
     teamId: 1973444
     team: DELIJE UNITED
@@ -496,7 +496,7 @@ q4:
     draws: 0
     losses: 2
     points: 0
-    fplPoints: 81
+    fplPoints: 82
   - rank: 14
     teamId: 2698398
     team: WinninThePoo
