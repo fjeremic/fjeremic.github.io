@@ -415,7 +415,7 @@ q4:
     draws: 0
     losses: 0
     points: 9
-    fplPoints: 201
+    fplPoints: 202
   - rank: 5
     teamId: 2510766
     team: KINDER MBUEMO
@@ -424,7 +424,7 @@ q4:
     draws: 0
     losses: 1
     points: 6
-    fplPoints: 232
+    fplPoints: 233
   - rank: 6
     teamId: 9268090
     team: milisic fc
@@ -460,7 +460,7 @@ q4:
     draws: 0
     losses: 2
     points: 3
-    fplPoints: 222
+    fplPoints: 223
   - rank: 10
     teamId: 1973444
     team: DELIJE UNITED
@@ -496,7 +496,7 @@ q4:
     draws: 0
     losses: 3
     points: 0
-    fplPoints: 175
+    fplPoints: 176
   - rank: 14
     teamId: null
     team: AVERAGE
@@ -505,4 +505,4 @@ q4:
     draws: 0
     losses: 3
     points: 0
-    fplPoints: 164
+    fplPoints: 166
