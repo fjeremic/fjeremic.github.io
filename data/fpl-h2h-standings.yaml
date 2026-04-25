@@ -388,7 +388,7 @@ q4:
     draws: 0
     losses: 0
     points: 12
-    fplPoints: 326
+    fplPoints: 339
   - rank: 2
     teamId: 856142
     team: FK Panic
@@ -406,7 +406,7 @@ q4:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 281
+    fplPoints: 290
   - rank: 4
     teamId: 2510766
     team: KINDER MBUEMO
@@ -415,7 +415,7 @@ q4:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 273
+    fplPoints: 278
   - rank: 5
     teamId: 74035
     team: P A R T I Z A N
@@ -426,6 +426,15 @@ q4:
     points: 9
     fplPoints: 237
   - rank: 6
+    teamId: 3104256
+    team: BMA
+    manager: Danijel Avlijas
+    wins: 2
+    draws: 0
+    losses: 2
+    points: 6
+    fplPoints: 271
+  - rank: 7
     teamId: 2275553
     team: Rolo FC
     manager: Branko Oluic
@@ -433,8 +442,8 @@ q4:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 272
-  - rank: 7
+    fplPoints: 268
+  - rank: 8
     teamId: 1973444
     team: DELIJE UNITED
     manager: Arandjel Djuric
@@ -443,15 +452,6 @@ q4:
     losses: 2
     points: 6
     fplPoints: 259
-  - rank: 8
-    teamId: 3104256
-    team: BMA
-    manager: Danijel Avlijas
-    wins: 2
-    draws: 0
-    losses: 2
-    points: 6
-    fplPoints: 258
   - rank: 9
     teamId: 9268090
     team: milisic fc
@@ -469,7 +469,7 @@ q4:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 263
+    fplPoints: 239
   - rank: 11
     teamId: 2698398
     team: WinninThePoo
@@ -487,7 +487,7 @@ q4:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 187
+    fplPoints: 202
   - rank: 13
     teamId: 4151233
     team: FK Vikdam
@@ -496,7 +496,7 @@ q4:
     draws: 0
     losses: 4
     points: 0
-    fplPoints: 217
+    fplPoints: 215
   - rank: 14
     teamId: null
     team: AVERAGE
@@ -505,4 +505,4 @@ q4:
     draws: 0
     losses: 4
     points: 0
-    fplPoints: 193
+    fplPoints: 196
