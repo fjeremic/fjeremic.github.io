@@ -388,7 +388,7 @@ q4:
     draws: 0
     losses: 0
     points: 12
-    fplPoints: 339
+    fplPoints: 385
   - rank: 2
     teamId: 856142
     team: FK Panic
@@ -397,7 +397,7 @@ q4:
     draws: 0
     losses: 0
     points: 12
-    fplPoints: 324
+    fplPoints: 371
   - rank: 3
     teamId: 1388247
     team: FC Jerked Me Back In
@@ -406,7 +406,7 @@ q4:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 290
+    fplPoints: 334
   - rank: 4
     teamId: 2510766
     team: KINDER MBUEMO
@@ -415,7 +415,7 @@ q4:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 278
+    fplPoints: 295
   - rank: 5
     teamId: 74035
     team: P A R T I Z A N
@@ -424,17 +424,8 @@ q4:
     draws: 0
     losses: 1
     points: 9
-    fplPoints: 237
+    fplPoints: 279
   - rank: 6
-    teamId: 3104256
-    team: BMA
-    manager: Danijel Avlijas
-    wins: 2
-    draws: 0
-    losses: 2
-    points: 6
-    fplPoints: 271
-  - rank: 7
     teamId: 2275553
     team: Rolo FC
     manager: Branko Oluic
@@ -442,7 +433,16 @@ q4:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 268
+    fplPoints: 316
+  - rank: 7
+    teamId: 3104256
+    team: BMA
+    manager: Danijel Avlijas
+    wins: 2
+    draws: 0
+    losses: 2
+    points: 6
+    fplPoints: 306
   - rank: 8
     teamId: 1973444
     team: DELIJE UNITED
@@ -451,7 +451,7 @@ q4:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 259
+    fplPoints: 291
   - rank: 9
     teamId: 9268090
     team: milisic fc
@@ -460,7 +460,7 @@ q4:
     draws: 0
     losses: 2
     points: 6
-    fplPoints: 215
+    fplPoints: 219
   - rank: 10
     teamId: 218545
     team: Restored
@@ -469,7 +469,7 @@ q4:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 239
+    fplPoints: 303
   - rank: 11
     teamId: 2698398
     team: WinninThePoo
@@ -478,7 +478,7 @@ q4:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 234
+    fplPoints: 272
   - rank: 12
     teamId: 1813312
     team: FC Believerz
@@ -487,7 +487,7 @@ q4:
     draws: 0
     losses: 3
     points: 3
-    fplPoints: 202
+    fplPoints: 246
   - rank: 13
     teamId: 4151233
     team: FK Vikdam
@@ -496,7 +496,7 @@ q4:
     draws: 0
     losses: 4
     points: 0
-    fplPoints: 215
+    fplPoints: 234
   - rank: 14
     teamId: null
     team: AVERAGE
@@ -505,4 +505,4 @@ q4:
     draws: 0
     losses: 4
     points: 0
-    fplPoints: 196
+    fplPoints: 218
