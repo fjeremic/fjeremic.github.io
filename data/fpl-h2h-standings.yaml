@@ -381,6 +381,15 @@ q3:
     fplPoints: 426
 q4:
   - rank: 1
+    teamId: 856142
+    team: FK Panic
+    manager: Stefan Panic
+    wins: 5
+    draws: 1
+    losses: 0
+    points: 16
+    fplPoints: 514
+  - rank: 2
     teamId: 178496
     team: JFC
     manager: Filip Jeremic
@@ -389,15 +398,6 @@ q4:
     losses: 0
     points: 16
     fplPoints: 512
-  - rank: 2
-    teamId: 856142
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 5
-    draws: 1
-    losses: 0
-    points: 16
-    fplPoints: 507
   - rank: 3
     teamId: 1388247
     team: FC Jerked Me Back In
@@ -406,7 +406,7 @@ q4:
     draws: 0
     losses: 1
     points: 15
-    fplPoints: 471
+    fplPoints: 478
   - rank: 4
     teamId: 74035
     team: P A R T I Z A N
@@ -433,7 +433,7 @@ q4:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 395
+    fplPoints: 398
   - rank: 7
     teamId: 1813312
     team: FC Believerz
@@ -442,7 +442,7 @@ q4:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 348
+    fplPoints: 355
   - rank: 8
     teamId: 3104256
     team: BMA
@@ -451,7 +451,7 @@ q4:
     draws: 1
     losses: 3
     points: 7
-    fplPoints: 435
+    fplPoints: 438
   - rank: 9
     teamId: 2275553
     team: Rolo FC
@@ -460,7 +460,7 @@ q4:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 464
+    fplPoints: 474
   - rank: 10
     teamId: 1973444
     team: DELIJE UNITED
@@ -478,7 +478,7 @@ q4:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 415
+    fplPoints: 417
   - rank: 12
     teamId: 4151233
     team: FK Vikdam
@@ -505,4 +505,4 @@ q4:
     draws: 1
     losses: 5
     points: 1
-    fplPoints: 328
+    fplPoints: 329
