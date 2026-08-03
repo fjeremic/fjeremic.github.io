@@ -39,14 +39,32 @@ If a cup match is drawn, then the following tie-breaks will be applied until a w
 ### Payout Structure
 
 The following payout structure will be used to distribute the funds collected on the last day of the current Fantasy
-Premier League season:
+Premier League season. Before any season-end prizes are awarded, **$500** will be deducted from the total pot to
+fund the monthly Manager of the Month awards. The remaining pot will then be distributed as follows:
 
-|                   | Payout       | 
-|:-----------------:|:------------:|
-| 1<sup>st</sup>    | 50% of pot   |
-| 2<sup>nd</sup>    | 25% of pot   |
-| 3<sup>rd</sup>    | 10% of pot   |
-| League Cup Winner | 15% of pot   |
+|                   | Payout                    | Winner                               |
+|:-----------------:|:-------------------------:| ------------------------------------:|
+| 1<sup>st</sup>    | 60% of remaining pot      |                                      |
+| 2<sup>nd</sup>    | 25% of remaining pot      |                                      |
+| League Cup Winner | 15% of remaining pot      |                                      |
+
+### Manager of the Month
+
+A **$50** award will be paid each month to the manager with the highest total score across the Game Weeks that fall
+within that month. These awards are funded from the **$500** deducted from the total pot.
+
+| Month     | Game Weeks (inclusive) | # Of Weeks In Month | Winner                               |
+|:---------:|:----------------------:|:-------------------:| ------------------------------------:|
+| August    | GW1 - GW2              | 2                   |                                      |
+| September | GW3 - GW5              | 3                   |                                      |
+| October   | GW6 - GW9              | 4                   |                                      |
+| November  | GW10 - GW12            | 3                   |                                      |
+| December  | GW13 - GW18            | 6                   |                                      |
+| January   | GW19 - GW23            | 5                   |                                      |
+| February  | GW24 - GW27            | 4                   |                                      |
+| March     | GW28 - GW30            | 3                   |                                      |
+| April     | GW31 - GW33            | 3                   |                                      |
+| May       | GW34 - GW38            | 5                   |                                      |
 
 ## Payment
 

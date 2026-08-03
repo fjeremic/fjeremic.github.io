@@ -58,13 +58,12 @@ The following payout structure will be used to distribute the funds collected at
 winner is the winner of the official Head-To-Head league as dictated by the official rules (the first place head-to-head
 finisher at the end of the season).
 
-|                               | Payout       | 
-|:-----------------------------:|:------------:|
-| 1<sup>st</sup> quarter winner | 20% of pot   |
-| 2<sup>nd</sup> quarter winner | 20% of pot   |
-| 3<sup>rd</sup> quarter winner | 20% of pot   |
-| 4<sup>th</sup> quarter winner | 20% of pot   |
-| Overall winner                | 20% of pot   |
+|                               | Payout       | Winner                               |
+|:-----------------------------:|:------------:| ------------------------------------:|
+| 1<sup>st</sup> quarter winner | 25% of pot   |                                      |
+| 2<sup>nd</sup> quarter winner | 25% of pot   |                                      |
+| 3<sup>rd</sup> quarter winner | 25% of pot   |                                      |
+| 4<sup>th</sup> quarter winner | 25% of pot   |                                      |
 
 ## Payment
 
