@@ -26,6 +26,10 @@ classic:
       manager: Marko Cholich
       playmentDue: $100
       paymentStatus: Paid
+    - team: PLEASE JOIN LEAGUE
+      manager: Diogen Lukic
+      playmentDue: $100
+      paymentStatus: Paid
 h2h:
   name: Head-To-Head League
   standings: https://fantasy.premierleague.com/leagues/557123/standings/h
@@ -50,6 +54,10 @@ h2h:
       manager: Stefan Panic
       playmentDue: $100
       paymentStatus: Paid
+    - team: PLEASE JOIN LEAGUE
+      manager: Diogen Lukic
+      playmentDue: $100
+      paymentStatus: Paid
 lms:
   name: Last Man Standing League
   standings: https://fantasy.premierleague.com/leagues/557122/standings/c
@@ -68,5 +76,9 @@ lms:
       paymentStatus: Paid
     - team: FK Panic
       manager: Stefan Panic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: PLEASE JOIN LEAGUE
+      manager: Diogen Lukic
       playmentDue: $50
       paymentStatus: Paid
