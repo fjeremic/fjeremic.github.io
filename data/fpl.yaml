@@ -30,6 +30,22 @@ classic:
       manager: Diogen Lukic
       playmentDue: $100
       paymentStatus: Paid
+    - team: P A R T I Z A N
+      manager: Bojan Samardzija
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Ballon d'Orgu
+      manager: Ilija Milisic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Milan's Team
+      manager: Milan Stjepanovic
+      playmentDue: $100
+      paymentStatus: Not Paid
+    - team: DeeKay
+      manager: Dee Kay
+      playmentDue: $100
+      paymentStatus: Not Paid
 h2h:
   name: Head-To-Head League
   standings: https://fantasy.premierleague.com/leagues/557123/standings/h
@@ -58,6 +74,18 @@ h2h:
       manager: Diogen Lukic
       playmentDue: $100
       paymentStatus: Paid
+    - team: P A R T I Z A N
+      manager: Bojan Samardzija
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Ballon d'Orgu
+      manager: Ilija Milisic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: DeeKay
+      manager: Dee Kay
+      playmentDue: $100
+      paymentStatus: Not Paid
 lms:
   name: Last Man Standing League
   standings: https://fantasy.premierleague.com/leagues/557122/standings/c
@@ -80,5 +108,13 @@ lms:
       paymentStatus: Paid
     - team: PLEASE JOIN LEAGUE
       manager: Diogen Lukic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: P A R T I Z A N
+      manager: Bojan Samardzija
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: Ballon d'Orgu
+      manager: Ilija Milisic
       playmentDue: $50
       paymentStatus: Paid
