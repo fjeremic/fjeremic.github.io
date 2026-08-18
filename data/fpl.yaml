@@ -26,7 +26,7 @@ classic:
       manager: Marko Cholich
       playmentDue: $100
       paymentStatus: Paid
-    - team: PLEASE JOIN LEAGUE
+    - team: WinninThePoo
       manager: Diogen Lukic
       playmentDue: $100
       paymentStatus: Paid
@@ -36,6 +36,10 @@ classic:
       paymentStatus: Paid
     - team: Ballon d'Orgu
       manager: Ilija Milisic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Branko's Team
+      manager: Branko Oluic
       playmentDue: $100
       paymentStatus: Paid
     - team: Milan's Team
@@ -70,7 +74,7 @@ h2h:
       manager: Stefan Panic
       playmentDue: $100
       paymentStatus: Paid
-    - team: PLEASE JOIN LEAGUE
+    - team: WinninThePoo
       manager: Diogen Lukic
       playmentDue: $100
       paymentStatus: Paid
@@ -80,6 +84,10 @@ h2h:
       paymentStatus: Paid
     - team: Ballon d'Orgu
       manager: Ilija Milisic
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: Branko's Team
+      manager: Branko Oluic
       playmentDue: $100
       paymentStatus: Paid
     - team: DeeKay
@@ -106,7 +114,7 @@ lms:
       manager: Stefan Panic
       playmentDue: $50
       paymentStatus: Paid
-    - team: PLEASE JOIN LEAGUE
+    - team: WinninThePoo
       manager: Diogen Lukic
       playmentDue: $50
       paymentStatus: Paid
@@ -116,5 +124,9 @@ lms:
       paymentStatus: Paid
     - team: Ballon d'Orgu
       manager: Ilija Milisic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: Branko's Team
+      manager: Branko Oluic
       playmentDue: $50
       paymentStatus: Paid
