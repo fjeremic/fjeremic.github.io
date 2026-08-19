@@ -42,6 +42,10 @@ classic:
       manager: Branko Oluic
       playmentDue: $100
       paymentStatus: Paid
+    - team: Gerrardović
+      manager: Dejan Grkovic
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Milan's Team
       manager: Milan Stjepanovic
       playmentDue: $100
