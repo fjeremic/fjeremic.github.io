@@ -50,6 +50,10 @@ classic:
       manager: Danijel Avlijas
       playmentDue: $100
       paymentStatus: Paid
+    - team: AJMO CA
+      manager: todor beric
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Milan's Team
       manager: Milan Stjepanovic
       playmentDue: $100
@@ -144,5 +148,9 @@ lms:
       paymentStatus: Paid
     - team: BMA
       manager: Danijel Avlijas
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: AJMO CA
+      manager: todor beric
       playmentDue: $50
       paymentStatus: Paid
