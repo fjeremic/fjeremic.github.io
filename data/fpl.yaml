@@ -46,6 +46,10 @@ classic:
       manager: Dejan Grkovic
       playmentDue: $100
       paymentStatus: Paid
+    - team: BMA
+      manager: Danijel Avlijas
+      playmentDue: $100
+      paymentStatus: Paid
     - team: Milan's Team
       manager: Milan Stjepanovic
       playmentDue: $100
@@ -94,6 +98,10 @@ h2h:
       manager: Branko Oluic
       playmentDue: $100
       paymentStatus: Paid
+    - team: BMA
+      manager: Danijel Avlijas
+      playmentDue: $100
+      paymentStatus: Paid
     - team: DeeKay
       manager: Dee Kay
       playmentDue: $100
@@ -132,5 +140,9 @@ lms:
       paymentStatus: Paid
     - team: Branko's Team
       manager: Branko Oluic
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: BMA
+      manager: Danijel Avlijas
       playmentDue: $50
       paymentStatus: Paid
