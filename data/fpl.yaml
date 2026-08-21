@@ -57,9 +57,13 @@ classic:
     - team: Milan's Team
       manager: Milan Stjepanovic
       playmentDue: $100
-      paymentStatus: Not Paid
+      paymentStatus: Paid
     - team: BMA
       manager: Baddest Man Alive
+      playmentDue: $100
+      paymentStatus: Paid
+    - team: INDABOSKI
+      manager: Chibueze Obiefuna
       playmentDue: $100
       paymentStatus: Paid
 h2h:
