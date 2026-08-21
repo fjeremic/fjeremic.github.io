@@ -114,6 +114,10 @@ h2h:
       manager: Baddest Man Alive
       playmentDue: $100
       paymentStatus: Paid
+    - team: Antifa FC
+      manager: Joe Costa
+      playmentDue: $100
+      paymentStatus: Not Paid
 lms:
   name: Last Man Standing League
   standings: https://fantasy.premierleague.com/leagues/557122/standings/c
