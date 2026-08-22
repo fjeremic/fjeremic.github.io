@@ -4,6 +4,22 @@ import logging
 import requests
 import yaml
 
+
+def fetch_json(session, url, description):
+    response = session.get(url, timeout=30)
+
+    try:
+        payload = response.json()
+    except ValueError as exc:
+        raise RuntimeError(f"Could not decode {description} response for {url}: {response.text[:500]}") from exc
+
+    if response.status_code != 200:
+        detail = payload.get("detail") if isinstance(payload, dict) else payload
+        raise RuntimeError(f"FPL {description} request failed for {url} (HTTP {response.status_code}): {detail}")
+
+    return payload
+
+
 def get_quarter_standings(players, gameweeks):
     standings = []
     for player in players:
@@ -82,7 +98,8 @@ if __name__ == "__main__":
     session = requests.Session()
 
     logging.debug("Fetching standings")
-    data = session.get(f"https://fantasy.premierleague.com/api/leagues-h2h/{args.league_id}/standings").json()
+    standings_url = f"https://fantasy.premierleague.com/api/leagues-h2h/{args.league_id}/standings/"
+    data = fetch_json(session, standings_url, "standings")
 
     # Parse all the players
     players = data["standings"]["results"]
@@ -93,7 +110,7 @@ if __name__ == "__main__":
 
     for page in itertools.count(1):
         logging.debug(f"Fetching fixtures on page {page}")
-        page_data = session.get(fixtures_url.format(page)).json()["results"]
+        page_data = fetch_json(session, fixtures_url.format(page), f"fixtures page {page}")["results"]
 
         if page_data:
             fixtures.extend(page_data)
