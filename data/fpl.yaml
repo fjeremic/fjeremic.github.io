@@ -66,6 +66,10 @@ classic:
       manager: Chibueze Obiefuna
       playmentDue: $100
       paymentStatus: Paid
+    - team: Loading
+      manager: My Name
+      playmentDue: $100
+      paymentStatus: Paid
 h2h:
   name: Head-To-Head League
   standings: https://fantasy.premierleague.com/leagues/557123/standings/h
@@ -160,5 +164,9 @@ lms:
       paymentStatus: Paid
     - team: AJMO CA
       manager: todor beric
+      playmentDue: $50
+      paymentStatus: Paid
+    - team: Loading
+      manager: My Name
       playmentDue: $50
       paymentStatus: Paid
