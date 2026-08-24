@@ -7,17 +7,8 @@ q1:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 70
+    fplPoints: 78
   - rank: 2
-    teamId: 130400
-    team: JFC
-    manager: Filip Jeremic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 38
-  - rank: 3
     teamId: 2621209
     team: WinninThePoo
     manager: D Lukic
@@ -25,26 +16,8 @@ q1:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 38
-  - rank: 4
-    teamId: 75617
-    team: P A R T I Z A N
-    manager: Bojan Samardzija
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 37
-  - rank: 5
-    teamId: 101441
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 36
-  - rank: 6
+    fplPoints: 65
+  - rank: 3
     teamId: 2980818
     team: BMA
     manager: Danijel Avlijas
@@ -52,8 +25,17 @@ q1:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 36
-  - rank: 7
+    fplPoints: 57
+  - rank: 4
+    teamId: 130400
+    team: JFC
+    manager: Filip Jeremic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 54
+  - rank: 5
     teamId: 5265020
     team: Rolo FC
     manager: Branko Oluic
@@ -61,7 +43,25 @@ q1:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 35
+    fplPoints: 53
+  - rank: 6
+    teamId: 101441
+    team: FK Panic
+    manager: Stefan Panic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 50
+  - rank: 7
+    teamId: 75617
+    team: P A R T I Z A N
+    manager: Bojan Samardzija
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 49
   - rank: 8
     teamId: 2122818
     team: "Ballon d\u2019Orgu"
@@ -70,7 +70,7 @@ q1:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 34
+    fplPoints: 44
   - rank: 9
     teamId: 1116386
     team: DELIJE UNITED
@@ -79,7 +79,7 @@ q1:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 29
+    fplPoints: 39
   - rank: 10
     teamId: null
     team: AVERAGE
@@ -88,7 +88,7 @@ q1:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 23
+    fplPoints: 36
   - rank: 11
     teamId: 2368852
     team: Antifa FC
@@ -97,7 +97,7 @@ q1:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 22
+    fplPoints: 28
   - rank: 12
     teamId: 3152948
     team: FK Vikdam
@@ -106,7 +106,7 @@ q1:
     draws: 0
     losses: 0
     points: 0
-    fplPoints: 21
+    fplPoints: 27
 q2:
   - rank: 1
     teamId: null
