@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 115
+    fplPoints: 120
   - rank: 2
     teamId: 2621209
     team: WinninThePoo
@@ -16,17 +16,8 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 86
+    fplPoints: 99
   - rank: 3
-    teamId: 130400
-    team: JFC
-    manager: Filip Jeremic
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 78
-  - rank: 4
     teamId: 75617
     team: P A R T I Z A N
     manager: Bojan Samardzija
@@ -34,17 +25,8 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 78
-  - rank: 5
-    teamId: 101441
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 74
-  - rank: 6
+    fplPoints: 96
+  - rank: 4
     teamId: 2368852
     team: Antifa FC
     manager: Joe Costa
@@ -52,7 +34,25 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 68
+    fplPoints: 90
+  - rank: 5
+    teamId: 130400
+    team: JFC
+    manager: Filip Jeremic
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 83
+  - rank: 6
+    teamId: 101441
+    team: FK Panic
+    manager: Stefan Panic
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 79
   - rank: 7
     teamId: 2980818
     team: BMA
@@ -61,17 +61,8 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 86
+    fplPoints: 94
   - rank: 8
-    teamId: 5265020
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
-    fplPoints: 77
-  - rank: 9
     teamId: 1116386
     team: DELIJE UNITED
     manager: Arandjel Djuric
@@ -79,7 +70,16 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 76
+    fplPoints: 84
+  - rank: 9
+    teamId: 5265020
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 82
   - rank: 10
     teamId: 3152948
     team: FK Vikdam
@@ -88,7 +88,7 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 72
+    fplPoints: 82
   - rank: 11
     teamId: null
     team: AVERAGE
@@ -97,7 +97,7 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 68
+    fplPoints: 79
   - rank: 12
     teamId: 2122818
     team: "Ballon d\u2019Orgu"
@@ -106,7 +106,7 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 62
+    fplPoints: 71
 q2:
   - rank: 1
     teamId: 102814
