@@ -1,13 +1,13 @@
 q1:
   - rank: 1
-    teamId: 102814
-    team: BMA
-    manager: Baddest Man Alive
+    teamId: 130400
+    team: JFC
+    manager: Filip Jeremic
     wins: 1
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 120
+    fplPoints: 170
   - rank: 2
     teamId: 2621209
     team: WinninThePoo
@@ -16,35 +16,8 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 99
+    fplPoints: 165
   - rank: 3
-    teamId: 75617
-    team: P A R T I Z A N
-    manager: Bojan Samardzija
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 96
-  - rank: 4
-    teamId: 2368852
-    team: Antifa FC
-    manager: Joe Costa
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 90
-  - rank: 5
-    teamId: 130400
-    team: JFC
-    manager: Filip Jeremic
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 83
-  - rank: 6
     teamId: 101441
     team: FK Panic
     manager: Stefan Panic
@@ -52,7 +25,34 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 79
+    fplPoints: 161
+  - rank: 4
+    teamId: 102814
+    team: BMA
+    manager: Baddest Man Alive
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 145
+  - rank: 5
+    teamId: 75617
+    team: P A R T I Z A N
+    manager: Bojan Samardzija
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 125
+  - rank: 6
+    teamId: 2368852
+    team: Antifa FC
+    manager: Joe Costa
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 116
   - rank: 7
     teamId: 2980818
     team: BMA
@@ -61,17 +61,8 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 94
+    fplPoints: 170
   - rank: 8
-    teamId: 1116386
-    team: DELIJE UNITED
-    manager: Arandjel Djuric
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
-    fplPoints: 84
-  - rank: 9
     teamId: 5265020
     team: Rolo FC
     manager: Branko Oluic
@@ -79,26 +70,17 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 82
+    fplPoints: 159
+  - rank: 9
+    teamId: 1116386
+    team: DELIJE UNITED
+    manager: Arandjel Djuric
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 146
   - rank: 10
-    teamId: 3152948
-    team: FK Vikdam
-    manager: Juka Alimanovic
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
-    fplPoints: 82
-  - rank: 11
-    teamId: null
-    team: AVERAGE
-    manager: AVERAGE
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
-    fplPoints: 79
-  - rank: 12
     teamId: 2122818
     team: "Ballon d\u2019Orgu"
     manager: Ilija Milisic
@@ -106,7 +88,25 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 71
+    fplPoints: 135
+  - rank: 11
+    teamId: 3152948
+    team: FK Vikdam
+    manager: Juka Alimanovic
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 122
+  - rank: 12
+    teamId: null
+    team: AVERAGE
+    manager: AVERAGE
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 116
 q2:
   - rank: 1
     teamId: 102814
