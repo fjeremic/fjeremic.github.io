@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 170
+    fplPoints: 188
   - rank: 2
     teamId: 2621209
     team: WinninThePoo
@@ -16,7 +16,7 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 165
+    fplPoints: 183
   - rank: 3
     teamId: 101441
     team: FK Panic
@@ -25,7 +25,7 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 161
+    fplPoints: 179
   - rank: 4
     teamId: 102814
     team: BMA
@@ -34,7 +34,7 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 145
+    fplPoints: 175
   - rank: 5
     teamId: 75617
     team: P A R T I Z A N
@@ -43,7 +43,7 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 125
+    fplPoints: 144
   - rank: 6
     teamId: 2368852
     team: Antifa FC
@@ -52,7 +52,7 @@ q1:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 116
+    fplPoints: 133
   - rank: 7
     teamId: 2980818
     team: BMA
@@ -61,7 +61,7 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 170
+    fplPoints: 187
   - rank: 8
     teamId: 5265020
     team: Rolo FC
@@ -70,7 +70,7 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 159
+    fplPoints: 170
   - rank: 9
     teamId: 1116386
     team: DELIJE UNITED
@@ -79,7 +79,7 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 146
+    fplPoints: 157
   - rank: 10
     teamId: 2122818
     team: "Ballon d\u2019Orgu"
@@ -88,17 +88,8 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 135
+    fplPoints: 146
   - rank: 11
-    teamId: 3152948
-    team: FK Vikdam
-    manager: Juka Alimanovic
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
-    fplPoints: 122
-  - rank: 12
     teamId: null
     team: AVERAGE
     manager: AVERAGE
@@ -106,7 +97,16 @@ q1:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 116
+    fplPoints: 131
+  - rank: 12
+    teamId: 3152948
+    team: FK Vikdam
+    manager: Juka Alimanovic
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 125
 q2:
   - rank: 1
     teamId: 102814
