@@ -2,7 +2,6 @@
   <thead>
     <tr>
     <th class="text-left">Team</th>
-    <th class="text-left">Manager</th>
     <th class="text-center">Amount Due</th>
     <th class="text-right"></th>
     <th class="text-left">Status</th>
@@ -13,7 +12,6 @@
     {{ range $payments }}
       <tr>
         <td class="text-left">{{ index . "team" }}</td>
-        <td class="text-left">{{ index . "manager" }}</td>
         <td class="text-center">{{ index . "playmentDue" }}</td>
         {{ $status := index . "paymentStatus" }}
         {{ if eq $status "Paid"}}
