@@ -70,6 +70,10 @@ classic:
       manager: My Name
       playmentDue: $100
       paymentStatus: Paid
+    - team: Zoran's Team
+      manager: Zoran Crnogorac
+      playmentDue: $100
+      paymentStatus: Not Paid
 h2h:
   name: Head-To-Head League
   standings: https://fantasy.premierleague.com/leagues/557123/standings/h
