@@ -1,4 +1,4 @@
-name: fpl-h2h-standings-generate-push
+name: fpl-generate-push
 
 on:
   workflow_dispatch:
