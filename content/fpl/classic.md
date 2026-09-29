@@ -55,16 +55,16 @@ within that month. These awards are funded from the **$500** deducted from the t
 
 | Month     | Game Weeks (inclusive) | # Of Weeks In Month | Winner                               |
 |:---------:|:----------------------:|:-------------------:| ------------------------------------:|
-| August    | GW1 - GW2              | 2                   |                                      |
-| September | GW3 - GW5              | 3                   |                                      |
-| October   | GW6 - GW9              | 4                   |                                      |
-| November  | GW10 - GW12            | 3                   |                                      |
-| December  | GW13 - GW18            | 6                   |                                      |
-| January   | GW19 - GW23            | 5                   |                                      |
-| February  | GW24 - GW27            | 4                   |                                      |
-| March     | GW28 - GW30            | 3                   |                                      |
-| April     | GW31 - GW33            | 3                   |                                      |
-| May       | GW34 - GW38            | 5                   |                                      |
+| August    | GW1 - GW2              | 2                   | {{< fpl-manager-of-the-month "august" >}}    |
+| September | GW3 - GW5              | 3                   | {{< fpl-manager-of-the-month "september" >}} |
+| October   | GW6 - GW9              | 4                   | {{< fpl-manager-of-the-month "october" >}}   |
+| November  | GW10 - GW12            | 3                   | {{< fpl-manager-of-the-month "november" >}}  |
+| December  | GW13 - GW18            | 6                   | {{< fpl-manager-of-the-month "december" >}}  |
+| January   | GW19 - GW23            | 5                   | {{< fpl-manager-of-the-month "january" >}}   |
+| February  | GW24 - GW27            | 4                   | {{< fpl-manager-of-the-month "february" >}}  |
+| March     | GW28 - GW30            | 3                   | {{< fpl-manager-of-the-month "march" >}}     |
+| April     | GW31 - GW33            | 3                   | {{< fpl-manager-of-the-month "april" >}}     |
+| May       | GW34 - GW38            | 5                   | {{< fpl-manager-of-the-month "may" >}}       |
 
 ## Payment
 

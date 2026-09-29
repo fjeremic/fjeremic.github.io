@@ -1,0 +1,13 @@
+name: 'FPL Manager of the Month'
+description: 'Generate FPL classic league monthly winners in ./data/fpl-manager-of-the-month.yaml'
+runs:
+  using: 'docker'
+  image: '../../../Dockerfile'
+  args:
+    - python3
+    - scripts/fpl_manager_of_the_month.py
+    - -l
+    - 557117
+    - -o
+    - ./data/fpl-manager-of-the-month.yaml
+    - -v

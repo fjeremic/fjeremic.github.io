@@ -13,8 +13,10 @@ jobs:
         uses: actions/checkout@v2
         with:
           token: ${{ secrets.PAT_FPL }}
-      - name: Generate
+      - name: Generate H2H standings
         uses: ./.github/actions/fpl-h2h-standings
+      - name: Generate Manager of the Month
+        uses: ./.github/actions/fpl-manager-of-the-month
       - name: Get current date and time
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H-%m-%S')"
@@ -23,5 +25,5 @@ jobs:
           git config --global user.name "Filip Jeremic"
           git config --global user.email "filip@jeremic.ca"
           git add -A
-          git commit -m "Update FPL H2H standings ${{ steps.date.outputs.date }}" --allow-empty
+          git commit -m "Update FPL standings and monthly winners ${{ steps.date.outputs.date }}" --allow-empty
           git push
