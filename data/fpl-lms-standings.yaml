@@ -1,0 +1,50 @@
+h1:
+  roster:
+  - entry: 8838700
+    team: DeeKay
+    manager: Dee Kay
+  - entry: 2621209
+    team: WinninThePoo
+    manager: D Lukic
+  - entry: 130400
+    team: JFC
+    manager: Filip Jeremic
+  - entry: 2980818
+    team: BMA
+    manager: Danijel Avlijas
+  - entry: 167189
+    team: AJMO CA
+    manager: todor beric
+  - entry: 101441
+    team: FK Panic
+    manager: Stefan Panic
+  - entry: 75617
+    team: P A R T I Z A N
+    manager: Bojan Samardzija
+  - entry: 5265020
+    team: Rolo FC
+    manager: Branko Oluic
+  - entry: 3152948
+    team: FK Vikdam
+    manager: Juka Alimanovic
+  - entry: 2122818
+    team: Ballon d’Orgu
+    manager: Ilija Milisic
+  gameweeks:
+  - gameweek: 1
+    eliminated: []
+    remaining: 10
+  - gameweek: 2
+    eliminated: []
+    remaining: 10
+  - gameweek: 3
+    eliminated: []
+    remaining: 10
+  - gameweek: 4
+    eliminated: []
+    remaining: 10
+  - gameweek: 5
+    eliminated: []
+    remaining: 10
+  winner: null
+h2: {}

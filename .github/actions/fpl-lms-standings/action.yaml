@@ -1,0 +1,13 @@
+name: 'FPL LMS Standings'
+description: 'Generate LMS half-season standings in ./data/fpl-lms-standings.yaml'
+runs:
+  using: 'docker'
+  image: '../../../Dockerfile'
+  args:
+    - python3
+    - scripts/fpl_lms_standings.py
+    - -l
+    - 557122
+    - -o
+    - ./data/fpl-lms-standings.yaml
+    - -v

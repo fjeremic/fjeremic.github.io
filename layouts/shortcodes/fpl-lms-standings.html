@@ -1,0 +1,35 @@
+{{- $data := index (index .Site.Data "fpl-lms-standings") (.Get 0) -}}
+{{- if eq (.Get 1) "winner" -}}
+  {{- with $data.winner -}}{{ .team }} ({{ .manager }}){{- end -}}
+{{- else -}}
+<details class="mt-0 rounded-lg rtl:pr-5 ltr:pl-5 ltr:-ml-5 rtl:-mr-5 lg:mt-3"{{ if eq (.Get 0) "h1" }} open{{ end }}>
+  <summary class="block py-1 text-lg font-semibold cursor-pointer rtl:pr-5 ltr:pl-5 ltr:-ml-5 rtl:-mr-5 text-neutral-800
+  dark:text-neutral-100 bg-neutral-100 dark:bg-neutral-700">
+    {{ if eq (.Get 0) "h1" }}1st{{ else }}2nd{{ end }} Half-Season
+  </summary>
+  <div class="py-2 overflow-auto border-dotted ltr:border-l rtl:border-r rtl:pr-5 ltr:pl-5 ltr:-ml-5 rtl:-mr-5
+  border-neutral-300 dark:border-neutral-600">
+    <table class="table-auto">
+      <thead><tr>
+        <th class="text-left">Game Week</th>
+        <th class="text-left" title="Eliminated">&#128098;</th>
+        <th class="text-left">Remaining</th>
+      </tr></thead>
+      <tbody>
+        {{ range $data.gameweeks }}
+        <tr>
+          <td class="text-left">GW{{ .gameweek }}</td>
+          <td class="text-left">
+            {{ range .eliminated }}{{ .team }} ({{ .manager }})<br>{{ else }}-{{ end }}
+          </td>
+          <td class="text-left">{{ .remaining }}</td>
+        </tr>
+        {{ end }}
+        {{ with $data.winner }}
+        <tr><td class="text-left">Winner</td><td class="text-left">{{ .team }} ({{ .manager }})</td><td></td></tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+</details>
+{{- end -}}

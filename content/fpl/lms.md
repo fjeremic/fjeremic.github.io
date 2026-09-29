@@ -53,8 +53,8 @@ The pot will be split halfway, with the winner of each half-season receiving 50%
 
 |                                   | Payout     | Winner                               |
 |:---------------------------------:|:----------:| ------------------------------------:|
-| 1<sup>st</sup> half-season winner | 50% of pot |                                      |
-| 2<sup>nd</sup> half-season winner | 50% of pot |                                      |
+| 1<sup>st</sup> half-season winner | 50% of pot | {{< fpl-lms-standings "h1" "winner" >}} |
+| 2<sup>nd</sup> half-season winner | 50% of pot | {{< fpl-lms-standings "h2" "winner" >}} |
 
 ### Payment
 
@@ -64,3 +64,9 @@ Please send **{{< fpl-get-data "lms" "eTransferAmount" >}}** by {{< fpl-get-data
 include your Team name and Manager name in the description of the Interac e-Transfer.
 
 {{< fpl-payment-table "lms" >}}
+
+## Standings
+
+{{< fpl-lms-standings "h1" "table" >}}
+<br>
+{{< fpl-lms-standings "h2" "table" >}}

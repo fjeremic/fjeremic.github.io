@@ -4,6 +4,20 @@ import requests
 import yaml
 
 
+MONTHS = {
+    'august': (1, 2),
+    'september': (3, 5),
+    'october': (6, 9),
+    'november': (10, 12),
+    'december': (13, 18),
+    'january': (19, 23),
+    'february': (24, 27),
+    'march': (28, 30),
+    'april': (31, 33),
+    'may': (34, 38),
+}
+
+
 def fetch_json(session, url, description):
     response = session.get(url, timeout=30)
 
@@ -17,20 +31,6 @@ def fetch_json(session, url, description):
         raise RuntimeError(f"FPL {description} request failed for {url} (HTTP {response.status_code}): {detail}")
 
     return payload
-
-
-MONTHS = {
-    'august': (1, 2),
-    'september': (3, 5),
-    'october': (6, 9),
-    'november': (10, 12),
-    'december': (13, 18),
-    'january': (19, 23),
-    'february': (24, 27),
-    'march': (28, 30),
-    'april': (31, 33),
-    'may': (34, 38),
-}
 
 
 def get_winners(session, league_id):
