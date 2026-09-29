@@ -3,110 +3,110 @@ q1:
     teamId: 130400
     team: JFC
     manager: Filip Jeremic
-    wins: 2
+    wins: 4
     draws: 0
-    losses: 0
-    points: 6
-    fplPoints: 188
+    losses: 1
+    points: 12
+    fplPoints: 364
   - rank: 2
     teamId: 2621209
     team: WinninThePoo
     manager: D Lukic
+    wins: 3
+    draws: 0
+    losses: 2
+    points: 9
+    fplPoints: 371
+  - rank: 3
+    teamId: 102814
+    team: BMA
+    manager: Baddest Man Alive
+    wins: 3
+    draws: 0
+    losses: 2
+    points: 9
+    fplPoints: 355
+  - rank: 4
+    teamId: 2980818
+    team: BMA
+    manager: Danijel Avlijas
+    wins: 3
+    draws: 0
+    losses: 2
+    points: 9
+    fplPoints: 354
+  - rank: 5
+    teamId: 3152948
+    team: FK Vikdam
+    manager: Juka Alimanovic
+    wins: 3
+    draws: 0
+    losses: 2
+    points: 9
+    fplPoints: 306
+  - rank: 6
+    teamId: null
+    team: AVERAGE
+    manager: AVERAGE
+    wins: 3
+    draws: 0
+    losses: 2
+    points: 9
+    fplPoints: 299
+  - rank: 7
+    teamId: 2368852
+    team: Antifa FC
+    manager: Joe Costa
+    wins: 3
+    draws: 0
+    losses: 2
+    points: 9
+    fplPoints: 297
+  - rank: 8
+    teamId: 1116386
+    team: YNWA
+    manager: Uros Nikolic
     wins: 2
     draws: 0
-    losses: 0
+    losses: 3
     points: 6
-    fplPoints: 183
-  - rank: 3
+    fplPoints: 336
+  - rank: 9
     teamId: 101441
     team: FK Panic
     manager: Stefan Panic
     wins: 2
     draws: 0
-    losses: 0
+    losses: 3
     points: 6
-    fplPoints: 179
-  - rank: 4
-    teamId: 2368852
-    team: Antifa FC
-    manager: Joe Costa
-    wins: 2
-    draws: 0
-    losses: 0
-    points: 6
-    fplPoints: 133
-  - rank: 5
-    teamId: 2980818
-    team: BMA
-    manager: Danijel Avlijas
-    wins: 1
-    draws: 0
-    losses: 1
-    points: 3
-    fplPoints: 187
-  - rank: 6
-    teamId: 102814
-    team: BMA
-    manager: Baddest Man Alive
-    wins: 1
-    draws: 0
-    losses: 1
-    points: 3
-    fplPoints: 175
-  - rank: 7
+    fplPoints: 324
+  - rank: 10
     teamId: 75617
     team: P A R T I Z A N
     manager: Bojan Samardzija
-    wins: 1
+    wins: 2
     draws: 0
-    losses: 1
-    points: 3
-    fplPoints: 144
-  - rank: 8
-    teamId: 3152948
-    team: FK Vikdam
-    manager: Juka Alimanovic
-    wins: 1
-    draws: 0
-    losses: 1
-    points: 3
-    fplPoints: 125
-  - rank: 9
+    losses: 3
+    points: 6
+    fplPoints: 320
+  - rank: 11
     teamId: 5265020
     team: Rolo FC
     manager: Branko Oluic
-    wins: 0
+    wins: 1
     draws: 0
-    losses: 2
-    points: 0
-    fplPoints: 170
-  - rank: 10
-    teamId: 1116386
-    team: DELIJE UNITED
-    manager: Arandjel Djuric
-    wins: 0
-    draws: 0
-    losses: 2
-    points: 0
-    fplPoints: 157
-  - rank: 11
+    losses: 4
+    points: 3
+    fplPoints: 319
+  - rank: 12
     teamId: 2122818
     team: "Ballon d\u2019Orgu"
     manager: Ilija Milisic
-    wins: 0
+    wins: 1
     draws: 0
-    losses: 2
-    points: 0
-    fplPoints: 146
-  - rank: 12
-    teamId: null
-    team: AVERAGE
-    manager: AVERAGE
-    wins: 0
-    draws: 0
-    losses: 2
-    points: 0
-    fplPoints: 131
+    losses: 4
+    points: 3
+    fplPoints: 296
 q2:
   - rank: 1
     teamId: 130400
@@ -127,33 +127,6 @@ q2:
     points: 0
     fplPoints: 0
   - rank: 3
-    teamId: 101441
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 4
-    teamId: 2368852
-    team: Antifa FC
-    manager: Joe Costa
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 5
-    teamId: 2980818
-    team: BMA
-    manager: Danijel Avlijas
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 6
     teamId: 102814
     team: BMA
     manager: Baddest Man Alive
@@ -162,16 +135,16 @@ q2:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 7
-    teamId: 75617
-    team: P A R T I Z A N
-    manager: Bojan Samardzija
+  - rank: 4
+    teamId: 2980818
+    team: BMA
+    manager: Danijel Avlijas
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 8
+  - rank: 5
     teamId: 3152948
     team: FK Vikdam
     manager: Juka Alimanovic
@@ -180,7 +153,52 @@ q2:
     losses: 0
     points: 0
     fplPoints: 0
+  - rank: 6
+    teamId: null
+    team: AVERAGE
+    manager: AVERAGE
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 7
+    teamId: 2368852
+    team: Antifa FC
+    manager: Joe Costa
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 8
+    teamId: 1116386
+    team: YNWA
+    manager: Uros Nikolic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
   - rank: 9
+    teamId: 101441
+    team: FK Panic
+    manager: Stefan Panic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 10
+    teamId: 75617
+    team: P A R T I Z A N
+    manager: Bojan Samardzija
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 11
     teamId: 5265020
     team: Rolo FC
     manager: Branko Oluic
@@ -189,28 +207,10 @@ q2:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 10
-    teamId: 1116386
-    team: DELIJE UNITED
-    manager: Arandjel Djuric
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 11
+  - rank: 12
     teamId: 2122818
     team: "Ballon d\u2019Orgu"
     manager: Ilija Milisic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 12
-    teamId: null
-    team: AVERAGE
-    manager: AVERAGE
     wins: 0
     draws: 0
     losses: 0
@@ -236,33 +236,6 @@ q3:
     points: 0
     fplPoints: 0
   - rank: 3
-    teamId: 101441
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 4
-    teamId: 2368852
-    team: Antifa FC
-    manager: Joe Costa
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 5
-    teamId: 2980818
-    team: BMA
-    manager: Danijel Avlijas
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 6
     teamId: 102814
     team: BMA
     manager: Baddest Man Alive
@@ -271,16 +244,16 @@ q3:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 7
-    teamId: 75617
-    team: P A R T I Z A N
-    manager: Bojan Samardzija
+  - rank: 4
+    teamId: 2980818
+    team: BMA
+    manager: Danijel Avlijas
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 8
+  - rank: 5
     teamId: 3152948
     team: FK Vikdam
     manager: Juka Alimanovic
@@ -289,7 +262,52 @@ q3:
     losses: 0
     points: 0
     fplPoints: 0
+  - rank: 6
+    teamId: null
+    team: AVERAGE
+    manager: AVERAGE
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 7
+    teamId: 2368852
+    team: Antifa FC
+    manager: Joe Costa
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 8
+    teamId: 1116386
+    team: YNWA
+    manager: Uros Nikolic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
   - rank: 9
+    teamId: 101441
+    team: FK Panic
+    manager: Stefan Panic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 10
+    teamId: 75617
+    team: P A R T I Z A N
+    manager: Bojan Samardzija
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 11
     teamId: 5265020
     team: Rolo FC
     manager: Branko Oluic
@@ -298,28 +316,10 @@ q3:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 10
-    teamId: 1116386
-    team: DELIJE UNITED
-    manager: Arandjel Djuric
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 11
+  - rank: 12
     teamId: 2122818
     team: "Ballon d\u2019Orgu"
     manager: Ilija Milisic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 12
-    teamId: null
-    team: AVERAGE
-    manager: AVERAGE
     wins: 0
     draws: 0
     losses: 0
@@ -345,33 +345,6 @@ q4:
     points: 0
     fplPoints: 0
   - rank: 3
-    teamId: 101441
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 4
-    teamId: 2368852
-    team: Antifa FC
-    manager: Joe Costa
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 5
-    teamId: 2980818
-    team: BMA
-    manager: Danijel Avlijas
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 6
     teamId: 102814
     team: BMA
     manager: Baddest Man Alive
@@ -380,16 +353,16 @@ q4:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 7
-    teamId: 75617
-    team: P A R T I Z A N
-    manager: Bojan Samardzija
+  - rank: 4
+    teamId: 2980818
+    team: BMA
+    manager: Danijel Avlijas
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 8
+  - rank: 5
     teamId: 3152948
     team: FK Vikdam
     manager: Juka Alimanovic
@@ -398,34 +371,7 @@ q4:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 9
-    teamId: 5265020
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 10
-    teamId: 1116386
-    team: DELIJE UNITED
-    manager: Arandjel Djuric
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 11
-    teamId: 2122818
-    team: "Ballon d\u2019Orgu"
-    manager: Ilija Milisic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 12
+  - rank: 6
     teamId: null
     team: AVERAGE
     manager: AVERAGE
@@ -434,3 +380,63 @@ q4:
     losses: 0
     points: 0
     fplPoints: 0
+  - rank: 7
+    teamId: 2368852
+    team: Antifa FC
+    manager: Joe Costa
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 8
+    teamId: 1116386
+    team: YNWA
+    manager: Uros Nikolic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 9
+    teamId: 101441
+    team: FK Panic
+    manager: Stefan Panic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 10
+    teamId: 75617
+    team: P A R T I Z A N
+    manager: Bojan Samardzija
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 11
+    teamId: 5265020
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 12
+    teamId: 2122818
+    team: "Ballon d\u2019Orgu"
+    manager: Ilija Milisic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+winners:
+  q1: []
+  q2: []
+  q3: []
+  q4: []
+activeQuarter: q1

@@ -60,10 +60,10 @@ finisher at the end of the season).
 
 |                               | Payout       | Winner                               |
 |:-----------------------------:|:------------:| ------------------------------------:|
-| 1<sup>st</sup> quarter winner | 25% of pot   |                                      |
-| 2<sup>nd</sup> quarter winner | 25% of pot   |                                      |
-| 3<sup>rd</sup> quarter winner | 25% of pot   |                                      |
-| 4<sup>th</sup> quarter winner | 25% of pot   |                                      |
+| 1<sup>st</sup> quarter winner | 25% of pot   | {{< fpl-h2h-winner "q1" >}}           |
+| 2<sup>nd</sup> quarter winner | 25% of pot   | {{< fpl-h2h-winner "q2" >}}           |
+| 3<sup>rd</sup> quarter winner | 25% of pot   | {{< fpl-h2h-winner "q3" >}}           |
+| 4<sup>th</sup> quarter winner | 25% of pot   | {{< fpl-h2h-winner "q4" >}}           |
 
 ## Payment
 
@@ -76,10 +76,10 @@ include your Team name and Manager name in the description of the Interac e-Tran
 
 ## Standings
 
-{{< fpl-h2h-standings "q1" true>}}
+{{< fpl-h2h-standings "q1" >}}
 <br>
-{{< fpl-h2h-standings "q2" false>}}
+{{< fpl-h2h-standings "q2" >}}
 <br>
-{{< fpl-h2h-standings "q3" false>}}
+{{< fpl-h2h-standings "q3" >}}
 <br>
-{{< fpl-h2h-standings "q4" false>}}
+{{< fpl-h2h-standings "q4" >}}

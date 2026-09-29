@@ -1,4 +1,4 @@
-{{ if (.Get 1)}}
+{{ if eq (.Get 0) (index .Site.Data "fpl-h2h-standings").activeQuarter }}
 <details class="mt-0 rounded-lg rtl:pr-5 ltr:pl-5 ltr:-ml-5 rtl:-mr-5 lg:mt-3" open>
 {{ else }}
 <details class="mt-0 rounded-lg rtl:pr-5 ltr:pl-5 ltr:-ml-5 rtl:-mr-5 lg:mt-3">

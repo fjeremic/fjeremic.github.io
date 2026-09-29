@@ -1,0 +1,1 @@
+{{- with index (index (index .Site.Data "fpl-h2h-standings") "winners") (.Get 0) -}}{{ delimit . ", " }}{{- end -}}

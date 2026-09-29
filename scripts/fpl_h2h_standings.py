@@ -5,6 +5,14 @@ import requests
 import yaml
 
 
+QUARTERS = {
+    'q1': (1, 10),
+    'q2': (11, 19),
+    'q3': (20, 29),
+    'q4': (30, 38),
+}
+
+
 def fetch_json(session, url, description):
     response = session.get(url, timeout=30)
 
@@ -74,6 +82,24 @@ def get_quarter_standings(players, gameweeks):
 
     return standings
 
+def get_quarter_awards(standings, events):
+    finished = {event["id"] for event in events if event["finished"] and event["data_checked"]}
+    winners = {quarter: [] for quarter in QUARTERS}
+    active_quarter = next((quarter for quarter, (start, end) in QUARTERS.items()
+                           if not all(week in finished for week in range(start, end + 1))), 'q4')
+
+    for quarter, (start, end) in QUARTERS.items():
+        if not all(week in finished for week in range(start, end + 1)):
+            continue
+
+        players = [player for player in standings[quarter] if player['teamId'] is not None]
+        if players:
+            best = (players[0]['points'], players[0]['fplPoints'])
+            winners[quarter] = [player['manager'] for player in players
+                                if (player['points'], player['fplPoints']) == best]
+
+    return winners, active_quarter
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
@@ -140,6 +166,12 @@ if __name__ == "__main__":
         'q3': q3_standings,
         'q4': q4_standings,
     }
+
+    logging.debug("Fetching gameweek status")
+    events = fetch_json(session, "https://fantasy.premierleague.com/api/bootstrap-static/", "bootstrap")["events"]
+    winners, active_quarter = get_quarter_awards(fpl_h2h_standings, events)
+    fpl_h2h_standings['winners'] = winners
+    fpl_h2h_standings['activeQuarter'] = active_quarter
 
     logging.debug(f"Generating output to {args.output}")
     
