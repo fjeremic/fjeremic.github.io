@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 1
     points: 12
-    fplPoints: 411
+    fplPoints: 413
   - rank: 2
     teamId: 2621209
     team: WinninThePoo
@@ -16,7 +16,7 @@ q1:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 444
+    fplPoints: 448
   - rank: 3
     teamId: 2980818
     team: BMA
@@ -43,7 +43,7 @@ q1:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 353
+    fplPoints: 357
   - rank: 6
     teamId: 3152948
     team: FK Vikdam
@@ -52,7 +52,7 @@ q1:
     draws: 0
     losses: 2
     points: 9
-    fplPoints: 339
+    fplPoints: 345
   - rank: 7
     teamId: 2368852
     team: Antifa FC
@@ -70,7 +70,7 @@ q1:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 404
+    fplPoints: 406
   - rank: 9
     teamId: 101441
     team: FK Panic
@@ -79,7 +79,7 @@ q1:
     draws: 0
     losses: 3
     points: 6
-    fplPoints: 395
+    fplPoints: 401
   - rank: 10
     teamId: 75617
     team: P A R T I Z A N
@@ -97,7 +97,7 @@ q1:
     draws: 0
     losses: 4
     points: 3
-    fplPoints: 390
+    fplPoints: 392
   - rank: 12
     teamId: 2122818
     team: "Ballon d\u2019Orgu"
