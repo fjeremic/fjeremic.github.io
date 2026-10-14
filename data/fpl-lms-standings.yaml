@@ -46,5 +46,8 @@ h1:
   - gameweek: 5
     eliminated: []
     remaining: 10
+  - gameweek: 6
+    eliminated: []
+    remaining: 10
   winner: null
 h2: {}
