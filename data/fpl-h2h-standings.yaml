@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 1
     points: 15
-    fplPoints: 413
+    fplPoints: 445
   - rank: 2
     teamId: 2621209
     team: WinninThePoo
@@ -16,7 +16,7 @@ q1:
     draws: 0
     losses: 2
     points: 12
-    fplPoints: 448
+    fplPoints: 453
   - rank: 3
     teamId: 102814
     team: BMA
@@ -25,17 +25,8 @@ q1:
     draws: 0
     losses: 2
     points: 12
-    fplPoints: 412
+    fplPoints: 432
   - rank: 4
-    teamId: 2980818
-    team: BMA
-    manager: Danijel Avlijas
-    wins: 3
-    draws: 0
-    losses: 3
-    points: 9
-    fplPoints: 413
-  - rank: 5
     teamId: 101441
     team: FK Panic
     manager: Stefan Panic
@@ -43,7 +34,16 @@ q1:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 401
+    fplPoints: 446
+  - rank: 5
+    teamId: 2980818
+    team: BMA
+    manager: Danijel Avlijas
+    wins: 3
+    draws: 0
+    losses: 3
+    points: 9
+    fplPoints: 440
   - rank: 6
     teamId: 75617
     team: P A R T I Z A N
@@ -52,7 +52,7 @@ q1:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 394
+    fplPoints: 413
   - rank: 7
     teamId: null
     team: AVERAGE
@@ -61,7 +61,7 @@ q1:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 357
+    fplPoints: 386
   - rank: 8
     teamId: 3152948
     team: FK Vikdam
@@ -70,7 +70,7 @@ q1:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 345
+    fplPoints: 378
   - rank: 9
     teamId: 2368852
     team: Antifa FC
@@ -79,7 +79,7 @@ q1:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 337
+    fplPoints: 363
   - rank: 10
     teamId: 1116386
     team: YNWA
@@ -88,7 +88,7 @@ q1:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 406
+    fplPoints: 451
   - rank: 11
     teamId: 2122818
     team: "Ballon d\u2019Orgu"
@@ -97,7 +97,7 @@ q1:
     draws: 0
     losses: 4
     points: 6
-    fplPoints: 369
+    fplPoints: 401
   - rank: 12
     teamId: 5265020
     team: Rolo FC
@@ -106,7 +106,7 @@ q1:
     draws: 0
     losses: 5
     points: 3
-    fplPoints: 392
+    fplPoints: 426
 q2:
   - rank: 1
     teamId: 130400
