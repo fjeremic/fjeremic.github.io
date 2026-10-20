@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 1
     points: 15
-    fplPoints: 484
+    fplPoints: 486
   - rank: 2
     teamId: 2621209
     team: WinninThePoo
@@ -19,14 +19,23 @@ q1:
     fplPoints: 487
   - rank: 3
     teamId: 102814
-    team: BMA
-    manager: Baddest Man Alive
+    team: DeeKay
+    manager: Dee Kay
     wins: 4
     draws: 0
     losses: 2
     points: 12
     fplPoints: 463
   - rank: 4
+    teamId: 2980818
+    team: BMA
+    manager: Danijel Avlijas
+    wins: 3
+    draws: 0
+    losses: 3
+    points: 9
+    fplPoints: 482
+  - rank: 5
     teamId: 101441
     team: FK Panic
     manager: Stefan Panic
@@ -35,15 +44,6 @@ q1:
     losses: 3
     points: 9
     fplPoints: 481
-  - rank: 5
-    teamId: 2980818
-    team: BMA
-    manager: Danijel Avlijas
-    wins: 3
-    draws: 0
-    losses: 3
-    points: 9
-    fplPoints: 474
   - rank: 6
     teamId: 75617
     team: P A R T I Z A N
@@ -52,7 +52,7 @@ q1:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 428
+    fplPoints: 438
   - rank: 7
     teamId: null
     team: AVERAGE
@@ -61,8 +61,17 @@ q1:
     draws: 0
     losses: 3
     points: 9
-    fplPoints: 412
+    fplPoints: 413
   - rank: 8
+    teamId: 3152948
+    team: FK Vikdam
+    manager: Juka Alimanovic
+    wins: 3
+    draws: 0
+    losses: 3
+    points: 9
+    fplPoints: 396
+  - rank: 9
     teamId: 2368852
     team: Antifa FC
     manager: Joe Costa
@@ -71,15 +80,6 @@ q1:
     losses: 3
     points: 9
     fplPoints: 390
-  - rank: 9
-    teamId: 3152948
-    team: FK Vikdam
-    manager: Juka Alimanovic
-    wins: 3
-    draws: 0
-    losses: 3
-    points: 9
-    fplPoints: 388
   - rank: 10
     teamId: 1116386
     team: YNWA
@@ -128,8 +128,8 @@ q2:
     fplPoints: 0
   - rank: 3
     teamId: 102814
-    team: BMA
-    manager: Baddest Man Alive
+    team: DeeKay
+    manager: Dee Kay
     wins: 0
     draws: 0
     losses: 0
@@ -237,8 +237,8 @@ q3:
     fplPoints: 0
   - rank: 3
     teamId: 102814
-    team: BMA
-    manager: Baddest Man Alive
+    team: DeeKay
+    manager: Dee Kay
     wins: 0
     draws: 0
     losses: 0
@@ -346,8 +346,8 @@ q4:
     fplPoints: 0
   - rank: 3
     teamId: 102814
-    team: BMA
-    manager: Baddest Man Alive
+    team: DeeKay
+    manager: Dee Kay
     wins: 0
     draws: 0
     losses: 0
