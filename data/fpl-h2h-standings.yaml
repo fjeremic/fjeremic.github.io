@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 1
     points: 18
-    fplPoints: 486
+    fplPoints: 488
   - rank: 2
     teamId: 2621209
     team: WinninThePoo
@@ -16,7 +16,7 @@ q1:
     draws: 0
     losses: 2
     points: 15
-    fplPoints: 501
+    fplPoints: 511
   - rank: 3
     teamId: 101441
     team: FK Panic
@@ -25,7 +25,7 @@ q1:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 485
+    fplPoints: 487
   - rank: 4
     teamId: 102814
     team: DeeKay
@@ -43,7 +43,7 @@ q1:
     draws: 0
     losses: 3
     points: 12
-    fplPoints: 416
+    fplPoints: 417
   - rank: 6
     teamId: 2980818
     team: BMA
@@ -52,7 +52,7 @@ q1:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 483
+    fplPoints: 487
   - rank: 7
     teamId: 1116386
     team: YNWA
@@ -70,17 +70,8 @@ q1:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 447
+    fplPoints: 443
   - rank: 9
-    teamId: 2368852
-    team: Antifa FC
-    manager: Joe Costa
-    wins: 3
-    draws: 0
-    losses: 4
-    points: 9
-    fplPoints: 396
-  - rank: 10
     teamId: 3152948
     team: FK Vikdam
     manager: Juka Alimanovic
@@ -88,7 +79,16 @@ q1:
     draws: 0
     losses: 4
     points: 9
-    fplPoints: 396
+    fplPoints: 398
+  - rank: 10
+    teamId: 2368852
+    team: Antifa FC
+    manager: Joe Costa
+    wins: 3
+    draws: 0
+    losses: 4
+    points: 9
+    fplPoints: 392
   - rank: 11
     teamId: 5265020
     team: Rolo FC
@@ -106,7 +106,7 @@ q1:
     draws: 0
     losses: 5
     points: 6
-    fplPoints: 428
+    fplPoints: 426
 q2:
   - rank: 1
     teamId: 130400
