@@ -3,10 +3,10 @@ q1:
     teamId: 130400
     team: JFC
     manager: Filip Jeremic
-    wins: 6
+    wins: 7
     draws: 0
     losses: 1
-    points: 18
+    points: 21
     fplPoints: 548
   - rank: 2
     teamId: 2621209
@@ -14,97 +14,97 @@ q1:
     manager: D Lukic
     wins: 5
     draws: 0
-    losses: 2
+    losses: 3
     points: 15
     fplPoints: 556
   - rank: 3
+    teamId: 102814
+    team: DeeKay
+    manager: Dee Kay
+    wins: 5
+    draws: 0
+    losses: 3
+    points: 15
+    fplPoints: 506
+  - rank: 4
+    teamId: null
+    team: AVERAGE
+    manager: AVERAGE
+    wins: 5
+    draws: 0
+    losses: 3
+    points: 15
+    fplPoints: 461
+  - rank: 5
     teamId: 101441
     team: FK Panic
     manager: Stefan Panic
     wins: 4
     draws: 0
-    losses: 3
+    losses: 4
     points: 12
     fplPoints: 530
-  - rank: 4
-    teamId: 102814
-    team: DeeKay
-    manager: Dee Kay
-    wins: 4
-    draws: 0
-    losses: 3
-    points: 12
-    fplPoints: 506
-  - rank: 5
-    teamId: null
-    team: AVERAGE
-    manager: AVERAGE
-    wins: 4
-    draws: 0
-    losses: 3
-    points: 12
-    fplPoints: 461
   - rank: 6
     teamId: 2980818
     team: BMA
     manager: Danijel Avlijas
-    wins: 3
+    wins: 4
     draws: 0
     losses: 4
-    points: 9
+    points: 12
     fplPoints: 517
   - rank: 7
+    teamId: 3152948
+    team: FK Vikdam
+    manager: Juka Alimanovic
+    wins: 4
+    draws: 0
+    losses: 4
+    points: 12
+    fplPoints: 445
+  - rank: 8
+    teamId: 5265020
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 3
+    draws: 0
+    losses: 5
+    points: 9
+    fplPoints: 507
+  - rank: 9
     teamId: 1116386
     team: YNWA
     manager: Uros Nikolic
     wins: 3
     draws: 0
-    losses: 4
+    losses: 5
     points: 9
     fplPoints: 500
-  - rank: 8
+  - rank: 10
     teamId: 75617
     team: P A R T I Z A N
     manager: Bojan Samardzija
     wins: 3
     draws: 0
-    losses: 4
+    losses: 5
     points: 9
     fplPoints: 486
-  - rank: 9
-    teamId: 3152948
-    team: FK Vikdam
-    manager: Juka Alimanovic
-    wins: 3
-    draws: 0
-    losses: 4
-    points: 9
-    fplPoints: 445
-  - rank: 10
+  - rank: 11
     teamId: 2368852
     team: Antifa FC
     manager: Joe Costa
     wins: 3
     draws: 0
-    losses: 4
+    losses: 5
     points: 9
     fplPoints: 427
-  - rank: 11
-    teamId: 5265020
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 2
-    draws: 0
-    losses: 5
-    points: 6
-    fplPoints: 507
   - rank: 12
     teamId: 2122818
     team: "Ballon d\u2019Orgu"
     manager: Ilija Milisic
     wins: 2
     draws: 0
-    losses: 5
+    losses: 6
     points: 6
     fplPoints: 455
 q2:
@@ -127,15 +127,6 @@ q2:
     points: 0
     fplPoints: 0
   - rank: 3
-    teamId: 101441
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 4
     teamId: 102814
     team: DeeKay
     manager: Dee Kay
@@ -144,10 +135,19 @@ q2:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 5
+  - rank: 4
     teamId: null
     team: AVERAGE
     manager: AVERAGE
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 5
+    teamId: 101441
+    team: FK Panic
+    manager: Stefan Panic
     wins: 0
     draws: 0
     losses: 0
@@ -163,33 +163,6 @@ q2:
     points: 0
     fplPoints: 0
   - rank: 7
-    teamId: 1116386
-    team: YNWA
-    manager: Uros Nikolic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 8
-    teamId: 75617
-    team: P A R T I Z A N
-    manager: Bojan Samardzija
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 9
-    teamId: 2368852
-    team: Antifa FC
-    manager: Joe Costa
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 10
     teamId: 3152948
     team: FK Vikdam
     manager: Juka Alimanovic
@@ -198,10 +171,37 @@ q2:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 11
+  - rank: 8
     teamId: 5265020
     team: Rolo FC
     manager: Branko Oluic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 9
+    teamId: 1116386
+    team: YNWA
+    manager: Uros Nikolic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 10
+    teamId: 75617
+    team: P A R T I Z A N
+    manager: Bojan Samardzija
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 11
+    teamId: 2368852
+    team: Antifa FC
+    manager: Joe Costa
     wins: 0
     draws: 0
     losses: 0
@@ -236,15 +236,6 @@ q3:
     points: 0
     fplPoints: 0
   - rank: 3
-    teamId: 101441
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 4
     teamId: 102814
     team: DeeKay
     manager: Dee Kay
@@ -253,10 +244,19 @@ q3:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 5
+  - rank: 4
     teamId: null
     team: AVERAGE
     manager: AVERAGE
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 5
+    teamId: 101441
+    team: FK Panic
+    manager: Stefan Panic
     wins: 0
     draws: 0
     losses: 0
@@ -272,33 +272,6 @@ q3:
     points: 0
     fplPoints: 0
   - rank: 7
-    teamId: 1116386
-    team: YNWA
-    manager: Uros Nikolic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 8
-    teamId: 75617
-    team: P A R T I Z A N
-    manager: Bojan Samardzija
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 9
-    teamId: 2368852
-    team: Antifa FC
-    manager: Joe Costa
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 10
     teamId: 3152948
     team: FK Vikdam
     manager: Juka Alimanovic
@@ -307,10 +280,37 @@ q3:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 11
+  - rank: 8
     teamId: 5265020
     team: Rolo FC
     manager: Branko Oluic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 9
+    teamId: 1116386
+    team: YNWA
+    manager: Uros Nikolic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 10
+    teamId: 75617
+    team: P A R T I Z A N
+    manager: Bojan Samardzija
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 11
+    teamId: 2368852
+    team: Antifa FC
+    manager: Joe Costa
     wins: 0
     draws: 0
     losses: 0
@@ -345,15 +345,6 @@ q4:
     points: 0
     fplPoints: 0
   - rank: 3
-    teamId: 101441
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 4
     teamId: 102814
     team: DeeKay
     manager: Dee Kay
@@ -362,10 +353,19 @@ q4:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 5
+  - rank: 4
     teamId: null
     team: AVERAGE
     manager: AVERAGE
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 5
+    teamId: 101441
+    team: FK Panic
+    manager: Stefan Panic
     wins: 0
     draws: 0
     losses: 0
@@ -381,33 +381,6 @@ q4:
     points: 0
     fplPoints: 0
   - rank: 7
-    teamId: 1116386
-    team: YNWA
-    manager: Uros Nikolic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 8
-    teamId: 75617
-    team: P A R T I Z A N
-    manager: Bojan Samardzija
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 9
-    teamId: 2368852
-    team: Antifa FC
-    manager: Joe Costa
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 10
     teamId: 3152948
     team: FK Vikdam
     manager: Juka Alimanovic
@@ -416,10 +389,37 @@ q4:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 11
+  - rank: 8
     teamId: 5265020
     team: Rolo FC
     manager: Branko Oluic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 9
+    teamId: 1116386
+    team: YNWA
+    manager: Uros Nikolic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 10
+    teamId: 75617
+    team: P A R T I Z A N
+    manager: Bojan Samardzija
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 11
+    teamId: 2368852
+    team: Antifa FC
+    manager: Joe Costa
     wins: 0
     draws: 0
     losses: 0
