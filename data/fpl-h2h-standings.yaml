@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 1
     points: 21
-    fplPoints: 601
+    fplPoints: 608
   - rank: 2
     teamId: 2621209
     team: WinninThePoo
@@ -16,7 +16,7 @@ q1:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 628
+    fplPoints: 626
   - rank: 3
     teamId: 102814
     team: DeeKay
@@ -25,7 +25,7 @@ q1:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 552
+    fplPoints: 550
   - rank: 4
     teamId: null
     team: AVERAGE
@@ -34,7 +34,7 @@ q1:
     draws: 0
     losses: 3
     points: 15
-    fplPoints: 503
+    fplPoints: 508
   - rank: 5
     teamId: 101441
     team: FK Panic
@@ -43,7 +43,7 @@ q1:
     draws: 0
     losses: 4
     points: 12
-    fplPoints: 584
+    fplPoints: 586
   - rank: 6
     teamId: 2980818
     team: BMA
@@ -63,6 +63,15 @@ q1:
     points: 12
     fplPoints: 480
   - rank: 8
+    teamId: 5265020
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 3
+    draws: 0
+    losses: 5
+    points: 9
+    fplPoints: 562
+  - rank: 9
     teamId: 1116386
     team: YNWA
     manager: Uros Nikolic
@@ -71,15 +80,6 @@ q1:
     losses: 5
     points: 9
     fplPoints: 562
-  - rank: 9
-    teamId: 5265020
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 3
-    draws: 0
-    losses: 5
-    points: 9
-    fplPoints: 560
   - rank: 10
     teamId: 75617
     team: P A R T I Z A N
@@ -88,7 +88,7 @@ q1:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 559
+    fplPoints: 558
   - rank: 11
     teamId: 2368852
     team: Antifa FC
@@ -97,7 +97,7 @@ q1:
     draws: 0
     losses: 5
     points: 9
-    fplPoints: 462
+    fplPoints: 470
   - rank: 12
     teamId: 2122818
     team: "Ballon d\u2019Orgu"
@@ -106,7 +106,7 @@ q1:
     draws: 0
     losses: 6
     points: 6
-    fplPoints: 497
+    fplPoints: 495
 q2:
   - rank: 1
     teamId: 130400
