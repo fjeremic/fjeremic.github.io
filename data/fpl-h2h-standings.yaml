@@ -5,7 +5,7 @@ q1:
     manager: Filip Jeremic
     wins: 7
     draws: 0
-    losses: 1
+    losses: 2
     points: 21
     fplPoints: 608
   - rank: 2
@@ -14,99 +14,99 @@ q1:
     manager: D Lukic
     wins: 5
     draws: 0
-    losses: 3
+    losses: 4
     points: 15
     fplPoints: 626
   - rank: 3
+    teamId: 101441
+    team: FK Panic
+    manager: Stefan Panic
+    wins: 5
+    draws: 0
+    losses: 4
+    points: 15
+    fplPoints: 586
+  - rank: 4
+    teamId: 2980818
+    team: BMA
+    manager: Danijel Avlijas
+    wins: 5
+    draws: 0
+    losses: 4
+    points: 15
+    fplPoints: 583
+  - rank: 5
     teamId: 102814
     team: DeeKay
     manager: Dee Kay
     wins: 5
     draws: 0
-    losses: 3
+    losses: 4
     points: 15
     fplPoints: 550
-  - rank: 4
+  - rank: 6
     teamId: null
     team: AVERAGE
     manager: AVERAGE
     wins: 5
     draws: 0
-    losses: 3
+    losses: 4
     points: 15
     fplPoints: 508
-  - rank: 5
-    teamId: 101441
-    team: FK Panic
-    manager: Stefan Panic
-    wins: 4
-    draws: 0
-    losses: 4
-    points: 12
-    fplPoints: 586
-  - rank: 6
-    teamId: 2980818
-    team: BMA
-    manager: Danijel Avlijas
-    wins: 4
-    draws: 0
-    losses: 4
-    points: 12
-    fplPoints: 583
   - rank: 7
+    teamId: 1116386
+    team: YNWA
+    manager: Uros Nikolic
+    wins: 4
+    draws: 0
+    losses: 5
+    points: 12
+    fplPoints: 562
+  - rank: 8
+    teamId: 5265020
+    team: Rolo FC
+    manager: Branko Oluic
+    wins: 4
+    draws: 0
+    losses: 5
+    points: 12
+    fplPoints: 562
+  - rank: 9
+    teamId: 75617
+    team: P A R T I Z A N
+    manager: Bojan Samardzija
+    wins: 4
+    draws: 0
+    losses: 5
+    points: 12
+    fplPoints: 558
+  - rank: 10
     teamId: 3152948
     team: FK Vikdam
     manager: Juka Alimanovic
     wins: 4
     draws: 0
-    losses: 4
+    losses: 5
     points: 12
     fplPoints: 480
-  - rank: 8
-    teamId: 5265020
-    team: Rolo FC
-    manager: Branko Oluic
-    wins: 3
-    draws: 0
-    losses: 5
-    points: 9
-    fplPoints: 562
-  - rank: 9
-    teamId: 1116386
-    team: YNWA
-    manager: Uros Nikolic
-    wins: 3
-    draws: 0
-    losses: 5
-    points: 9
-    fplPoints: 562
-  - rank: 10
-    teamId: 75617
-    team: P A R T I Z A N
-    manager: Bojan Samardzija
-    wins: 3
-    draws: 0
-    losses: 5
-    points: 9
-    fplPoints: 558
   - rank: 11
+    teamId: 2122818
+    team: "Ballon d\u2019Orgu"
+    manager: Ilija Milisic
+    wins: 3
+    draws: 0
+    losses: 6
+    points: 9
+    fplPoints: 495
+  - rank: 12
     teamId: 2368852
     team: Antifa FC
     manager: Joe Costa
     wins: 3
     draws: 0
-    losses: 5
+    losses: 6
     points: 9
     fplPoints: 470
-  - rank: 12
-    teamId: 2122818
-    team: "Ballon d\u2019Orgu"
-    manager: Ilija Milisic
-    wins: 2
-    draws: 0
-    losses: 6
-    points: 6
-    fplPoints: 495
 q2:
   - rank: 1
     teamId: 130400
@@ -127,24 +127,6 @@ q2:
     points: 0
     fplPoints: 0
   - rank: 3
-    teamId: 102814
-    team: DeeKay
-    manager: Dee Kay
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 4
-    teamId: null
-    team: AVERAGE
-    manager: AVERAGE
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 5
     teamId: 101441
     team: FK Panic
     manager: Stefan Panic
@@ -153,7 +135,7 @@ q2:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 6
+  - rank: 4
     teamId: 2980818
     team: BMA
     manager: Danijel Avlijas
@@ -162,10 +144,28 @@ q2:
     losses: 0
     points: 0
     fplPoints: 0
+  - rank: 5
+    teamId: 102814
+    team: DeeKay
+    manager: Dee Kay
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 6
+    teamId: null
+    team: AVERAGE
+    manager: AVERAGE
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
   - rank: 7
-    teamId: 3152948
-    team: FK Vikdam
-    manager: Juka Alimanovic
+    teamId: 1116386
+    team: YNWA
+    manager: Uros Nikolic
     wins: 0
     draws: 0
     losses: 0
@@ -181,15 +181,6 @@ q2:
     points: 0
     fplPoints: 0
   - rank: 9
-    teamId: 1116386
-    team: YNWA
-    manager: Uros Nikolic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 10
     teamId: 75617
     team: P A R T I Z A N
     manager: Bojan Samardzija
@@ -198,19 +189,28 @@ q2:
     losses: 0
     points: 0
     fplPoints: 0
+  - rank: 10
+    teamId: 3152948
+    team: FK Vikdam
+    manager: Juka Alimanovic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
   - rank: 11
-    teamId: 2368852
-    team: Antifa FC
-    manager: Joe Costa
+    teamId: 2122818
+    team: "Ballon d\u2019Orgu"
+    manager: Ilija Milisic
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
   - rank: 12
-    teamId: 2122818
-    team: "Ballon d\u2019Orgu"
-    manager: Ilija Milisic
+    teamId: 2368852
+    team: Antifa FC
+    manager: Joe Costa
     wins: 0
     draws: 0
     losses: 0
@@ -236,24 +236,6 @@ q3:
     points: 0
     fplPoints: 0
   - rank: 3
-    teamId: 102814
-    team: DeeKay
-    manager: Dee Kay
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 4
-    teamId: null
-    team: AVERAGE
-    manager: AVERAGE
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 5
     teamId: 101441
     team: FK Panic
     manager: Stefan Panic
@@ -262,7 +244,7 @@ q3:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 6
+  - rank: 4
     teamId: 2980818
     team: BMA
     manager: Danijel Avlijas
@@ -271,10 +253,28 @@ q3:
     losses: 0
     points: 0
     fplPoints: 0
+  - rank: 5
+    teamId: 102814
+    team: DeeKay
+    manager: Dee Kay
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 6
+    teamId: null
+    team: AVERAGE
+    manager: AVERAGE
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
   - rank: 7
-    teamId: 3152948
-    team: FK Vikdam
-    manager: Juka Alimanovic
+    teamId: 1116386
+    team: YNWA
+    manager: Uros Nikolic
     wins: 0
     draws: 0
     losses: 0
@@ -290,15 +290,6 @@ q3:
     points: 0
     fplPoints: 0
   - rank: 9
-    teamId: 1116386
-    team: YNWA
-    manager: Uros Nikolic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 10
     teamId: 75617
     team: P A R T I Z A N
     manager: Bojan Samardzija
@@ -307,19 +298,28 @@ q3:
     losses: 0
     points: 0
     fplPoints: 0
+  - rank: 10
+    teamId: 3152948
+    team: FK Vikdam
+    manager: Juka Alimanovic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
   - rank: 11
-    teamId: 2368852
-    team: Antifa FC
-    manager: Joe Costa
+    teamId: 2122818
+    team: "Ballon d\u2019Orgu"
+    manager: Ilija Milisic
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
   - rank: 12
-    teamId: 2122818
-    team: "Ballon d\u2019Orgu"
-    manager: Ilija Milisic
+    teamId: 2368852
+    team: Antifa FC
+    manager: Joe Costa
     wins: 0
     draws: 0
     losses: 0
@@ -345,24 +345,6 @@ q4:
     points: 0
     fplPoints: 0
   - rank: 3
-    teamId: 102814
-    team: DeeKay
-    manager: Dee Kay
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 4
-    teamId: null
-    team: AVERAGE
-    manager: AVERAGE
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 5
     teamId: 101441
     team: FK Panic
     manager: Stefan Panic
@@ -371,7 +353,7 @@ q4:
     losses: 0
     points: 0
     fplPoints: 0
-  - rank: 6
+  - rank: 4
     teamId: 2980818
     team: BMA
     manager: Danijel Avlijas
@@ -380,10 +362,28 @@ q4:
     losses: 0
     points: 0
     fplPoints: 0
+  - rank: 5
+    teamId: 102814
+    team: DeeKay
+    manager: Dee Kay
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
+  - rank: 6
+    teamId: null
+    team: AVERAGE
+    manager: AVERAGE
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
   - rank: 7
-    teamId: 3152948
-    team: FK Vikdam
-    manager: Juka Alimanovic
+    teamId: 1116386
+    team: YNWA
+    manager: Uros Nikolic
     wins: 0
     draws: 0
     losses: 0
@@ -399,15 +399,6 @@ q4:
     points: 0
     fplPoints: 0
   - rank: 9
-    teamId: 1116386
-    team: YNWA
-    manager: Uros Nikolic
-    wins: 0
-    draws: 0
-    losses: 0
-    points: 0
-    fplPoints: 0
-  - rank: 10
     teamId: 75617
     team: P A R T I Z A N
     manager: Bojan Samardzija
@@ -416,19 +407,28 @@ q4:
     losses: 0
     points: 0
     fplPoints: 0
+  - rank: 10
+    teamId: 3152948
+    team: FK Vikdam
+    manager: Juka Alimanovic
+    wins: 0
+    draws: 0
+    losses: 0
+    points: 0
+    fplPoints: 0
   - rank: 11
-    teamId: 2368852
-    team: Antifa FC
-    manager: Joe Costa
+    teamId: 2122818
+    team: "Ballon d\u2019Orgu"
+    manager: Ilija Milisic
     wins: 0
     draws: 0
     losses: 0
     points: 0
     fplPoints: 0
   - rank: 12
-    teamId: 2122818
-    team: "Ballon d\u2019Orgu"
-    manager: Ilija Milisic
+    teamId: 2368852
+    team: Antifa FC
+    manager: Joe Costa
     wins: 0
     draws: 0
     losses: 0
