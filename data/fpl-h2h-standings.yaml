@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 2
     points: 21
-    fplPoints: 608
+    fplPoints: 624
   - rank: 2
     teamId: 2621209
     team: WinninThePoo
@@ -18,6 +18,15 @@ q1:
     points: 15
     fplPoints: 626
   - rank: 3
+    teamId: 2980818
+    team: BMA
+    manager: Danijel Avlijas
+    wins: 5
+    draws: 0
+    losses: 4
+    points: 15
+    fplPoints: 592
+  - rank: 4
     teamId: 101441
     team: FK Panic
     manager: Stefan Panic
@@ -26,15 +35,6 @@ q1:
     losses: 4
     points: 15
     fplPoints: 586
-  - rank: 4
-    teamId: 2980818
-    team: BMA
-    manager: Danijel Avlijas
-    wins: 5
-    draws: 0
-    losses: 4
-    points: 15
-    fplPoints: 583
   - rank: 5
     teamId: 102814
     team: DeeKay
@@ -43,7 +43,7 @@ q1:
     draws: 0
     losses: 4
     points: 15
-    fplPoints: 550
+    fplPoints: 546
   - rank: 6
     teamId: null
     team: AVERAGE
@@ -52,7 +52,7 @@ q1:
     draws: 0
     losses: 4
     points: 15
-    fplPoints: 508
+    fplPoints: 510
   - rank: 7
     teamId: 1116386
     team: YNWA
@@ -79,7 +79,7 @@ q1:
     draws: 0
     losses: 5
     points: 12
-    fplPoints: 558
+    fplPoints: 554
   - rank: 10
     teamId: 3152948
     team: FK Vikdam
@@ -88,7 +88,7 @@ q1:
     draws: 0
     losses: 5
     points: 12
-    fplPoints: 480
+    fplPoints: 481
   - rank: 11
     teamId: 2122818
     team: "Ballon d\u2019Orgu"
@@ -106,7 +106,7 @@ q1:
     draws: 0
     losses: 6
     points: 9
-    fplPoints: 470
+    fplPoints: 466
 q2:
   - rank: 1
     teamId: 130400
