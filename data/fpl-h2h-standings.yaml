@@ -7,7 +7,7 @@ q1:
     draws: 0
     losses: 2
     points: 21
-    fplPoints: 624
+    fplPoints: 644
   - rank: 2
     teamId: 2621209
     team: WinninThePoo
@@ -16,7 +16,7 @@ q1:
     draws: 0
     losses: 4
     points: 15
-    fplPoints: 626
+    fplPoints: 648
   - rank: 3
     teamId: 2980818
     team: BMA
@@ -25,7 +25,7 @@ q1:
     draws: 0
     losses: 4
     points: 15
-    fplPoints: 592
+    fplPoints: 627
   - rank: 4
     teamId: 101441
     team: FK Panic
@@ -34,7 +34,7 @@ q1:
     draws: 0
     losses: 4
     points: 15
-    fplPoints: 586
+    fplPoints: 617
   - rank: 5
     teamId: 102814
     team: DeeKay
@@ -43,7 +43,7 @@ q1:
     draws: 0
     losses: 4
     points: 15
-    fplPoints: 546
+    fplPoints: 591
   - rank: 6
     teamId: null
     team: AVERAGE
@@ -52,17 +52,8 @@ q1:
     draws: 0
     losses: 4
     points: 15
-    fplPoints: 510
+    fplPoints: 533
   - rank: 7
-    teamId: 1116386
-    team: YNWA
-    manager: Uros Nikolic
-    wins: 4
-    draws: 0
-    losses: 5
-    points: 12
-    fplPoints: 562
-  - rank: 8
     teamId: 5265020
     team: Rolo FC
     manager: Branko Oluic
@@ -70,7 +61,16 @@ q1:
     draws: 0
     losses: 5
     points: 12
-    fplPoints: 562
+    fplPoints: 590
+  - rank: 8
+    teamId: 1116386
+    team: YNWA
+    manager: Uros Nikolic
+    wins: 4
+    draws: 0
+    losses: 5
+    points: 12
+    fplPoints: 574
   - rank: 9
     teamId: 75617
     team: P A R T I Z A N
@@ -79,7 +79,7 @@ q1:
     draws: 0
     losses: 5
     points: 12
-    fplPoints: 554
+    fplPoints: 572
   - rank: 10
     teamId: 3152948
     team: FK Vikdam
@@ -88,7 +88,7 @@ q1:
     draws: 0
     losses: 5
     points: 12
-    fplPoints: 481
+    fplPoints: 509
   - rank: 11
     teamId: 2122818
     team: "Ballon d\u2019Orgu"
@@ -97,7 +97,7 @@ q1:
     draws: 0
     losses: 6
     points: 9
-    fplPoints: 495
+    fplPoints: 520
   - rank: 12
     teamId: 2368852
     team: Antifa FC
@@ -106,7 +106,7 @@ q1:
     draws: 0
     losses: 6
     points: 9
-    fplPoints: 466
+    fplPoints: 503
 q2:
   - rank: 1
     teamId: 130400
