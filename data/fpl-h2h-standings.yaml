@@ -435,8 +435,9 @@ q4:
     points: 0
     fplPoints: 0
 winners:
-  q1: []
+  q1:
+    - Filip Jeremic
   q2: []
   q3: []
   q4: []
-activeQuarter: q1
+activeQuarter: q2
