@@ -15,7 +15,8 @@ h1:
   - entry: 167189
     team: AJMO CA
     manager: todor beric
-  - entry: 101441
+  - &id001
+    entry: 101441
     team: FK Panic
     manager: Stefan Panic
   - entry: 75617
@@ -61,5 +62,9 @@ h1:
   - gameweek: 10
     eliminated: []
     remaining: 10
+  - gameweek: 11
+    eliminated:
+    - *id001
+    remaining: 9
   winner: null
 h2: {}
