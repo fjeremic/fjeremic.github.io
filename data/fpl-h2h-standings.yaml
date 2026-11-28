@@ -109,6 +109,15 @@ q1:
     fplPoints: 550
 q2:
   - rank: 1
+    teamId: 130400
+    team: JFC
+    manager: Filip Jeremic
+    wins: 1
+    draws: 0
+    losses: 0
+    points: 3
+    fplPoints: 54
+  - rank: 2
     teamId: 2621209
     team: WinninThePoo
     manager: D Lukic
@@ -116,8 +125,8 @@ q2:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 50
-  - rank: 2
+    fplPoints: 52
+  - rank: 3
     teamId: 2980818
     team: BMA
     manager: Danijel Avlijas
@@ -125,8 +134,8 @@ q2:
     draws: 0
     losses: 0
     points: 3
-    fplPoints: 48
-  - rank: 3
+    fplPoints: 50
+  - rank: 4
     teamId: 3152948
     team: FK Vikdam
     manager: Juka Alimanovic
@@ -135,7 +144,7 @@ q2:
     losses: 0
     points: 3
     fplPoints: 39
-  - rank: 4
+  - rank: 5
     teamId: 2122818
     team: "Ballon d\u2019Orgu"
     manager: Ilija Milisic
@@ -144,15 +153,6 @@ q2:
     losses: 0
     points: 3
     fplPoints: 38
-  - rank: 5
-    teamId: 130400
-    team: JFC
-    manager: Filip Jeremic
-    wins: 1
-    draws: 0
-    losses: 0
-    points: 3
-    fplPoints: 37
   - rank: 6
     teamId: 5265020
     team: Rolo FC
@@ -163,6 +163,15 @@ q2:
     points: 3
     fplPoints: 28
   - rank: 7
+    teamId: 101441
+    team: FK Panic
+    manager: Stefan Panic
+    wins: 0
+    draws: 0
+    losses: 1
+    points: 0
+    fplPoints: 41
+  - rank: 8
     teamId: 75617
     team: P A R T I Z A N
     manager: Bojan Samardzija
@@ -170,8 +179,8 @@ q2:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 43
-  - rank: 8
+    fplPoints: 41
+  - rank: 9
     teamId: null
     team: AVERAGE
     manager: AVERAGE
@@ -179,8 +188,8 @@ q2:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 35
-  - rank: 9
+    fplPoints: 38
+  - rank: 10
     teamId: 1116386
     team: YNWA
     manager: Uros Nikolic
@@ -188,20 +197,11 @@ q2:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 32
-  - rank: 10
+    fplPoints: 36
+  - rank: 11
     teamId: 2368852
     team: Antifa FC
     manager: Joe Costa
-    wins: 0
-    draws: 0
-    losses: 1
-    points: 0
-    fplPoints: 28
-  - rank: 11
-    teamId: 101441
-    team: FK Panic
-    manager: Stefan Panic
     wins: 0
     draws: 0
     losses: 1
@@ -215,7 +215,7 @@ q2:
     draws: 0
     losses: 1
     points: 0
-    fplPoints: 21
+    fplPoints: 11
 q3:
   - rank: 1
     teamId: 130400
